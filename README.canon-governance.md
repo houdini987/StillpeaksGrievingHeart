@@ -37,6 +37,33 @@ All future scene packets should follow the same standardized format and ordering
 10. DM Reference Sidebar
 11. Map Reference
 
+### Scene Packet Section Anchors (Required Standard)
+
+All Scene Packets must include explicit section anchors to ensure precise, low-risk updates.
+
+Each major section header must follow this format:
+
+## [SP-#] Section Name
+
+Example:
+
+## [SP-1] At-a-Glance Summary
+## [SP-2] Narrative Setup
+## [SP-3] Read-Aloud Scene Introduction
+## [SP-4] Environment Overview
+## [SP-5] Running the Location
+## [SP-6] Encounter Modules
+## [SP-7] Player Curiosity Hooks
+## [SP-8] Escalation Signal
+## [SP-9] Rewards / Discoveries
+## [SP-10] DM Reference Sidebar
+## [SP-11] Map Reference
+
+Rules:
+- Anchors must remain stable once created
+- Section names must not be changed without explicit refactor
+- All future edits must reference section anchors, not just titles
+
 ## Authoring Standards
 
 - Preserve restrained tone and avoid melodramatic escalation.
