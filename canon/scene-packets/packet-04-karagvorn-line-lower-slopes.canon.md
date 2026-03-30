@@ -336,6 +336,110 @@ This obstacle should confirm all of the following:
 - normal tools and assumptions can no longer be trusted in the same way
 - continuing forward remains the only sensible choice
 
+### Encounter Summary Box — The Fallen Climber
+
+**Type:** Optional mystery discovery / human residue / forward clue  
+**Goal:** Add a personal trace of loss beyond the Karagvorn Line and introduce a plot item that implies unfinished route knowledge higher on the mountain  
+**Primary Tension:** Was this climber merely lost, or carrying knowledge someone never meant to bring back?  
+**Outcome:** The party recovers a strange route marker item and gains a deeper sense that the mountain’s pattern reaches beyond random death
+
+### The Fallen Climber
+
+Not far beyond the shelf crossing, the trail widens around a shallow bend where wind-driven snow has piled into a long uneven drift against exposed black stone.
+
+Something is buried there.
+
+At first it looks like a snapped branch or half-covered pack frame. But beneath the drift lies the body of a climber frozen hard to the ground, one arm trapped beneath the torso, the other stretched toward the trail as if the last act had been reaching rather than falling.
+
+The corpse is mostly covered by snow and rime. Its outer layers are stiff, its rope half-frozen into the ice beneath it. There are no signs of a struggle. No blood. No scavenging.
+
+Just the stillness of someone who stopped moving and was kept exactly where they fell.
+
+#### Read-Aloud — First Discovery
+
+The trail bends, and the snow beside it rises in a wind-packed ridge against a shoulder of dark stone.
+
+Something breaks the shape of it.
+
+Not much. A bit of frame. A strap. The edge of worked leather where no natural thing should be.
+
+When the drift is brushed back, the shape underneath resolves into a body.
+
+A climber, frozen so completely into the ground that for a moment it looks less like a corpse than a figure pressed into the mountain and left there.
+
+One arm is pinned beneath the chest. The other reaches outward toward the trail, fingers rigid inside a split glove.
+
+No blood.
+
+No struggle.
+
+Just a final posture that suggests the body did not fall so much as stop.
+
+#### Checks
+
+- **Perception (DC 12):** The pack is still mostly intact beneath the snow.
+- **Medicine (DC 13):** This was not an ordinary exposure death; the body seems fixed in place by the same unnatural stillness seen elsewhere.
+- **Investigation (DC 14):** The climber’s gear is practical, not wealthy—route work, load balancing, and marker maintenance.
+- **Survival (DC 13):** This was someone used to mountain travel, not a reckless novice.
+- **Insight (DC 12):** The reaching hand suggests urgency, but not panic. More warning than escape.
+- **Arcana (DC 14):** A faint resonance clings to the body and pack, similar to the Karagvorn shift but more focused.
+
+#### The Pack
+
+The climber’s pack contains ordinary ascent gear:
+- spare cord
+- chalked route tags
+- a piton roll
+- waxed cloth
+- a dented iron mug
+- a wrapped bundle of marker strips sorted by color
+
+Inside that final bundle is one item that does not belong.
+
+### Plot Item — The Black-Thread Marker
+
+Among the faded route cloths is a single red marker strip stitched through with a line of black thread in a pattern unlike the rest.
+
+It is not frozen stiff.
+
+It feels dry.
+
+And colder than the surrounding snow.
+
+No visible writing appears on it at first glance, but when held close to the Tremorscope, the glass gives a second, finer scratch of movement beneath the mountain’s usual lines—as though the instrument is briefly trying to read not just the pulse below, but a path once marked in answer to it.
+
+#### What Makes It Intriguing
+
+- The strip uses old route-marker cloth, but with a code no current Cinderwatch trail system should be using.
+- It appears deliberately sewn, not improvised.
+- It does not behave like ordinary fabric in the cold.
+- The Tremorscope reacts to it faintly but consistently.
+
+This item should raise a practical question in the party’s mind:
+
+Who was still marking routes up here after the mountain had already begun taking the marker-keepers?
+
+#### Interpretation Checks
+
+- **Investigation (DC 13):** This was stored separately on purpose, not mixed in by accident.
+- **History (DC 15):** The stitching resembles an outdated or specialized route-sign code, likely pre-crisis or intentionally private.
+- **Arcana (DC 15):** The cloth is not magical in a normal item sense, but it carries persistent resonance.
+- **Insight (DC 13):** Whatever this meant to the climber, it was important enough to keep protected and separate.
+
+#### Reward / Benefit
+
+If the party preserves the Black-Thread Marker, they gain one future opportunity at DM discretion:
+- advantage on one check to recognize a hidden route sign, marker logic, or path anomaly higher on the mountain
+- or a bonus clue when the Tremorscope reacts strangely in a later packet
+
+#### Design Intent
+
+This beat should feel quiet, eerie, and unresolved.
+
+It is not meant to explain the mountain.
+
+It is meant to suggest that someone on Stillpeak had started learning how to read its grief—and did not survive long enough to bring that understanding back down.
+
 ---
 
 ## 7. Player Curiosity Hooks
