@@ -4,15 +4,15 @@
 
 **Location:** 4 — The Karagvorn Line & Lower Slopes
 
-**Purpose:** Advance the Stillpeak narrative and introduce key environmental or investigative elements.
+**Purpose:** Pay off Cinderwatch’s warnings, establish that the mountain’s rules have shifted, and force the party to adapt without stalling the ascent.
 
 **Expected Duration:** 30–60 minutes of play.
 
-**Encounter Types:** Exploration, roleplay, environmental tension.
+**Encounter Types:** Exploration, roleplay, environmental tension, practical obstacle.
 
-**Key Mechanics:** Cold, navigation uncertainty, tremor signals.
+**Key Mechanics:** orientation distortion, extradimensional failure, encumbrance pressure, Tremorscope reliance.
 
-**Key Discoveries:** Clues about the mountain’s sorrow and spreading influence.
+**Key Discoveries:** the Karagvorn Line is not a visible border but a change in how the world behaves.
 
 ---
 
@@ -22,161 +22,365 @@
 
 [IMAGE PLACEHOLDER: Regional context (Cinderwatch → Stillpeak route) reference art]
 
-### Puzzle — The Weight of Sorrow
-
-**Placement:** Scene Packet 4 — Just beyond the Karagvorn Line, early on the lower slopes.
-
-#### Read-Aloud Text
-
-A narrow stone bridge spans a crevasse that disappears into blowing white. The bridge looks intact—but the stone is slick with rime, and a squat dwarven marker sits at its center. A single line of runes is carved into its face: “Stone remembers what it must carry.”
-
-#### DM Notes
-
-**Purpose:** teach the mountain’s burden-logic and reinforce the value of offloading gear at the Cinderwatch Vault.
-
-This is not a trap. The bridge responds to load and pacing. Heavy passage destabilizes it; light passage steadies it.
-
-The Tremorscope gives a faint steady pulse here.
-
-#### Solution & Player Approaches
-
-Crossing lightly burdened (packs redistributed, heavy items stowed/roped across separately) keeps the bridge stable.
-
-Crossing while heavily encumbered causes hairline cracks and subtle shifting; this increases slip risk and delay.
-
-Clever approaches include belay ropes, staggered crossings, shuttling gear in small loads, pitons, or crawling to reduce shifting load.
-
-#### Checks & Clues
-
-- **Investigation (DC 13):** the stone compresses more under heavier loads; cracks appear only after weight is applied.
-- **History or Religion (DC 14):** dwarven waystones often encode moral instruction—burden, pride, patience.
-- **Arcana (DC 12):** resonance, not a spell trap; Stillpeak reinterprets physical load as metaphysical burden.
-- **Athletics or Acrobatics (DC 12):** maintain footing once destabilized (failure costs time; no direct damage).
-
-#### Failure States
-
-Failure does not collapse the bridge outright. It costs time: add 30–60 minutes of exposed travel and impose disadvantage on the next group movement check in this packet.
-
-If the party insists on repeated heavy crossings, a section slumps; treat as a 10–15 ft slide to a ledge shelf requiring rope recovery (no instant death).
-
-#### Reward
-
-**Rune Iron Clasp (Dwarven Load-Clasp) (Uncommon; No attunement).**
-
-This palm-sized iron clasp bites into leather straps. Once per long rest, you can click it shut as a bonus action. For 1 hour, your carried load is treated as 10 pounds lighter for encumbrance and movement penalties (this does not change actual weight for other effects).
-
 ### Scene Purpose
 
-Introduce the Karagvorn Line as a mostly transparent membrane—painless, non-lethal.
+This scene begins immediately after the party leaves the Cinderwatch Vault and starts the upward trail.
 
-Make magic behave differently: extradimensional storage becomes mundane weight; orientation magic becomes muted or misleading.
+The Karagvorn Line should feel real, strange, and consequential, but not become a spectacle the party camps on for too long. The crossing is brief. The realization lasts longer.
 
-Start the compounding curve: cold + encumbrance + altitude begin small and ramp geometrically higher up.
+This scene should:
+- pay off the village’s warnings
+- validate the choice to offload gear
+- make the Tremorscope feel trustworthy
+- move the party into the lower slopes with momentum
 
-Establish that the mountain notices the party, creating a shared sensation of being observed.
+### Departure from Cinderwatch
 
-Reinforce: the Tremorscope always remains truthful and directional.
+The climb out of Cinderwatch starts quietly.
 
-### Crossing the Karagvorn Line (How to Run the Moment)
+Not peaceful. Just quiet in the way a room gets quiet right after bad news.
 
-Do not announce the crossing explicitly. Let players realize it after effects appear.
+The last buildings fall behind the party one by one. The Vault is the last thing that looks solid. After that, it is only trail, stone, old snow, and the mountain rising ahead like it has all the time in the world.
 
-**Trigger point:** as the party leaves the last structures of Cinderwatch and begins the uphill trail—or when they pass a landmark cairn or thinning treeline.
+Packs sit differently now: tighter, leaner, practical.
 
-**Immediate sensory shift (no saves, no damage):** the air feels denser; sound dulls; breath is slightly heavier. Everyone feels a subtle awareness, like standing under a gaze you cannot see. Not hostility—presence.
+The kind of practical that makes each character aware of everything they chose not to bring.
 
-### Global Effect — The Mountain’s Grief Field (Orientation Distortion)
+Behind them, Cinderwatch offers no farewell. A few dark figures stand in windows and doorframes, watching the way people watch someone step onto thin ice.
 
-Within the Karagvorn Line, the mountain reinterprets ‘direction’ and ‘distance.’ It does not block magic; it changes the assumptions behind it.
+The wind should sound sharper up here.
 
-Non-magical navigation (compass, stars, landmarks) drifts subtly over time. Compasses may slowly spin or settle incorrectly.
+Instead, it is muffled.
 
-Low-level orientation magic and ‘helpful’ guidance works but becomes contextually misleading. Results are technically true, but not usefully true.
+The party’s boots crunch, but the noise feels swallowed before it can travel.
 
-The Tremorscope ignores this field entirely and always orients toward the ultimate goal (the source at the summit fissure).
+The Tremorscope gives one slow pulse.
 
-**DM Principle:** never lie outright. Let tools/spells function, but make them insufficient compared to the Tremorscope.
+Not urgent.
 
-### Extradimensional Storage Reinterpretation (Immediate Encumbrance Consequence)
+Not warning.
 
-Bags of Holding, Haversacks, and similar items do not explode or vanish.
+Just certain.
 
-They become inert as ‘space’ and immediately impose the full carried weight of contents on the bearer.
+### Optional Departure Dialogue — Torga Stonesong
 
-Items remain accessible, but the burden is real and compounding with altitude.
+Torga plants one gloved hand on the vault door as the party makes ready to leave.
 
-This is the mechanical payoff for the Cinderwatch Vault. Most parties will immediately stash, reorganize, or accept hard choices.
+> “Last chance to stop being sentimental about your backpacks.”
 
-### Early Cold, Encumbrance, and Altitude (Phase One: Minimal but Noticeable)
+She gives their straps, ropes, and weapons a long, unimpressed look.
 
-No exhaustion yet. No major penalties yet. This phase teaches the curve.
+> “I’m serious. Up there, the mountain charges interest.”
 
-Apply only subtle impacts now, then let them scale in later packets.
+If someone asks what that means:
 
-- **Cold:** narrative discomfort; reduced quality of extended rest outdoors (no mechanical exhaustion in Packet 4).
-- **Altitude:** shortness of breath when climbing; short rests feel ‘less refreshing’ (narrative only).
-- **Encumbrance:** characters near thresholds become winded faster; forced pacing becomes a conversation.
+> “It means if you’re carrying foolishness, you’ll pay for it with your knees.”
 
-### Understanding Checks (Clarity, Not Avoidance)
+She jerks her chin toward the trail.
 
-- **Arcana (DC 12):** Magic is consistent—but under different rules; ‘space’ and ‘direction’ are unstable concepts here.
-- **Nature (DC 13):** The environment suppresses motion and disperses energy—like dampening sound.
-- **Insight (DC 12):** The feeling of being watched has no emotion behind it; it’s awareness, not malice.
-- **Religion (DC 14):** Dwarven and druidic traditions: mountains ‘know who walks their bones.’
+> “Don’t look for a gate. Don’t look for glowing runes. The Line’s not there to impress you. You’ll know you crossed when the world starts being technically correct in ways that make your life worse.”
 
-### Optional Beat — The False Path (Teaching Trust Without Punishment)
+If asked about compasses, magic, or bags of holding:
 
-A faint trail veers away from the Tremorscope’s indicated direction. It looks easier. A basic compass agrees. A simple guiding spell confirms it is a ‘valid route.’
+> “Direction still points. Magic still works. That’s the problem. Things don’t stop working up there. They stop helping.”
 
-If followed: it remains passable but wastes time and increases exposure; no trap, no gotcha—just attrition.
+If the party lingers:
 
-If the party resists and follows the Tremorscope: reward with steadier travel and fewer complications later.
+> “Go on, then. Best to meet the mountain while you’ve still got daylight and the sense to turn around.”
 
-### Scene End — The Ascent Truly Begins
+### Environment Overview — The Lower Approach
 
-As the party climbs above the last signs of habitation, Cinderwatch disappears below the treeline. The Tremorscope’s pulses grow slightly more frequent. The sensation of being observed becomes background pressure—not something they can ignore, but something they must accept.
+The first stretch above Cinderwatch should seem almost normal. The trail rises in long, uneven shelves cut through old stone and drifted snow. That surface normalcy matters. The crossing is stronger if it does not arrive with theatrical warning.
 
-This is the last point where the mountain feels merely strange. Above this, it will begin to feel oppressive.
+As the party climbs, small things begin to feel slightly wrong:
+- breath feels a little short too early
+- distances are harder to judge
+- sound does not carry the way it should
+- looking back toward Cinderwatch feels subtly disorienting
+
+**Check Opportunities:**
+- **Perception (DC 13):** Sound seems to die too quickly, as if the air is swallowing it.
+- **Survival (DC 13):** The trail remains visible, but natural landmarks feel less reliable than they should.
+- **Insight (DC 12):** The wrongness feels systemic and impersonal rather than threatening in an immediate, predatory way.
+
+### The Karagvorn Crossing
+
+Do not announce the crossing. Let the party infer it when two or three changes arrive close together.
+
+Recommended signs:
+- metal gathers thin frost despite body heat
+- a compass needle hesitates, then settles at an angle that feels unhelpfully precise
+- an extradimensional container becomes inert
+- the Tremorscope remains steady and clear
+
+If the party carries an extradimensional item, this is the cleanest reveal.
+
+When the shift occurs, frame it through ordinary motion:
+- a strap being adjusted
+- a glove tightening around a buckle
+- someone checking a tool
+- a pack suddenly pulling harder at the shoulders
+
+**Mechanical Truth:**
+- Extradimensional storage becomes inert beyond the Karagvorn Line.
+- Contents do not vanish, but the item no longer functions extradimensionally.
+- Full carried weight now applies immediately.
+
+**Check Opportunities:**
+- **Arcana (DC 13):** This is not anti-magic. The world’s operating assumptions have shifted.
+- **Investigation (DC 12):** The failure is consistent, not random.
+- **Perception (DC 12):** The Tremorscope is unaffected and may even feel more legible than other tools.
+
+### Suggested Read-Aloud — The Crossing
+
+It happens in the middle of something ordinary.
+
+A strap gets adjusted.
+
+A glove tightens around a buckle.
+
+Someone checks a tool.
+
+And all at once, the mountain answers without saying a word.
+
+Metal rims over with a skin of pale frost.
+
+A compass needle wobbles, pauses, then settles with the smug confidence of something being exactly wrong in a very lawful way.
+
+A pack suddenly pulls harder at the shoulders.
+
+Not by much at first.
+
+Just enough for the body to notice before the mind does.
+
+The Tremorscope pulses again.
+
+Clean. Untroubled.
+
+Like it expected this.
+
+### Suggested Party Tone / Conversational Beats
+
+Use short, practical reactions to keep the moment grounded instead of reverent.
+
+Examples:
+- “Did that just get heavier?”
+- “No. No, don’t tell me the bag stopped working.”
+- “That compass is lying.”
+- “I don’t think it’s lying.”
+- “Great. Somehow that’s worse.”
+
+### Immediate Obstacle — The Weight of Sorrow
+
+Shortly after the crossing, the trail narrows at a broken shelf of stone and packed ice spanning a shallow ravine. It is not a grand bridge. It is an inconvenient one.
+
+Its purpose is simple: teach one immediate lesson.
+
+The mountain cares about burden.
 
 ---
 
 ## 3. Read-Aloud Scene Introduction
 
-Use the descriptive passages in the canonical text above as narration for the players.
+The climb out of Cinderwatch starts quietly.
+
+Not peaceful. Just quiet in the way a room gets quiet right after bad news.
+
+The last buildings fall behind you one by one. The Vault is the last thing that looks solid. After that, it’s just trail, stone, old snow, and the mountain rising ahead like it has all the time in the world.
+
+Your packs sit differently now. Tighter. Leaner. Practical.
+
+The kind of practical that makes you very aware of everything you chose not to bring.
+
+Behind you, Cinderwatch doesn’t call out a farewell. No one waves. A few dark shapes stand in windows and doorframes, watching the way people watch someone step onto thin ice.
+
+The wind should sound sharper up here.
+
+Instead, it’s muffled.
+
+Your boots crunch, but the noise feels swallowed before it can travel.
+
+And somewhere in that wrong quiet, the Tremorscope gives one slow pulse in your hand.
+
+Not urgent.
+
+Not warning.
+
+Just certain.
+
+---
 
 ## 4. Environment Overview
 
-- **Terrain:** Snow, mountain paths, or isolated structures depending on scene.
-- **Atmosphere:** Cold, quiet, emotionally heavy landscape.
-- **Visibility:** Often limited by snowfall, forest cover, or elevation.
+- **Terrain:** narrow rising trail, shelf-paths, buried stone, patches of wind-scoured ice
+- **Atmosphere:** muted, heavy, close, as if sound does not want to travel
+- **Visibility:** decent at first, worsening as the party gains elevation
+- **Emotional Tone:** unease, compression, the feeling of being quietly noticed
+
+---
 
 ## 5. Running the Location
 
-Present the location through exploration beats. Allow players to interact with NPCs, investigate clues, and observe environmental anomalies.
+Run the Karagvorn transition as four quick beats. The party should feel the threshold, adapt to it, and keep moving.
+
+### Beat 1 — The Trail Above Town
+
+Nothing dramatic changes at first. That is what makes it effective.
+
+The trail rises in long, uneven shelves of stone and drifted snow. Breathing feels slightly too deliberate. The path behind the party looks closer one moment and farther the next. Spoken words seem to fall into the air and stop there.
+
+### Beat 2 — The Moment No One Announces
+
+The actual crossing should not be labeled aloud.
+
+Let it arrive through overlapping practical realizations:
+- metal frosting over despite body heat
+- a compass committing to an unhelpfully precise heading
+- an extradimensional item turning inert
+- the Tremorscope remaining stable
+
+This is the moment the party understands they have crossed something even if they cannot point to where.
+
+### Beat 3 — The First Practical Problem
+
+Do not let the party stand still and theorize for too long.
+
+Shortly after the crossing, present the shelf-bridge obstacle below. The purpose is not to trap them. It is to force a practical adjustment.
+
+### Beat 4 — Do Not Linger
+
+Once the obstacle is resolved, the mountain should push them onward.
+
+The wind rises. The trail ahead becomes less inviting. The silence remains oppressive even inside the movement of air. The Tremorscope feels increasingly like the only tool that is not quietly arguing with reality.
+
+Use that sensation to move the party into the next leg of the ascent.
+
+---
 
 ## 6. Encounter Modules
 
-Encounters may involve investigation, environmental hazards, or creatures subtly affected by the mountain.
+### Encounter Summary Box — The Weight of Sorrow
+
+**Type:** Environmental obstacle / burden test  
+**Goal:** Teach the party that the mountain responds to burden, not merely presence  
+**Primary Tension:** Weight, balance, and practical adaptation  
+**Failure State:** Instability, delay, near-fall, forced gear reshuffling
+
+### The Weight of Sorrow
+
+A narrow, partially collapsed shelf of stone and ice crosses a shallow ravine. It is stable enough for careful travelers, but it reacts to concentrated burden. The more unnecessary weight the party carries across at once, the more unstable it becomes.
+
+This is not a trap. It is the landscape expressing the new rules.
+
+### Read-Aloud — The Shelf Crossing
+
+The trail bends around a jut of black stone and tightens into a narrow crossing.
+
+Ahead, an old shelf of rock reaches over a split in the mountainside, half natural ledge, half old trailwork. Snow has crusted over it in a smooth white layer, but not enough to hide the sag in the middle.
+
+Below, the drop isn’t endless, just ugly. A clutter of broken stone, ice, and the kind of fall that would leave everyone furious if they lived through it.
+
+As you watch, a dusting of snow slides across the ledge.
+
+Not down.
+
+Down would make sense.
+
+It drifts sideways, then settles, as if the slope itself changed its mind halfway through.
+
+The Tremorscope gives a slow, steady pulse.
+
+Forward.
+
+### Core Rule
+
+The crossing responds to **burden**, not simply to the number of creatures on it.
+
+If the party crosses thoughtfully, spreading weight and minimizing excess load, the crossing is tense but manageable.
+
+If they cross carelessly or bunch together with heavy loads, the shelf begins to fracture.
+
+### Resolution Approaches
+
+Reward grounded, practical problem-solving:
+- crossing one at a time
+- redistributing weight
+- roping together intelligently
+- handing off heavy items temporarily
+- testing the shelf with poles, pitons, or similar gear
+- using the Tremorscope to judge the most stable foot placement
+
+### Checks
+
+- **Investigation (DC 13):** Stress fractures are worst where weight would concentrate.
+- **Survival (DC 13):** There is a safer rhythm: single-file, measured pace, no clustering.
+- **Perception (DC 14):** Fine cracks spread in response to heavy shifting loads, not mere motion.
+- **Arcana (DC 14):** This is not a conventional enchantment; the environment is “reading” burden.
+- **Tremorscope Use:** The pulse steadies when lighter, more careful routes are attempted.
+
+### Failure / Pressure
+
+If the party ignores the burden logic:
+- the shelf cracks sharply
+- one or more characters must make a **DC 14 Dexterity save**
+- on a failure, the character falls prone and slides toward the ledge
+- another creature may use its reaction to catch them with a **DC 13 Strength check**
+
+Use failure to create urgency and inconvenience, not sudden lethality.
+
+### Design Intent
+
+This obstacle should confirm all of the following:
+- the Vault mattered
+- the Karagvorn Line has practical consequences
+- normal tools and assumptions can no longer be trusted in the same way
+- continuing forward remains the only sensible choice
+
+---
 
 ## 7. Player Curiosity Hooks
 
-- Investigate tremors or ground vibrations.
-- Question locals or examine written records.
-- Study environmental disturbances or wildlife absence.
+- Why does the Tremorscope remain stable when other tools do not?
+- Why does the mountain respond to burden?
+- Is the Karagvorn Line fixed, or is it moving?
+- What else beyond this point still “works,” but no longer helps?
+
+---
 
 ## 8. Escalation Signal
 
-End the scene with a stronger tremor, unsettling silence, or evidence that the mountain’s influence is growing.
+Once the crossing is behind them, the trail does not reward the party with relief.
+
+The wind rises. The mountain feels closer than it should. The silence survives inside the movement of air. The sense of observation becomes harder to ignore.
+
+The Tremorscope pulses once more—steady, certain, and forward-pointing.
+
+That is the signal to keep moving.
+
+---
 
 ## 9. Rewards / Discoveries
 
-- Narrative clues about Stillpeak.
-- Tools or information guiding the party onward.
+- Confirmation that Cinderwatch’s warnings were accurate
+- Reinforced trust in the Tremorscope
+- A practical reason to care about burden, load, and route choices going forward
+
+---
 
 ## 10. DM Reference Sidebar
 
-The mountain expresses grief through geological behavior. Escalate environmental tension gradually.
+The Karagvorn Line is strongest when treated as a threshold of changed assumptions, not as a magical spectacle.
+
+Do not explain it too cleanly.
+
+Do not punish the party too hard for curiosity.
+
+Do not let the scene overstay.
+
+The ideal outcome is: the party understands enough to be unsettled, adapts just enough to survive, and keeps climbing.
+
+---
 
 ## 11. Map Reference
 
-Use the corresponding Roll20 map for this packet location.
+Use the corresponding Roll20 map for the lower slope threshold and shelf crossing.
