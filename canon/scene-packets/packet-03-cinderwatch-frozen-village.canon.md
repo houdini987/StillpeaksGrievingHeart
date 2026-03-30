@@ -30,7 +30,7 @@ Deliver actionable intel and a clean transition toward the Karagvorn Line and lo
 
 ### Image Reference
 
-[IMAGE PLACEHOLDER: Cinderwatch scene reference art]
+![Cinderwatch scene reference art](../../assets/image/Cinderwatch.jpg)
 
 ### Village Overview
 
