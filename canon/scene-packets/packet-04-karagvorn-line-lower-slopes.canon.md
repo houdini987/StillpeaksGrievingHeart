@@ -10,9 +10,9 @@
 
 **Encounter Types:** Exploration, roleplay, environmental tension, practical obstacle.
 
-**Key Mechanics:** orientation distortion, extradimensional failure, encumbrance pressure, Tremorscope reliance.
+**Key Mechanics:** orientation distortion, extradimensional failure, Mountain’s Toll, encumbrance pressure, Tremorscope reliance.
 
-**Key Discoveries:** the Karagvorn Line is not a visible border but a change in how the world behaves.
+**Key Discoveries:** the Karagvorn Line is not a visible border but a change in how the world behaves; the summit may conceal an unnatural opening or buried entrance.
 
 ---
 
@@ -125,11 +125,16 @@ When the shift occurs, frame it through ordinary motion:
 - Extradimensional storage becomes inert beyond the Karagvorn Line.
 - Contents do not vanish, but the item no longer functions extradimensionally.
 - Full carried weight now applies immediately.
+- Each creature that crosses the Karagvorn Line gains **1 rank of Mountain’s Toll**.
+- **Mountain’s Toll:** Each rank adds **10 lbs of effective carried weight** for the purpose of your table’s encumbrance rules, climbing strain, and mountain obstacle adjudication. This added weight is not visible gear and cannot be removed by dropping equipment, redistributing packs, or using extradimensional storage. Additional ranks of Mountain’s Toll may be gained in later packets as the party climbs deeper into Stillpeak’s altered zones.
 
 **Check Opportunities:**
 - **Arcana (DC 13):** This is not anti-magic. The world’s operating assumptions have shifted.
 - **Investigation (DC 12):** The failure is consistent, not random.
 - **Perception (DC 12):** The Tremorscope is unaffected and may even feel more legible than other tools.
+- **Constitution (DC 12):** Your body registers the added strain immediately; on a success, you steady yourself and avoid losing pace.
+- **Investigation (DC 13):** The new burden is consistent and measurable, as though the mountain has imposed a real load rather than a vague sensation.
+- **Insight (DC 13):** The effect feels applied rather than accidental. The mountain is not merely difficult here; it is setting terms.
 
 ### Suggested Read-Aloud — The Crossing
 
@@ -241,6 +246,16 @@ Let it arrive through overlapping practical realizations:
 
 This is the moment the party understands they have crossed something even if they cannot point to where.
 
+### Optional Character-Facing Checks
+
+Use these only when a player naturally leans into observation, interpretation, or reaction. They are not required for progress and should reward character identity without over-explaining the mountain.
+
+- **Erny the Mountainborn — Religion or Insight (DC 12):** The crossing feels like a trial with terms, not a random act of hostility. Success suggests the mountain is measuring resolve more than issuing a warning.
+- **Bilbo Laggins — Investigation (DC 13):** The altered compass, frost, and sudden strain all follow a pattern: things are not failing outright, they are becoming less useful in consistent ways.
+- **Maelreth — Arcana or Religion (DC 13):** The Tremorscope’s stability against the surrounding distortions suggests it belongs to the mountain’s present order more than the world below.
+- **Alina — History or Survival (DC 12):** This feels like the threshold spoken of in hard-travel legends: the point where preparation gives way to endurance and worthy deeds begin exacting a price.
+- **Sorin Nighthollow — Nature or Survival (DC 13):** The silence, directional wrongness, and physical strain do not resemble weather or altitude alone; the mountain’s local conditions are being overridden by a deeper rule set.
+
 ### Beat 3 — The First Practical Problem
 
 Do not let the party stand still and theorize for too long.
@@ -336,12 +351,54 @@ This obstacle should confirm all of the following:
 - normal tools and assumptions can no longer be trusted in the same way
 - continuing forward remains the only sensible choice
 
+### Encounter Summary Box — A Glimpse Above
+
+**Type:** Atmospheric foreshadow / distant reveal  
+**Goal:** Suggest that the upper mountain culminates in a hidden entrance rather than a simple peak  
+**Primary Tension:** Distance and visibility briefly reveal more than they should  
+**Outcome:** The party leaves with an unsettling impression that something built, buried, or broken waits at the summit
+
+### A Glimpse Above
+
+As the party regroups beyond the shelf crossing, a strange visual compression passes through the air beyond the Karagvorn Line.
+
+For only a few heartbeats, distance behaves incorrectly.
+
+The summit of Stillpeak seems to lurch nearer—not by motion, but by some temporary telescoping of sight, as though the mountain has allowed the party to look much farther upward than they should be able to.
+
+In that brief and unnatural clarity, the upper face does not resolve into a clean crown of stone. Instead, a dark interruption cuts into the summit wall: not a cave mouth plainly revealed, but the unmistakable suggestion of an opening half-buried behind snow, shadow, and black rock.
+
+Then the effect collapses. The summit becomes distant again. The details vanish into weather and height.
+
+The party should not gain certainty here.
+
+Only the sense that the highest reach of Stillpeak hides an entrance that cannot be explained by weather alone.
+
+### Read-Aloud
+
+The air ahead of you shifts—not with wind, but with the strange, tightening feeling of distance being pulled thin.
+
+For a few heartbeats, the summit rushes into impossible clarity.
+
+High above, where Stillpeak should end in nothing more than rock and snow, the mountain’s face breaks around a dark interruption: a narrow opening or buried void, half-lost in black stone and drifted white, too deliberate in its shape to dismiss once seen.
+
+Then the feeling snaps.
+
+The summit falls away again into remoteness, and whatever you saw is once more only a rumor at the top of the world.
+
+### Checks
+
+- **Perception (DC 13):** You catch enough detail to know you did not imagine the dark opening near the summit.
+- **Investigation (DC 14):** The shape looks less like a natural crack and more like an entrance or exposed hollow partially concealed by snow and rock.
+- **Arcana (DC 13):** The moment of clarity was not ordinary sight. Something about being beyond the Karagvorn Line briefly altered distance, scale, or perception.
+- **Survival (DC 13):** Whatever route reaches that upper face will be steeper, narrower, and more dangerous than the lower ascent.
+
 ### Encounter Summary Box — The Fallen Climber
 
-**Type:** Optional mystery discovery / human residue / forward clue  
-**Goal:** Add a personal trace of loss beyond the Karagvorn Line and introduce a plot item that implies unfinished route knowledge higher on the mountain  
-**Primary Tension:** Was this climber merely lost, or carrying knowledge someone never meant to bring back?  
-**Outcome:** The party recovers a strange route marker item and gains a deeper sense that the mountain’s pattern reaches beyond random death
+**Type:** Optional historical discovery / human residue / old mountain tragedy  
+**Goal:** Show that Stillpeak has been taking a toll on those who challenged it for decades, including those who climbed to save others  
+**Primary Tension:** The party discovers not just a dead climber, but evidence of an old rescue attempt that also failed  
+**Outcome:** The party recovers an old rescue marker and gains a deeper sense that the mountain’s danger long predates the current crisis
 
 ### The Fallen Climber
 
@@ -379,7 +436,7 @@ Just a final posture that suggests the body did not fall so much as stop.
 
 - **Perception (DC 12):** The pack is still mostly intact beneath the snow.
 - **Medicine (DC 13):** This was not an ordinary exposure death; the body seems fixed in place by the same unnatural stillness seen elsewhere.
-- **Investigation (DC 14):** The climber’s gear is practical, not wealthy—route work, load balancing, and marker maintenance.
+- **Investigation (DC 14):** The gear is practical and communal rather than personal: spare cord bundled for shared use, marker strips sorted for visibility, and a harness ring stamped with an old trailwarden crest. This looks less like a solitary ascent kit and more like equipment from a rescue detail.
 - **Survival (DC 13):** This was someone used to mountain travel, not a reckless novice.
 - **Insight (DC 12):** The reaching hand suggests urgency, but not panic. More warning than escape.
 - **Arcana (DC 14):** A faint resonance clings to the body and pack, similar to the Karagvorn shift but more focused.
@@ -394,51 +451,67 @@ The climber’s pack contains ordinary ascent gear:
 - a dented iron mug
 - a wrapped bundle of marker strips sorted by color
 
-Inside that final bundle is one item that does not belong.
+Inside that final bundle is one item that looks older and more deliberate than the rest.
 
-### Plot Item — The Black-Thread Marker
+### Old Rescue Detail
+
+Worked into the pack straps is a faded badge disk or stitched crest associated with an older Cinderwatch trailwarden or rescue corps, weathered enough to suggest it predates the current generation by decades.
+
+Several lengths of cord are pre-cut for rapid anchoring rather than ordinary travel. A set of marker strips is sorted by visibility color and emergency use. One waxed cloth packet contains a brittle, half-legible note naming two missing climbers and a route designation no one in the current village would likely use.
+
+Nothing here suggests treasure-seeking or private ambition.
+
+This was a rescuer.
+
+And the mountain kept him too.
+
+#### Optional checks
+
+- **History (DC 14):** The insignia or rescue markings appear old—older than most current trail customs in Cinderwatch.
+- **Investigation (DC 13):** The gear layout suggests the climber expected to assist or retrieve others, not merely travel alone.
+- **Insight (DC 12):** The reaching posture reads less like panic than effort—someone still trying to move toward the trail, even at the end.
+
+### Plot Item — The Black-Thread Rescue Strip
 
 Among the faded route cloths is a single red marker strip stitched through with a line of black thread in a pattern unlike the rest.
 
-It is not frozen stiff.
+The cloth is old, but better preserved than the others.
 
-It feels dry.
+It is dry to the touch despite the cold.
 
-And colder than the surrounding snow.
+When held near the Tremorscope, the glass gives a faint secondary shiver beneath the mountain’s usual pulse, subtle enough to feel more like resonance than response.
 
-No visible writing appears on it at first glance, but when held close to the Tremorscope, the glass gives a second, finer scratch of movement beneath the mountain’s usual lines—as though the instrument is briefly trying to read not just the pulse below, but a path once marked in answer to it.
+#### What Makes It Notable
 
-#### What Makes It Intriguing
+- The strip uses old route-marker cloth in an emergency pattern no current Cinderwatch trail system should still be relying on.
+- It appears deliberately sewn and preserved.
+- It has endured the cold better than the surrounding bundle.
+- The Tremorscope reacts to it faintly, but without any clear directional meaning.
 
-- The strip uses old route-marker cloth, but with a code no current Cinderwatch trail system should be using.
-- It appears deliberately sewn, not improvised.
-- It does not behave like ordinary fabric in the cold.
-- The Tremorscope reacts to it faintly but consistently.
+This item should raise a quieter and sadder question in the party’s mind:
 
-This item should raise a practical question in the party’s mind:
-
-Who was still marking routes up here after the mountain had already begun taking the marker-keepers?
+How many others never came back from trying to bring people down?
 
 #### Interpretation Checks
 
 - **Investigation (DC 13):** This was stored separately on purpose, not mixed in by accident.
-- **History (DC 15):** The stitching resembles an outdated or specialized route-sign code, likely pre-crisis or intentionally private.
-- **Arcana (DC 15):** The cloth is not magical in a normal item sense, but it carries persistent resonance.
+- **History (DC 15):** The stitching resembles an outdated rescue or hazard signal likely used by an older generation of mountain responders.
+- **Arcana (DC 14):** The cloth is not magical in a conventional item sense, but it holds a faint lingering resonance after so long in the mountain’s altered conditions.
 - **Insight (DC 13):** Whatever this meant to the climber, it was important enough to keep protected and separate.
 
 #### Reward / Benefit
 
-If the party preserves the Black-Thread Marker, they gain one future opportunity at DM discretion:
-- advantage on one check to recognize a hidden route sign, marker logic, or path anomaly higher on the mountain
-- or a bonus clue when the Tremorscope reacts strangely in a later packet
+If the party preserves the Black-Thread Rescue Strip, they gain one future opportunity at DM discretion:
+- advantage on one check involving old trail signs, rescue traces, or interpreting remnants of prior ascents
+- or a bonus clue when the party later encounters evidence of earlier failed climbs on Stillpeak
 
 #### Design Intent
 
-This beat should feel quiet, eerie, and unresolved.
+This beat should feel quiet, eerie, and historical.
 
-It is not meant to explain the mountain.
+It is not meant to suggest a live conspiracy, hidden route network, or current secret actor on the mountain.
 
-It is meant to suggest that someone on Stillpeak had started learning how to read its grief—and did not survive long enough to bring that understanding back down.
+It is meant to reinforce that Stillpeak has been dangerous for a very long time, and that many who challenged it did so trying to save others rather than conquer it.
 
 ---
 
