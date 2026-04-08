@@ -6,9 +6,9 @@
 
 **Purpose:** Pay off Cinderwatch's warnings, establish that the mountain's rules have shifted, and force the party to adapt without stalling the ascent.
 
-**Expected Duration:** 30-60 minutes of play.
+**Expected Duration:** 45-75 minutes of play.
 
-**Encounter Types:** Exploration, roleplay, environmental tension, practical obstacle.
+**Encounter Types:** Exploration, roleplay, environmental tension, small combat encounter, practical obstacle.
 
 **Key Mechanics:** orientation distortion, extradimensional failure, Mountain's Toll, encumbrance pressure, Tremorscope reliance.
 
@@ -280,11 +280,11 @@ Use these only when a player naturally leans into observation, interpretation, o
 
 Do not let the party stand still and theorize for too long.
 
-Shortly after the crossing, present the shelf-bridge obstacle below. The purpose is not to trap them. It is to force a practical adjustment.
+Shortly after the crossing, present a brief hostile interruption before the shelf-bridge obstacle fully resolves into view. The purpose is not to trap the party in a major battle. It is to force immediate adaptation under pressure, making the new burden of the mountain feel practical rather than theoretical.
 
 ### Beat 4 - Do Not Linger
 
-Once the obstacle is resolved, the mountain should push them onward.
+Once the harassment and obstacle are resolved, the mountain should push them onward.
 
 The wind rises. The trail ahead becomes less inviting. The silence remains oppressive even inside the movement of air. The Tremorscope feels increasingly like the only tool that is not quietly arguing with reality.
 
@@ -293,6 +293,83 @@ Use that sensation to move the party into the next leg of the ascent.
 ---
 
 ## 6. Encounter Modules
+
+### Encounter Summary Box - The Ridge Scavengers
+
+**Type:** Small combat encounter / pressure test  
+**Goal:** Turn the newly imposed burden of the Karagvorn Line into immediate tactical pressure  
+**Primary Tension:** Narrow footing, disrupted spacing, and opportunistic attacks against burdened travelers  
+**Failure State:** Lost position, minor injury, rushed movement, or a sloppier approach to the shelf crossing
+
+### The Ridge Scavengers
+
+Before the shelf crossing fully opens into view, the trail narrows along a broken approach ledge where wind-scoured stone juts through the snow in uneven ribs.
+
+This is where the mountain's smaller predators strike.
+
+A handful of alpine scavengers - lean, sharp-beaked carrion birds adapted to high cold and cliffside feeding - have learned to watch for burdened climbers. They do not attack like disciplined hunters. They harry, lunge, and snap at exposed hands, loose straps, and shifting footing. Their instinct is simple: drive weakness into a stumble, then exploit it.
+
+They should feel like creatures that know exactly when the mountain has made something slower.
+
+### Read-Aloud - First Sign of Movement
+
+The trail tightens along a shelf of exposed stone where the snow has been scoured thin by the wind.
+
+At first the shapes above look like black outcrops or broken branches caught in the rock.
+
+Then one of them moves.
+
+A ragged-winged scavenger drops from a higher ledge with a harsh, splitting cry, followed by two more that skim low over the trail. They do not descend cleanly. They angle for your packs, your footing, the places where balance matters more than armor.
+
+The mountain has made you heavier.
+
+Something up here has learned what that means.
+
+### Creature Guidance
+
+Use **3 small alpine scavengers**. They should be run as light, mobile nuisance-predators rather than durable combatants.
+
+Recommended behavior:
+
+* target creatures nearest the ledge edge or on unstable footing
+* prefer whoever appears heaviest or most encumbered
+* dart in, attack, then reposition to higher rocks or narrow side ledges
+* break or scatter once one or two are killed, or once the party regains tight formation
+
+These creatures are not meant to fight to the death if the party pushes back effectively.
+
+### Terrain Notes
+
+* The approach ledge is narrow enough that careless positioning matters, but not so narrow that every hit risks instant disaster.
+* Snow patches conceal uneven stone ribs and shallow drop-offs.
+* The ledge widens enough in places for melee engagement, but ranged attackers and mobile characters should have advantages if they think tactically.
+* This fight should occur **before** the party commits to the main shelf crossing in The Weight of Sorrow.
+
+### Checks / Tactical Reads
+
+* **Perception (DC 13):** The party notices movement in the rocks above a moment before the scavengers descend.
+* **Survival (DC 13):** The safest response is to tighten formation and avoid letting anyone drift toward the ledge edge.
+* **Investigation (DC 12):** The birds are probing for instability, not just flesh; they attack moments of imbalance and exposed gear.
+* **Nature (DC 12):** These are opportunistic carrion-feeders adapted to high slopes, likely accustomed to injured or stranded climbers.
+* **Athletics (DC 12):** A character can brace against the stone and hold position despite the sudden harassment.
+
+### Pressure Effects
+
+This encounter should reinforce burden and footing rather than deal heavy raw damage.
+
+Useful encounter effects at DM discretion:
+
+* On a hit, a scavenger may force a **DC 12 Dexterity save** to avoid stumbling 5 feet toward an unsafe edge or awkward patch of stone.
+* If a character is already heavily burdened, obviously encumbered, or carrying awkward gear, the DC may rise to **13**.
+* A character who uses an action to secure straps, brace an ally, or pull someone into safer footing grants advantage on the next save against being knocked off balance.
+
+### Design Intent
+
+This fight should be brief, sharp, and practical.
+
+It exists to prove that once the mountain changes the terms of movement, even minor predators become more dangerous. The party should come out of it understanding that burden is now tactical, not abstract.
+
+The encounter should leave just enough friction and urgency that The Weight of Sorrow immediately afterward feels like a natural escalation rather than a disconnected obstacle.
 
 ### Encounter Summary Box - The Weight of Sorrow
 
@@ -306,6 +383,8 @@ Use that sensation to move the party into the next leg of the ascent.
 A narrow, partially collapsed shelf of stone and ice crosses a shallow ravine. It is stable enough for careful travelers, but it reacts to concentrated burden. The more unnecessary weight the party carries across at once, the more unstable it becomes.
 
 This is not a trap. It is the landscape expressing the new rules.
+
+If the party has just fended off the ridge scavengers, the shelf should feel like the mountain is following harassment with judgment: first disruption, then consequence.
 
 **DM Telegraphing Note:** Show the burden logic before enforcing it. Let clustered weight produce audible stress and visible cracking, let lighter testing produce less shelf response, and let the Tremorscope steady along safer, lower-burden choices so the party can read the rule before it punishes them for missing it.
 
