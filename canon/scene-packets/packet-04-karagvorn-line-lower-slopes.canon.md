@@ -88,6 +88,13 @@ If the party lingers:
 
 > ‚ÄúGo on, then. Best to meet the mountain while you‚Äôve still got daylight and the sense to turn around.‚Äù
 
+### Optional Character Checks ó Leaving the Last Safe Place
+
+- **Insight (DC 12, Erny the Mountainborn):** Torgaís warning lands as more than local superstition; the phrasing suggests a trial with terms rather than a simple danger sign.
+- **Investigation (DC 13, Bilbo Laggins):** The gear choices made in town already imply a different expedition logic here: the mountain is likely to punish redundancy, sentimentality, and excess weight more than lack of courage.
+- **Religion (DC 13, Maelreth):** The mood of the departure feels ritualistic in a way no one intended, as if leaving Cinderwatch is less travel than tacit acceptance of a boundary.
+- **History (DC 12, Alina):** The silence of the villagers resembles the send-off behavior found in hard-travel traditions, where too much farewell is believed to weaken those who must climb.
+- **Survival (DC 13, Sorin Nighthollow):** Before the Line is even crossed, the air and trail already suggest that ordinary mountain instincts will remain useful but not fully sufficient.
 ### Environment Overview ‚Äî The Lower Approach
 
 The first stretch above Cinderwatch should seem almost normal. The trail rises in long, uneven shelves cut through old stone and drifted snow. That surface normalcy matters. The crossing is stronger if it does not arrive with theatrical warning.
@@ -121,14 +128,15 @@ When the shift occurs, frame it through ordinary motion:
 - someone checking a tool
 - a pack suddenly pulling harder at the shoulders
 
-**Mechanical Truth:**
-- Extradimensional storage becomes inert beyond the Karagvorn Line.
-- Contents do not vanish, but the item no longer functions extradimensionally.
-- Full carried weight now applies immediately.
-- Each creature that crosses the Karagvorn Line gains **1 rank of Mountain‚Äôs Toll**.
-- **Mountain‚Äôs Toll:** Each rank adds **10 lbs of effective carried weight** for the purpose of your table‚Äôs encumbrance rules, climbing strain, and mountain obstacle adjudication. This added weight is not visible gear and cannot be removed by dropping equipment, redistributing packs, or using extradimensional storage. Additional ranks of Mountain‚Äôs Toll may be gained in later packets as the party climbs deeper into Stillpeak‚Äôs altered zones.
 
-**Check Opportunities:**
+### Character-Facing Checks ó Realizing the Line
+
+- **Constitution (DC 12, Erny the Mountainborn):** You feel the added burden settle into muscle and breath immediately, but you can square yourself against it and keep your pace from visibly faltering.
+- **Investigation (DC 13, Bilbo Laggins):** The altered compass, frosted metal, and changed pack weight all point to one conclusion: the world has not become random, it has become consistently less helpful.
+- **Arcana (DC 13, Maelreth):** This is not anti-magic or dead magic. The mountain has imposed a rule set, and extradimensional convenience simply no longer fits inside it.
+- **Athletics (DC 12, Alina):** The new strain reveals itself through posture and balance before pain; you can tell this climb will reward load discipline more than brute effort alone.
+- **Nature (DC 13, Sorin Nighthollow):** The silence, orientation drift, and bodily strain do not belong to ordinary elevation or weather. Something local is overriding the mountainís natural behavior.
+
 - **Arcana (DC 13):** This is not anti-magic. The world‚Äôs operating assumptions have shifted.
 - **Investigation (DC 12):** The failure is consistent, not random.
 - **Perception (DC 12):** The Tremorscope is unaffected and may even feel more legible than other tools.
@@ -329,15 +337,14 @@ If the party crosses thoughtfully, spreading weight and minimizing excess load, 
 
 If they cross carelessly or bunch together with heavy loads, the shelf begins to fracture.
 
-### Resolution Approaches
 
-Reward grounded, practical problem-solving:
-- crossing one at a time
-- redistributing weight
-- roping together intelligently
-- handing off heavy items temporarily
-- testing the shelf with poles, pitons, or similar gear
-- using the Tremorscope to judge the most stable foot placement
+### Character-Facing Checks ó Reading the Shelf
+
+- **Athletics (DC 13, Erny the Mountainborn):** The shelf does not merely feel weak; it feels selective. You can tell the worst danger comes from concentrated burden, not from crossing itself.
+- **Investigation (DC 14, Bilbo Laggins):** Hairline fractures are spreading in response to where weight settles, almost as though the ledge is ìmeasuringî load distribution rather than simply collapsing at random.
+- **Arcana (DC 14, Maelreth):** The shelfís behavior resembles imposed rule logic more than enchantment; it is reacting to burden with the same cold consistency as the Line.
+- **History (DC 12, Alina):** This feels like the kind of old mountain crossing that punishes poor discipline first and poor luck second; a worthy passage is possible, but only if respect comes before speed.
+- **Survival (DC 13, Sorin Nighthollow):** A safer crossing rhythm presents itself: lighter lead, wider spacing, measured pace, no clustering, and no unnecessary heroics in the middle.
 
 ### Checks
 
@@ -400,9 +407,15 @@ Then the feeling snaps.
 
 The summit falls away again into remoteness, and whatever you saw is once more only a rumor at the top of the world.
 
-Even in retrospect, it need not read as a confirmed entrance. A seam, buried recess, exposed hollow, or wrong shape in the summit face is enough for this packet.
 
-### Checks
+### Character-Facing Checks ó Interpreting the Glimpse
+
+- **Insight (DC 12, Erny the Mountainborn):** What the mountain allowed the party to see feels less like a gift than a demand: continue upward and learn the truth the hard way.
+- **Investigation (DC 14, Bilbo Laggins):** The dark interruption near the summit is too disciplined in shape to dismiss as a random break in stone; it reads as structure, seam, or deliberate recess.
+- **Arcana (DC 13, Maelreth):** The sudden visual compression was not normal sight at all; distance itself seemed briefly bent or ìfoldedî into clarity beyond what the eye should have managed.
+- **History (DC 13, Alina):** The impression resembles old tales in which sacred or cursed heights do not reveal their true form until a traveler has already passed some point of no easy return.
+- **Survival (DC 13, Sorin Nighthollow):** Whatever lies near that upper face will not be reached by a broad safe ascent; the route above will narrow, steepen, and demand deliberate approach.
+
 
 - **Perception (DC 13):** You catch enough detail to know you did not imagine the dark interruption near the summit.
 - **Investigation (DC 14):** The shape looks less like a natural crack and more like a buried recess, exposed hollow, or unnatural break partially concealed by snow and rock.
@@ -586,3 +599,4 @@ The ideal outcome is: the party understands enough to be unsettled, adapts just 
 ## 11. Map Reference
 
 Use the corresponding Roll20 map for the lower slope threshold and shelf crossing.
+
