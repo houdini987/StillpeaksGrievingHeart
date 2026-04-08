@@ -228,6 +228,18 @@ Just certain.
 
 Run the Karagvorn transition as four quick beats. The party should feel the threshold, adapt to it, and keep moving.
 
+The Karagvorn crossing and the Weight of Sorrow are the spine of this packet. Keep those beats clear and moving. A Glimpse Above should remain brief atmospheric foreshadow rather than becoming a prolonged investigation scene, and the Fallen Climber is optional historical residue to use if pacing allows or if the party deliberately stops to inspect. The packet works best when the ascent continues instead of blooming into a long threshold investigation.
+
+### Recommended Live Beat Order
+
+1. Departure from Cinderwatch
+2. Lower approach wrongness
+3. Karagvorn crossing
+4. Weight of Sorrow
+5. A Glimpse Above
+6. Fallen Climber (if pacing allows or if the party explicitly investigates)
+
+
 ### Beat 1 — The Trail Above Town
 
 Nothing dramatic changes at first. That is what makes it effective.
@@ -286,6 +298,8 @@ Use that sensation to move the party into the next leg of the ascent.
 A narrow, partially collapsed shelf of stone and ice crosses a shallow ravine. It is stable enough for careful travelers, but it reacts to concentrated burden. The more unnecessary weight the party carries across at once, the more unstable it becomes.
 
 This is not a trap. It is the landscape expressing the new rules.
+
+**DM Telegraphing Note:** Show the burden logic before enforcing it. Let clustered weight produce audible stress and visible cracking, let lighter testing produce less shelf response, and let the Tremorscope steady along safer, lower-burden choices so the party can read the rule before it punishes them for missing it.
 
 ### Read-Aloud — The Shelf Crossing
 
@@ -354,9 +368,9 @@ This obstacle should confirm all of the following:
 ### Encounter Summary Box — A Glimpse Above
 
 **Type:** Atmospheric foreshadow / distant reveal  
-**Goal:** Suggest that the upper mountain culminates in a hidden entrance rather than a simple peak  
+**Goal:** Suggest that the upper mountain culminates in an unnatural seam, recess, or hidden hollow rather than a simple peak  
 **Primary Tension:** Distance and visibility briefly reveal more than they should  
-**Outcome:** The party leaves with an unsettling impression that something built, buried, or broken waits at the summit
+**Outcome:** The party leaves with an unsettling impression that something built, buried, broken, or wrong-shaped waits at the summit
 
 ### A Glimpse Above
 
@@ -366,13 +380,13 @@ For only a few heartbeats, distance behaves incorrectly.
 
 The summit of Stillpeak seems to lurch nearer—not by motion, but by some temporary telescoping of sight, as though the mountain has allowed the party to look much farther upward than they should be able to.
 
-In that brief and unnatural clarity, the upper face does not resolve into a clean crown of stone. Instead, a dark interruption cuts into the summit wall: not a cave mouth plainly revealed, but the unmistakable suggestion of an opening half-buried behind snow, shadow, and black rock.
+In that brief and unnatural clarity, the upper face does not resolve into a clean crown of stone. Instead, a dark interruption cuts into the summit wall: not a cave mouth plainly revealed, but the suggestion of a seam, buried recess, or unnatural break half-buried behind snow, shadow, and black rock.
 
 Then the effect collapses. The summit becomes distant again. The details vanish into weather and height.
 
 The party should not gain certainty here.
 
-Only the sense that the highest reach of Stillpeak hides an entrance that cannot be explained by weather alone.
+Only the sense that the highest reach of Stillpeak hides a wrong shape, hidden hollow, or dark interruption that cannot be explained by weather alone.
 
 ### Read-Aloud
 
@@ -386,10 +400,12 @@ Then the feeling snaps.
 
 The summit falls away again into remoteness, and whatever you saw is once more only a rumor at the top of the world.
 
+Even in retrospect, it need not read as a confirmed entrance. A seam, buried recess, exposed hollow, or wrong shape in the summit face is enough for this packet.
+
 ### Checks
 
-- **Perception (DC 13):** You catch enough detail to know you did not imagine the dark opening near the summit.
-- **Investigation (DC 14):** The shape looks less like a natural crack and more like an entrance or exposed hollow partially concealed by snow and rock.
+- **Perception (DC 13):** You catch enough detail to know you did not imagine the dark interruption near the summit.
+- **Investigation (DC 14):** The shape looks less like a natural crack and more like a buried recess, exposed hollow, or unnatural break partially concealed by snow and rock.
 - **Arcana (DC 13):** The moment of clarity was not ordinary sight. Something about being beyond the Karagvorn Line briefly altered distance, scale, or perception.
 - **Survival (DC 13):** Whatever route reaches that upper face will be steeper, narrower, and more dangerous than the lower ascent.
 
@@ -404,6 +420,8 @@ The summit falls away again into remoteness, and whatever you saw is once more o
 
 Not far beyond the shelf crossing, the trail widens around a shallow bend where wind-driven snow has piled into a long uneven drift against exposed black stone.
 
+**DM Pacing Note:** This is optional historical residue, not a mandatory stop. If pacing is tight, the body can be noticed only briefly or partially inspected, and the DM may allow recovery of the Black-Thread Rescue Strip without running the full investigative scene.
+
 Something is buried there.
 
 At first it looks like a snapped branch or half-covered pack frame. But beneath the drift lies the body of a climber frozen hard to the ground, one arm trapped beneath the torso, the other stretched toward the trail as if the last act had been reaching rather than falling.
@@ -411,6 +429,13 @@ At first it looks like a snapped branch or half-covered pack frame. But beneath 
 The corpse is mostly covered by snow and rime. Its outer layers are stiff, its rope half-frozen into the ice beneath it. There are no signs of a struggle. No blood. No scavenging.
 
 Just the stillness of someone who stopped moving and was kept exactly where they fell.
+
+### Compressed Version
+
+- The party notices the body in passing.
+- One quick inspection reveals rescue-detail gear.
+- The Black-Thread Rescue Strip is recovered.
+- The climb continues.
 
 #### Read-Aloud — First Discovery
 
