@@ -1,0 +1,41 @@
+Use the canon custom stat block from Packet 5:
+
+**Vibration-Maddened Hill Giant**
+*Huge giant, chaotic neutral* 
+
+**Armor Class** 13 (natural armor)
+**Hit Points** 92 (8d12 + 40)
+**Speed** 40 ft. 
+
+| STR     | DEX    | CON     | INT    | WIS    | CHA    |   |
+| ------- | ------ | ------- | ------ | ------ | ------ | - |
+| 21 (+5) | 8 (-1) | 20 (+5) | 5 (-3) | 9 (-1) | 7 (-2) |   |
+
+**Saving Throws** Con +8
+**Skills** Athletics +8, Perception +2
+**Senses** passive Perception 12
+**Languages** Giant
+**Challenge** 5 (1,800 XP)
+**Proficiency Bonus** +3 
+
+**Resonance-Rattled Mind.** At the start of each of the giant’s turns, if it took thunder damage since the end of its last turn or is within 30 feet of a strong tremor, it must succeed on a DC 13 Wisdom saving throw or become disoriented until the start of its next turn. While disoriented, it has disadvantage on attack rolls against creatures, but its rock attacks and slam attacks still create falling-debris zones. 
+
+**Unstable Bombardier.** When the giant misses with a Rock attack, the impact still shatters terrain in a 10-foot radius within 5 feet of the target point. Creatures in that area must succeed on a DC 14 Dexterity saving throw or fall prone. 
+
+**Surefooted Bulk.** The giant has advantage on ability checks and saving throws made to resist being knocked prone or moved against its will by nonmagical effects. 
+
+### Actions
+
+**Multiattack.** The giant makes two Greatclub attacks, or one Rock attack and one Slam the Stone attack. 
+
+**Greatclub.** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 18 (3d8 + 5) bludgeoning damage. 
+
+**Rock.** *Ranged Weapon Attack:* +8 to hit, range 60/240 ft., one target. *Hit:* 21 (3d10 + 5) bludgeoning damage. 
+
+**Slam the Stone.** The giant slams a nearby shelf, ledge, or stone plate. Each creature on the same shelf or traversal lane within 20 feet of the giant must succeed on a DC 14 Dexterity saving throw or take 10 (3d6) bludgeoning damage and be pushed up to 10 feet along the slope. On a success, a creature takes half damage and is not pushed. 
+
+### Bonus Actions
+
+**Pained Roar (Recharge 5–6).** The giant howls and claws at its temples. Each creature within 20 feet that can hear it must succeed on a DC 13 Wisdom saving throw or have disadvantage on its next Athletics or Acrobatics check made before the end of its next turn. 
+
+If you want a plain Roll20-ready version next, I’ll strip the flavor text and format it as a compact monster entry.
