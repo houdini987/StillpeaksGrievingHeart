@@ -56,6 +56,12 @@ The Stonefold Ramps are not a battlefield. They are a slanted stack of broken, i
 
 Massive tilted plates of stone lean away from one another at wrong angles. Broken seams split each shelf into narrow traverses and abrupt drops. Snow has packed hard into the joints, then glazed over. Every step wants to slide sideways, and every pause invites another impact from higher up the slope.
 
+#### Read-Aloud
+
+The slope answers your arrival before anyone speaks.
+
+A stone slab tears past, strikes the shelf below hard enough to burst into white fragments, and leaves the whole ramp trembling under your boots. What looked like a difficult climb now looks like something under attack. The shelves are tilted, the seams are broken, and somewhere above you something large is smashing the mountain to pieces faster than the cold can bury it again.
+
 #### Terrain & Atmosphere
 
 - Massive stone shelves tilted just enough to ruin balance without looking unclimbable at a glance
@@ -74,6 +80,13 @@ Massive tilted plates of stone lean away from one another at wrong angles. Broke
 - Characters who stop in the open to trade blows increase exposure and invite more falling stone, broken ice, and forced movement
 - Valid solutions should remain flexible: secure and advance, suppress the giants long enough to advance, or split roles between defenders and line-setters
 - Success should feel earned through coordination and gear use, not through simply killing everything on the map
+
+#### Spoken Cues
+
+- "Your boot skids sideways before it catches; for a breath, the whole shelf feels steeper than it looked."
+- "The piton bites, then the stone around it answers with a thin shiver that travels up the hammer into your wrist."
+- "Another impact lands above, and loose ice needles across the traverse like thrown glass."
+- "Between bursts of drifting snow, you catch movement high on the shelves: too large for boulders, too ragged to be steady."
 
 #### Enemy Encounter - Vibration-Maddened Hill Giants
 
@@ -119,6 +132,12 @@ Massive tilted plates of stone lean away from one another at wrong angles. Broke
 
 By default, 2 hill giants occupy unstable shelves above the route, though exact count can flex with party strength and map scale.
 
+#### Read-Aloud
+
+The next shape above you is not stone.
+
+It lurches into view on a higher shelf, huge and raw-boned, one hand pressed against its skull as if trying to hold itself together. Then another answers from farther upslope. They do not move like sentries. They move like things that have not slept, cannot think, and have decided the only answer is to break whatever keeps shaking beneath their feet.
+
 They are not guarding this place in any organized way. They are sleep-starved, disoriented, and visibly unraveling under Stillpeak's resonance. Their eyes track movement late, then too hard. They smash stone with their bare hands between attacks as if trying to break the pulses under their feet. At moments of stronger tremor, they react to the mountain itself more than to the party.
 
 Run them as unstable bombardiers:
@@ -134,11 +153,21 @@ The Tremorscope does not merely jitter here. It bucks in sharp, overlapping surg
 
 Its readings make one ugly fact plain: the mountain's vibrations are not only destabilizing terrain. They are entering living minds, scrambling sleep, perception, and judgment until fear and pain become indistinguishable from command.
 
+#### Lore to Surface
+
+If the party studies the Tremorscope or the giants closely, the DM can surface a simple truth: Stillpeak is no longer only moving stone. Its pulses are getting into living things and turning exhaustion, confusion, and pain into behavior.
+
 #### Narrative Signal
 
 Stonefold Ramps is the party's commitment gate.
 
 Stillpeak is now actively hostile. Stable footing is gone. Open movement is unsafe. Climbing gear is no longer optional expedition caution but the price of continuing at all.
+
+#### Transition Beat
+
+The bombardment thins not because the mountain relents, but because the shelves run out.
+
+Ahead, the broken ramps tighten into something darker and cleaner: a black rib of stone stripped bare by wind, where there will be less chaos, less cover, and nowhere to be imprecise.
 
 ### Segment II - The Wind-Carved Spine
 
@@ -149,6 +178,12 @@ The Wind-Carved Spine is a black-stone rib jutting out from the mountain like a 
 This is the packet's revelation and commitment segment.
 
 The climb turns the ascent from general survival into a precise objective. The party must divide roles, spend the most climbing support they have spent so far, and move in timed windows while the mountain slowly reveals that the summit is not merely the highest point. It is a sealed answer.
+
+#### Read-Aloud
+
+The mountain narrows beneath you until there is no longer a slope to cross, only a line to hold.
+
+Black stone rises in a hard spine through the snow haze, scoured so clean it looks almost polished. The wind does not batter here so much as arrive in measured violence. Every hold is visible. Every mistake is visible too. What felt chaotic below becomes precise up here, and far less forgiving.
 
 #### Environmental Hazards
 
@@ -170,6 +205,13 @@ The climb turns the ascent from general survival into a precise objective. The p
 - Failures should cost committed rope, spent anchors, forced re-rigging, dangerous pendulums, separated climbers, or rescued falls rather than simply dealing damage
 - Confidence in fine motor movement should visibly erode over the segment; by the end, even simple securement should feel deliberate and expensive
 
+#### Spoken Cues
+
+- "Wait. Not yet. The gust hits first, screaming past the spine hard enough to flatten loose cloth and steal the breath from your mouth."
+- "By the time your turn to move comes, your fingers feel thick inside your gloves, and the knot you tied a minute ago no longer feels trustworthy."
+- "The anchor holds, but not cleanly; the stone shifts around it with a dry, ugly sound."
+- "You can still see each other, but not reach each other quickly. Up here, ten feet feels like a decision."
+
 #### Clue Layer A - Deliberate Prior Climbers
 
 The first clue arrives in the stone itself.
@@ -181,6 +223,12 @@ As the party sets lines and searches for trustworthy holds, they begin finding s
 - tool-cut notches or markers too intentional to be dismissed as coincidence
 
 These traces should be discovered in motion, while choosing holds and placements, so the realization arrives as part of the climb: someone came here on purpose, and they were not merely trying to survive the mountain. They were trying to reach something.
+
+#### Read-Aloud
+
+Your hand closes on a hold that is not natural.
+
+The cut is old, weather-softened, nearly erased by ice, but still deliberate. A little higher up, there is another. Then the scar of an old anchor bite in black stone. Someone chose this line. Someone kept choosing it upward.
 
 #### Clue Layer B - Tremorscope Resonance Irregularity
 
@@ -194,6 +242,12 @@ Arcana, Investigation, or Tremorscope interpretation checks (**DC 14-16**) shoul
 - the summit is acting as a focus point, not merely the highest elevation
 - what lies above is inside the mountain as much as on top of it
 
+#### Read-Aloud
+
+When the Tremorscope steadies long enough to read, its pulse does something wrong.
+
+The signal goes uphill, then answers back from near the summit a fraction too late, as if stone there is not stone all the way through. Not hollow in a simple way. Structured. Interrupted. Hidden.
+
 #### Clue Layer C - Telescopic Atmospheric Reveal
 
 Only after the earlier clues are in place does the sky provide the payoff.
@@ -206,6 +260,16 @@ Not for long. Just long enough.
 
 A narrow seam appears in the crown of the peak: too clean, too recessed, too deliberate to be a natural break. It reads as a breach or concealed entrance before weather and distance swallow it again.
 
+#### Read-Aloud
+
+For a few impossible heartbeats, distance fails.
+
+Wind, blown ice, and that wrong lensing beyond the Line all align, and the summit comes near enough to wound the eye. You do not see the whole crown. You do not need to. A seam is there, thin and deliberate, set into the face of the peak like a shut door glimpsed between breaths.
+
+#### Lore to Surface
+
+If the party pauses to interpret what they have found, the DM can paraphrase: this route was climbed deliberately before, and the mountain above is not only exterior height. Something in the summit was meant to be reached from outside and entered from within.
+
 #### Narrative Signal
 
 The party should leave the Wind-Carved Spine with three truths locked together:
@@ -215,6 +279,12 @@ Someone deliberately climbed toward the summit before them.
 The Tremorscope can reveal hidden internal structure rather than merely pointing uphill.
 
 The next objective is no longer abstract ascent. They must reach the summit, find the concealed seam, and enter the mountain through it.
+
+#### Transition Beat
+
+The spine does not end so much as loosen.
+
+The clean edge of black stone gives way to a broader slope ahead, but the width offers no comfort. It looks easier only until the first step onto it shifts under your weight.
 
 ### Segment III - The Shattered Moraine
 
@@ -227,6 +297,12 @@ Everything underfoot is moving, but never enough to trust where the motion will 
 Altitude presses down like another loaded pack strapped over the shoulders. The air has thinned to the point where ordinary pace feels wasteful. Landmarks refuse to hold their shape correctly; what looks near may still take ten bitter minutes to reach, while a rise that seems minor steals breath like a wall.
 
 This is the last grim barricade before the summit push, not a finale.
+
+#### Read-Aloud
+
+The ground ahead is not a path. It is what remains after too many paths failed.
+
+Broken anchors jut from scree. A snapped length of rope appears from under ice and vanishes again beneath sliding stone. Bone, gear, and collapse debris surface and sink by turns as if the mountain is slowly sorting what it means to keep. The slope is wider here, but every step says otherwise.
 
 #### Terrain & Pressure
 
@@ -246,6 +322,13 @@ This is the last grim barricade before the summit push, not a finale.
 - Failures should cost pace, formation, or certainty: minor slides, bogged movement, separated allies, dropped footing, or bad starting positions when enemies surface
 - The party should feel less capable than normal by the end of the segment, not because they are numerically shut down, but because the mountain has made every correction slower and every judgment less trustworthy
 
+#### Spoken Cues
+
+- "What looked like the nearest rise is still not under your feet, and your lungs are already asking for a stop you cannot afford."
+- "Your legs feel heavier than your pack should account for, as if the slope is leaning up into you."
+- "A patch of stable-looking ground rolls away in small stones the moment weight commits to it."
+- "You look back to judge distance and realize you are no longer certain which shelf you came from."
+
 ### Puzzle - The Silent Echo Cairn
 
 **Placement:** Scene Packet 5 - Midway through Segment III (The Shattered Moraine), at a brief pocket of stillness in the moving field.
@@ -259,6 +342,11 @@ Five squat stacks of stone lean around a cracked central pillar. Snow clings in 
 That stillness is not comforting.
 
 It feels like held breath.
+
+#### Spoken Cues
+
+- "Inside the ring, the constant settling noise falls away so completely your own breathing sounds intrusive."
+- "The quiet here does not feel safe. It feels observed."
 
 #### DM Notes
 
@@ -334,6 +422,12 @@ This basalt whistle produces no audible note, only a vibration felt in the teeth
 
 ***Settle and Surge.*** When a creature within 5 feet of the dead stands up from prone or moves away from it, the dead can force that creature to make a DC 12 Dexterity saving throw. On a failure, the creature's footing gives way and its speed becomes 0 until the end of the current turn.
 
+#### Read-Aloud
+
+The scree ahead shivers in a pattern too deliberate to be settling.
+
+Stone rolls aside. A hand comes up first, wrapped in ice and gravel. Then a shoulder, then a skull with moraine pebbles packed into its empty sockets. More shapes follow from broken gear fields and collapse fans nearby, climbing out of the debris as if the slope has decided to remember the people it kept.
+
 Use summit-adjacent dead here: cairn-buried remnants, moraine-bound dead, or similar grave-cold climber remains that emerge from unstable scree and old collapse debris.
 
 These should feel grim and transitional rather than climactic. They are the proof that many came this far and not all went farther.
@@ -343,6 +437,10 @@ Run them to punish slowed movement and uncertain footing:
 - they close fastest on isolated or slowed characters who cannot easily reposition under low oxygen pressure
 - they use the terrain to bog movement, force awkward retreats, and turn hesitation into contact
 - they should feel like the mountain handing the party its own future in advance if they stop moving
+
+#### Lore to Surface
+
+If the party investigates the debris fields or succeeds on the right checks, the DM can paraphrase: this is where failed attempts gather. The mountain is not only surrounding the party now. It is pressing directly on their bodies, their pace, and their judgment.
 
 #### Psychological Effects
 
@@ -365,6 +463,12 @@ The mountain is no longer only affecting terrain or distant minds. It is acting 
 
 This is the last grim barricade before the summit.
 
+#### Transition Beat
+
+The debris thins by degrees, and the slope ahead brightens.
+
+For the first time since the ramps, the mountain offers something that almost resembles level ground. It looks like relief until the ice begins to show its lines.
+
 ### Segment IV - The Ice-Locked Shelf
 
 The final approach levels without becoming merciful.
@@ -375,6 +479,12 @@ That relief is false.
 
 The shelf is not here to drain the party of one more set of ropes and anchors. It is here to show them what it means to have arrived short on certainty, support, and room to recover.
 
+#### Read-Aloud
+
+The shelf opens before you like a promise it does not intend to keep.
+
+After broken stone and moving scree, the broad ice looks almost merciful. Frost spreads in pale geometric fans across the surface. The summit wall rises ahead in clean planes and hard angles. There is space here, but not comfort. The first crack that answers your weight carries farther than it should.
+
 #### Threshold Pressure
 
 - The shelf presents only a few genuinely safe movement lanes once combat begins, and those lanes are narrow, slick, and easy to lose
@@ -382,6 +492,13 @@ The shelf is not here to drain the party of one more set of ropes and anchors. I
 - Limited support resources from earlier segments should matter directly when considering spacing, rescue, retreat, and whether a bad displacement can be corrected
 - Retreat options are poor and exposed, especially for parties that arrive with few anchors, little reserve rope, or reduced confidence in secure footing
 - The environment should punish earlier depletion and low margin for error, not demand a fresh large-scale gear expenditure
+
+#### Spoken Cues
+
+- "The ice gives you room to move and then punishes the first step taken too quickly."
+- "A short reposition becomes a slide of boot leather and sparks of frost."
+- "The crack beneath you is thin, neat, and much too loud in the open air."
+- "This does not feel like being attacked. It feels like being measured."
 
 ### Puzzle - The Frozen Reflection Shelf
 
@@ -396,6 +513,14 @@ For a breath, each reflection stands half a step behind its living body.
 Older. More tired. Packs hanging lower. Shoulders bent as if the mountain has already finished with them.
 
 Then the reflections catch up.
+
+#### Read-Aloud
+
+The reflections do not accuse you.
+
+That is what makes them worse.
+
+They simply stand there in the ice with the posture of people who have already paid the price of continuing, and wait to see whether you will name what the climb has taken before the mountain names it for you.
 
 #### DM Notes
 
@@ -489,6 +614,12 @@ If the party rejects the threshold entirely, the guardian meets them at full str
 
 ***Locked Hinge.*** When a creature within 10 feet of the guardian attempts to move out of its reach, the guardian makes one Slam attack against that creature.
 
+#### Read-Aloud
+
+The wall and shelf answer one another with a deep, interior crack.
+
+Ice splits along clean lines. Stone pushes upward beneath it. What rises is not a creature waiting in ambush, but a shape assembled in real time from the geometry around you: shoulders of black stone plated in frost, arms heavy as gate-beams, a head bowed as if listening to some grief older than speech. When it turns, the whole shelf seems to tighten with it.
+
 The Grief-Bound Guardian remains the packet's hard threshold encounter and the intentional manifestation of the mountain's grief.
 
 This is not a flat arena fight. It is a scarcity-payoff encounter.
@@ -512,6 +643,10 @@ The Tremorscope steadies into a hard doubled pulse on the shelf: the mountain's 
 
 During the fight, it should feel less like a warning instrument and more like a witness to the mountain's attention.
 
+#### Lore to Surface
+
+If the party reads the moment clearly, the DM can paraphrase: the mountain has stopped testing whether they will continue. It is testing what they have left after choosing to do so.
+
 If the guardian falls, the device clears just long enough to indicate direction rather than danger.
 
 Upward. Toward the summit seam.
@@ -523,6 +658,12 @@ The Ice-Locked Shelf should feel like false relief becoming judgment.
 The mountain has fully noticed the party. Earlier attrition now has immediate tactical consequences. There is no comfortable place left to regroup before Packet 6.
 
 The packet ends with the party diminished, the summit entrance fixed as the only meaningful objective, and the sense that Stillpeak has stopped testing whether they will continue and started testing what they have left to spend.
+
+#### Transition Beat
+
+When the guardian comes apart, the shelf does not relax.
+
+The ice settles into a silence so complete it feels purposeful. Above, through cold air and the last drifting spindrift, the summit seam waits where the Tremorscope points. There is nowhere left to go but up and in.
 
 ---
 
