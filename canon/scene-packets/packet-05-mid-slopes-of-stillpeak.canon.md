@@ -77,6 +77,46 @@ Massive tilted plates of stone lean away from one another at wrong angles. Broke
 
 #### Enemy Encounter - Vibration-Maddened Hill Giants
 
+#### Stat Block - Vibration-Maddened Hill Giant
+
+**Vibration-Maddened Hill Giant**  
+*Huge giant, chaotic neutral*
+
+**Armor Class** 13 (natural armor)  
+**Hit Points** 92 (8d12 + 40)  
+**Speed** 40 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|---|---|---|---|---|---|
+|21 (+5)|8 (-1)|20 (+5)|5 (-3)|9 (-1)|7 (-2)|
+
+**Saving Throws** Con +8  
+**Skills** Athletics +8, Perception +2  
+**Senses** passive Perception 12  
+**Languages** Giant  
+**Challenge** 5 (1,800 XP)  
+**Proficiency Bonus** +3
+
+***Resonance-Rattled Mind.*** At the start of each of the giant's turns, if it took thunder damage since the end of its last turn or is within 30 feet of a strong tremor, it must succeed on a DC 13 Wisdom saving throw or become disoriented until the start of its next turn. While disoriented, it has disadvantage on attack rolls against creatures, but its rock attacks and slam attacks still create falling-debris zones.
+
+***Unstable Bombardier.*** When the giant misses with a Rock attack, the impact still shatters terrain in a 10-foot radius within 5 feet of the target point. Creatures in that area must succeed on a DC 14 Dexterity saving throw or fall prone.
+
+***Surefooted Bulk.*** The giant has advantage on ability checks and saving throws made to resist being knocked prone or moved against its will by nonmagical effects.
+
+### Actions
+
+***Multiattack.*** The giant makes two Greatclub attacks, or one Rock attack and one Slam the Stone attack.
+
+***Greatclub.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 18 (3d8 + 5) bludgeoning damage.
+
+***Rock.*** *Ranged Weapon Attack:* +8 to hit, range 60/240 ft., one target. *Hit:* 21 (3d10 + 5) bludgeoning damage.
+
+***Slam the Stone.*** The giant slams a nearby shelf, ledge, or stone plate. Each creature on the same shelf or traversal lane within 20 feet of the giant must succeed on a DC 14 Dexterity saving throw or take 10 (3d6) bludgeoning damage and be pushed up to 10 feet along the slope. On a success, a creature takes half damage and is not pushed.
+
+### Bonus Actions
+
+***Pained Roar (Recharge 5-6).*** The giant howls and claws at its temples. Each creature within 20 feet that can hear it must succeed on a DC 13 Wisdom saving throw or have disadvantage on its next Athletics or Acrobatics check made before the end of its next turn.
+
 By default, 2 hill giants occupy unstable shelves above the route, though exact count can flex with party strength and map scale.
 
 They are not guarding this place in any organized way. They are sleep-starved, disoriented, and visibly unraveling under Stillpeak's resonance. Their eyes track movement late, then too hard. They smash stone with their bare hands between attacks as if trying to break the pulses under their feet. At moments of stronger tremor, they react to the mountain itself more than to the party.
@@ -255,6 +295,45 @@ This basalt whistle produces no audible note, only a vibration felt in the teeth
 
 #### Enemy Encounter - Moraine-Bound Dead
 
+#### Stat Block - Moraine-Bound Dead
+
+**Moraine-Bound Dead**  
+*Medium undead, neutral evil*
+
+**Armor Class** 14 (bone and stone)  
+**Hit Points** 36 (8d8)  
+**Speed** 20 ft., burrow 10 ft. through loose scree only
+
+|STR|DEX|CON|INT|WIS|CHA|
+|---|---|---|---|---|---|
+|14 (+2)|10 (+0)|10 (+0)|5 (-3)|8 (-1)|6 (-2)|
+
+**Damage Resistances** cold, necrotic  
+**Damage Vulnerabilities** bludgeoning  
+**Condition Immunities** poisoned  
+**Senses** darkvision 60 ft., passive Perception 9  
+**Languages** understands Dwarvish and Common but can't speak  
+**Challenge** 2 (450 XP)  
+**Proficiency Bonus** +2
+
+***Buried Approach.*** If the dead begins its turn in loose scree, rubble, or moraine debris, it has advantage on its first attack roll that turn against a creature that has not yet acted in the first round of combat.
+
+***Drag into Instability.*** A creature hit by the dead's Grasping Hands attack has its speed reduced by 10 feet until the start of the dead's next turn.
+
+***Grave-Cold Persistence.*** When the dead is reduced to 0 hit points on stone, ice, or scree, roll a d6. On a 5-6, it collapses but is not destroyed; it re-forms with 1 hit point at the start of its next turn unless it took radiant damage after being reduced to 0 hit points.
+
+### Actions
+
+***Multiattack.*** The dead makes two attacks: one with Scree-Claw and one with Grasping Hands.
+
+***Scree-Claw.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10 + 2) slashing damage plus 3 (1d6) cold damage.
+
+***Grasping Hands.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) bludgeoning damage, and the target must succeed on a DC 12 Strength saving throw or be knocked prone or pulled 5 feet into unstable ground, DM's choice.
+
+### Reactions
+
+***Settle and Surge.*** When a creature within 5 feet of the dead stands up from prone or moves away from it, the dead can force that creature to make a DC 12 Dexterity saving throw. On a failure, the creature's footing gives way and its speed becomes 0 until the end of the current turn.
+
 Use summit-adjacent dead here: cairn-buried remnants, moraine-bound dead, or similar grave-cold climber remains that emerge from unstable scree and old collapse debris.
 
 These should feel grim and transitional rather than climactic. They are the proof that many came this far and not all went farther.
@@ -363,6 +442,52 @@ If the party engages the Frozen Reflection Shelf sincerely, apply one or more of
 If the party rejects the threshold entirely, the guardian meets them at full strength.
 
 ### Combat Encounter - Grief-Bound Guardian
+
+#### Stat Block - Grief-Bound Guardian
+
+**Grief-Bound Guardian**  
+*Large elemental, unaligned*
+
+**Armor Class** 16 (ice-plated stone)  
+**Hit Points** 127 (15d10 + 45)  
+**Speed** 30 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|---|---|---|---|---|---|
+|20 (+5)|10 (+0)|16 (+3)|7 (-2)|14 (+2)|11 (+0)|
+
+**Saving Throws** Str +8, Con +6, Wis +5  
+**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks  
+**Damage Immunities** poison  
+**Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned  
+**Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 12  
+**Languages** understands Terran and Dwarvish but can't speak  
+**Challenge** 8 (3,900 XP)  
+**Proficiency Bonus** +3
+
+***Aura of Oppressive Stillness.*** Creatures of the guardian's choice within 15 feet of it treat icy ground as difficult terrain. The first time a creature enters the aura on a turn or starts its turn there, it must succeed on a DC 14 Strength saving throw or have its speed reduced by 10 feet until the start of its next turn.
+
+***False Plateau Geometry.*** Once on each of its turns, when the guardian hits a creature with an attack, it can force the target to make a DC 14 Dexterity saving throw. On a failure, the target slides up to 10 feet in a direction of the guardian's choice along the shelf.
+
+***Bound to the Shelf.*** While the guardian is on ice or stone, it regains 5 hit points at the start of its turn if it has at least 1 hit point remaining. If it takes thunder or radiant damage, this trait does not function until the start of its next turn.
+
+### Actions
+
+***Multiattack.*** The guardian makes two Slam attacks.
+
+***Slam.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 15 (2d8 + 6) bludgeoning damage plus 4 (1d8) cold damage.
+
+***Shard-Line Pulse (Recharge 5-6).*** The guardian drives a fracture through the shelf in a 30-foot line that is 5 feet wide. Each creature in the line must make a DC 14 Dexterity saving throw. On a failure, a creature takes 18 (4d8) cold and bludgeoning damage, falls prone, and slides 10 feet. On a success, it takes half damage and does not fall prone.
+
+***Grief Surge (Recharge 6).*** The guardian emits a deep pulse through the ice. Each creature of its choice within 20 feet must succeed on a DC 14 Wisdom saving throw or be unable to take reactions until the end of its next turn. A creature that fails this save also has disadvantage on the next check or saving throw it makes to resist forced movement or loss of footing before the end of its next turn.
+
+### Bonus Actions
+
+***Claim the Lane.*** The guardian chooses one 10-foot square of ice or stone it can see within 30 feet. Until the start of its next turn, that area becomes treacherous. The first creature that enters it or starts its turn there must succeed on a DC 14 Dexterity saving throw or fall prone.
+
+### Reactions
+
+***Locked Hinge.*** When a creature within 10 feet of the guardian attempts to move out of its reach, the guardian makes one Slam attack against that creature.
 
 The Grief-Bound Guardian remains the packet's hard threshold encounter and the intentional manifestation of the mountain's grief.
 
