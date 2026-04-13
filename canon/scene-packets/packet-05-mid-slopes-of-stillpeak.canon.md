@@ -46,6 +46,10 @@ End the packet with the party depleted, committed, and brought directly to the c
 
 ### Segment I - Stonefold Ramps
 
+**BEAT - stonefold ramps**
+
+**Live Use:** Use for traversal-under-bombardment narration, movement rulings, slips, anchor placements, and giant pressure.
+
 [IMAGE PLACEHOLDER: Stonefold Ramps reference art]
 
 The first rise above the lower slopes looks survivable in the foolish way a bad idea can look survivable from a distance.
@@ -89,6 +93,10 @@ A stone slab tears past, strikes the shelf below hard enough to burst into white
 - "Between bursts of drifting snow, you catch movement high on the shelves: too large for boulders, too ragged to be steady."
 
 #### Enemy Encounter - Vibration-Maddened Hill Giants
+
+**BEAT - vibration-maddened hill giants**
+
+**Live Use:** Use for unstable bombardier behavior, partial suppression, falling-debris effects, and non-sentry giant reactions.
 
 #### Stat Block - Vibration-Maddened Hill Giant
 
@@ -171,6 +179,12 @@ Ahead, the broken ramps tighten into something darker and cleaner: a black rib o
 
 ### Segment II - The Wind-Carved Spine
 
+**BEAT - wind-carved spine**
+
+**Live Use:** Use for timed climb narration, gust-window rulings, line-setting, rescue beats, and summit clue layering.
+
+**Likely Player Actions:** set lines, study the Tremorscope, search old marks, brace allies
+
 The route narrows until it stops feeling like a slope at all.
 
 The Wind-Carved Spine is a black-stone rib jutting out from the mountain like a blade only half-buried. Wind has stripped it clean of anything soft. No drifted snow. No broad shelves. No forgiving debris. Only dark stone, pale rime, and narrow holds that must be trusted one at a time.
@@ -250,6 +264,10 @@ The signal goes uphill, then answers back from near the summit a fraction too la
 
 #### Clue Layer C - Telescopic Atmospheric Reveal
 
+**BEAT - telescopic summit reveal**
+
+**Live Use:** Use for brief impossible-clarity narration and first strong visual confirmation of a hidden summit ingress.
+
 Only after the earlier clues are in place does the sky provide the payoff.
 
 Crossing higher beyond the Karagvorn line, wind shear and resonance briefly align with the already-established atmospheric distortion. Blown ice and pale air bend into that impossible telescopic phenomenon for a few heartbeats.
@@ -287,6 +305,10 @@ The spine does not end so much as loosen.
 The clean edge of black stone gives way to a broader slope ahead, but the width offers no comfort. It looks easier only until the first step onto it shifts under your weight.
 
 ### Segment III - The Shattered Moraine
+
+**BEAT - shattered moraine**
+
+**Live Use:** Use for burdened ascent, accumulated-failure atmosphere, low-oxygen pressure, and slow destabilizing movement.
 
 Beyond the spine, the route broadens just enough to feel false.
 
@@ -330,6 +352,14 @@ Broken anchors jut from scree. A snapped length of rope appears from under ice a
 - "You look back to judge distance and realize you are no longer certain which shelf you came from."
 
 ### Puzzle - The Silent Echo Cairn
+
+**BEAT - silent echo cairn**
+
+**Live Use:** Use for brief interpretive stillness, Tremorscope reading, and a simple fracture-acceptance puzzle.
+
+**Likely Player Actions:** study the Tremorscope, inspect cairns, search old marks, topple the pillar
+
+**Run Fast:** Reveal the imbalance quickly, allow one or two checks, then move to toppling the pillar and awarding the Harmonic Finder.
 
 **Placement:** Scene Packet 5 - Midway through Segment III (The Shattered Moraine), at a brief pocket of stillness in the moving field.
 
@@ -382,6 +412,12 @@ If they destroy the whole ring carelessly, lose the reward and heighten the sens
 This basalt whistle produces no audible note, only a vibration felt in the teeth. Once per long rest within the Karagvorn Line, you may blow it as an action. For 10 minutes, you have advantage on one check to interpret the Tremorscope or to navigate by terrain in poor visibility.
 
 #### Enemy Encounter - Moraine-Bound Dead
+
+**BEAT - moraine-bound dead**
+
+**Live Use:** Use for grim harassment, slowed-movement punishment, debris emergence, and summit-adjacent failure imagery.
+
+**Run Fast:** Run this as a short emergence-and-pressure encounter rather than a prolonged fight.
 
 #### Stat Block - Moraine-Bound Dead
 
@@ -471,6 +507,10 @@ For the first time since the ramps, the mountain offers something that almost re
 
 ### Segment IV - The Ice-Locked Shelf
 
+**BEAT - ice-locked shelf**
+
+**Live Use:** Use for false-relief narration, dangerous repositioning, and immediate pre-threshold pressure.
+
 The final approach levels without becoming merciful.
 
 At first glance, the Ice-Locked Shelf looks like relief: broad, open, almost orderly after the broken shelves, knife-edge climbs, and shifting moraine below. The surface is pale and clean. Frost has grown in geometric fans across black ice and buried stone. The summit wall rises ahead in hard planes and quiet angles, too deliberate to feel natural.
@@ -501,6 +541,14 @@ After broken stone and moving scree, the broad ice looks almost merciful. Frost 
 - "This does not feel like being attacked. It feels like being measured."
 
 ### Puzzle - The Frozen Reflection Shelf
+
+**BEAT - frozen reflection shelf**
+
+**Live Use:** Use for a brief emotional threshold beat that acknowledges cost before the guardian encounter.
+
+**Likely Player Actions:** test the reflections, acknowledge cost, set down a burden, brace allies
+
+**Run Fast:** Resolve after one sincere acknowledgment or one successful interpretive check, then move to the guardian.
 
 **Placement:** Scene Packet 5 - Immediately before or as the party first steps fully onto Segment IV (The Ice-Locked Shelf).
 
@@ -567,6 +615,10 @@ If the party engages the Frozen Reflection Shelf sincerely, apply one or more of
 If the party rejects the threshold entirely, the guardian meets them at full strength.
 
 ### Combat Encounter - Grief-Bound Guardian
+
+**BEAT - grief-bound guardian**
+
+**Live Use:** Use for the packet's hard threshold fight, lane control, forced movement, and scarcity-payoff pressure.
 
 #### Stat Block - Grief-Bound Guardian
 
@@ -666,6 +718,14 @@ When the guardian comes apart, the shelf does not relax.
 The ice settles into a silence so complete it feels purposeful. Above, through cold air and the last drifting spindrift, the hidden summit threshold waits where the Tremorscope points. There is nowhere left to go but up and in.
 
 ### Closing Beat - The Summit Door
+
+**BEAT - summit door**
+
+**Live Use:** Use for first close confirmation of ancient dwarven architecture, short mechanical threshold play, and the reveal of the spiral descent.
+
+**Likely Player Actions:** inspect carvings, test load-plates, distribute weight, force the door, prepare for descent
+
+**Run Fast:** Make the load-plate logic evident after one or two test attempts and resolve quickly once balanced burden is understood.
 
 The last stretch to the summit is not another climb so much as the final approach to something the mountain was hiding in plain sight.
 
@@ -771,6 +831,10 @@ A deeper cold.
 Buried.
 
 Still.
+
+**BEAT - spiral chamber threshold**
+
+**Live Use:** Use for first interior reveal narration and the handoff from exterior climb to interior descent.
 
 #### First Look into the Chamber
 

@@ -93,6 +93,7 @@ When editing or extending canon:
 - preserve the exact section order used by live packets
 - do not invent a new packet schema
 - revise in place where possible
+- keep scene packets self-contained for live play and DM-AI consumption; by default, include concise BEAT markers, Live Use anchors, selective Likely Player Actions, and selective Run Fast notes inside the packet itself while avoiding separate helper files for packet-level canon support
 
 ### Naming rule
 - Scene packets use the `.canon.md` suffix
