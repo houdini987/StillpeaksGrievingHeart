@@ -8,11 +8,11 @@
 
 **Expected Duration:** 45-75 minutes of play.
 
-**Encounter Types:** Traversal under attack, technical climb, environmental pressure, hard threshold combat.
+**Encounter Types:** Traversal under attack, technical climb, environmental pressure, hard threshold combat, concealed summit-ingress puzzle.
 
 **Key Mechanics:** climbing strain, rope and anchor depletion, cold-impaired dexterity, altitude pressure, Tremorscope clue layering, unstable footing.
 
-**Key Discoveries:** Stillpeak's vibrations are driving living creatures mad; prior climbers deliberately came this way; the Tremorscope indicates a hollow or focal void near the summit; a brief atmospheric reveal exposes a hidden seam at the summit that leads inward.
+**Key Discoveries:** Stillpeak's vibrations are driving living creatures mad; prior climbers deliberately came this way; the Tremorscope indicates a hollow or focal void near the summit; a brief atmospheric reveal exposes a concealed summit entrance that later resolves into an ancient dwarven stone door leading inward.
 
 ---
 
@@ -32,7 +32,7 @@ This packet should:
 - convert upward progress into expensive vertical gain
 - prove the mountain's vibrations are destabilizing both minds and stone
 - deplete climbing resources before the summit threshold fight
-- reveal, with increasing clarity, that the summit conceals a deliberate entrance leading down into Stillpeak
+- reveal, with increasing clarity, that the summit conceals a deliberate entrance leading down into Stillpeak, first as a distant hidden interruption and finally as an ancient dwarven summit door
 
 ### Design Intent
 
@@ -42,7 +42,7 @@ Make each segment solve a different climbing problem with a distinct failure tex
 
 Let violence emerge from terrain and resonance pressure rather than feeling like unrelated wandering monsters.
 
-End the packet with the party depleted, committed, and pointed directly at the summit breach.
+End the packet with the party depleted, committed, and brought directly to the concealed summit door.
 
 ### Segment I - Stonefold Ramps
 
@@ -238,7 +238,7 @@ Its pulses begin to return strangely through the stone whenever the party stabil
 
 Arcana, Investigation, or Tremorscope interpretation checks (**DC 14-16**) should point toward the same conclusion:
 - there is hidden internal structure near the summit rather than uninterrupted mass
-- the resonance suggests a hollow, seam, or occluded cavity
+- the resonance suggests a hollow, concealed ingress, or occluded cavity near the summit
 - the summit is acting as a focus point, not merely the highest elevation
 - what lies above is inside the mountain as much as on top of it
 
@@ -258,13 +258,13 @@ In that moment, the summit face resolves with unnatural clarity.
 
 Not for long. Just long enough.
 
-A narrow seam appears in the crown of the peak: too clean, too recessed, too deliberate to be a natural break. It reads as a breach or concealed entrance before weather and distance swallow it again.
+A narrow dark interruption appears in the crown of the peak: too clean, too recessed, too deliberate to be a natural break. At that distance it reads only as a concealed ingress or hidden break in the summit face before weather and distance swallow it again.
 
 #### Read-Aloud
 
 For a few impossible heartbeats, distance fails.
 
-Wind, blown ice, and that wrong lensing beyond the Line all align, and the summit comes near enough to wound the eye. You do not see the whole crown. You do not need to. A seam is there, thin and deliberate, set into the face of the peak like a shut door glimpsed between breaths.
+Wind, blown ice, and that wrong lensing beyond the Line all align, and the summit comes near enough to wound the eye. You do not see the whole crown. You do not need to. A dark interruption is there, thin and deliberate, set into the face of the peak like a hidden threshold only half-glimpsed between breaths.
 
 #### Lore to Surface
 
@@ -278,7 +278,7 @@ Someone deliberately climbed toward the summit before them.
 
 The Tremorscope can reveal hidden internal structure rather than merely pointing uphill.
 
-The next objective is no longer abstract ascent. They must reach the summit, find the concealed seam, and enter the mountain through it.
+The next objective is no longer abstract ascent. They must reach the summit, confirm the concealed entrance, and enter the mountain through it.
 
 #### Transition Beat
 
@@ -649,7 +649,7 @@ If the party reads the moment clearly, the DM can paraphrase: the mountain has s
 
 If the guardian falls, the device clears just long enough to indicate direction rather than danger.
 
-Upward. Toward the summit seam.
+Upward. Toward the concealed summit threshold.
 
 #### Narrative Signal
 
@@ -657,13 +657,13 @@ The Ice-Locked Shelf should feel like false relief becoming judgment.
 
 The mountain has fully noticed the party. Earlier attrition now has immediate tactical consequences. There is no comfortable place left to regroup before Packet 6.
 
-The packet ends with the party diminished, the summit entrance fixed as the only meaningful objective, and the sense that Stillpeak has stopped testing whether they will continue and started testing what they have left to spend.
+The packet ends with the party diminished, the concealed summit entrance fixed as the only meaningful objective, and the sense that Stillpeak has stopped testing whether they will continue and started testing what they have left to spend.
 
 #### Transition Beat
 
 When the guardian comes apart, the shelf does not relax.
 
-The ice settles into a silence so complete it feels purposeful. Above, through cold air and the last drifting spindrift, the summit seam waits where the Tremorscope points. There is nowhere left to go but up and in.
+The ice settles into a silence so complete it feels purposeful. Above, through cold air and the last drifting spindrift, the hidden summit threshold waits where the Tremorscope points. There is nowhere left to go but up and in.
 
 ### Closing Beat - The Summit Door
 
@@ -848,24 +848,26 @@ Do not let combat fully halt the climb. Even in hostile encounters, the mountain
 ## 6. Encounter Modules
 
 - **Stonefold Ramps:** traversal under bombardment by vibration-maddened hill giants.
-- **Wind-Carved Spine:** technical split climb with wind timing, cold impairment, and summit-breach clue layering.
+- **Wind-Carved Spine:** technical split climb with wind timing, cold impairment, and concealed-summit clue layering.
 - **Shattered Moraine:** unstable approach pressure with a harassment encounter that exploits slowed movement.
 - **Ice-Locked Shelf:** hard threshold fight where earlier depletion makes lanes, repositioning, and recovery immediately dangerous.
+- **Summit Door:** short mechanical ingress puzzle revealing the ancient dwarven door hidden in the summit crown.
 
 ## 7. Player Curiosity Hooks
 
 - Old tool marks and failed climbing traces suggest someone deliberately sought the summit.
 - Tremorscope readings imply a hidden interior void rather than a merely dangerous peak.
-- A brief atmospheric reveal exposes a seam or door-like break high near the summit crown.
+- A brief atmospheric reveal exposes a concealed interruption high near the summit crown that later resolves into an ancient dwarven entrance.
 - Living creatures encountered here show that Stillpeak's resonance is actively destroying sanity.
 
 ## 8. Escalation Signal
 
-End the packet with a strong directional confirmation: the Tremorscope stabilizes on the summit breach, the weather parts just enough to reassert the seam, or the party finds one final deliberate climbing trace aimed straight at the hidden entrance.
+End the packet with a strong directional confirmation: the Tremorscope stabilizes on the concealed summit entrance, the weather parts just enough to reassert the hidden interruption in the crown, or the party reaches and opens the ancient dwarven summit door itself.
 
 ## 9. Rewards / Discoveries
 
-- Hard confirmation that the summit contains a concealed entrance leading down into Stillpeak.
+- Hard confirmation that the summit contains a concealed ancient dwarven entrance leading down into Stillpeak.
+- Physical access to the spiral descent chamber hidden within the summit crown.
 - Practical lessons about conserving and spending climbing resources under pressure.
 - Optional threshold mitigation and momentary clarity that matter because the party is already running low.
 
