@@ -219,7 +219,7 @@ The first clue arrives in the stone itself.
 As the party sets lines and searches for trustworthy holds, they begin finding signs that this exact approach was used before by climbers aiming for a very specific point high above:
 - old piton scars hammered into black stone where no natural traveler would bother to place them
 - weathered route traces that only make sense as a deliberate high-angle line
-- a remnant of worked rope or fixed line frozen into a seam
+- a remnant of worked rope or fixed line frozen into a narrow stone recess
 - tool-cut notches or markers too intentional to be dismissed as coincidence
 
 These traces should be discovered in motion, while choosing holds and placements, so the realization arrives as part of the climb: someone came here on purpose, and they were not merely trying to survive the mountain. They were trying to reach something.
@@ -726,7 +726,7 @@ If the party recovered the **Dwarven Stone-Whistle (Harmonic Finder)**, allow ad
 
 #### Running the Puzzle
 
-The simplest intended solution is that the party places weight on the correct plates in a balanced pattern.
+The simplest intended solution is that the party distributes weight across all four plates in a balanced pattern.
 
 Use practical logic, not exact hidden arithmetic.
 
@@ -750,7 +750,7 @@ The puzzle should resolve quickly once the party grasps the idea.
 
 The first wrong attempt earns only resistance.
 
-A deep stone thud sounds somewhere inside the summit, followed by the dry complaint of old weight trying to move and settling back into place. Frost slips from the doorframe in thin white sheets. One of the hidden seams widens by a finger's breadth, then stills again.
+A deep stone thud sounds somewhere inside the summit, followed by the dry complaint of old weight trying to move and settling back into place. Frost slips from the doorframe in thin white sheets. One of the fitted lines in the doorframe widens by a finger's breadth, then stills again.
 
 Not locked against you.
 
