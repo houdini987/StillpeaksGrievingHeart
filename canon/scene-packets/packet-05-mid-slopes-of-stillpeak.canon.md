@@ -665,6 +665,152 @@ When the guardian comes apart, the shelf does not relax.
 
 The ice settles into a silence so complete it feels purposeful. Above, through cold air and the last drifting spindrift, the summit seam waits where the Tremorscope points. There is nowhere left to go but up and in.
 
+### Closing Beat - The Summit Door
+
+The last stretch to the summit is not another climb so much as the final approach to something the mountain was hiding in plain sight.
+
+Beyond the Ice-Locked Shelf, the slope rises only a little farther before ending at a wall of black stone plated in old frost. Up close, the summit crown does not feel natural in the way the lower mountain felt natural, even at its most hostile. The lines here are too controlled. Too even. Too deliberate.
+
+What the party glimpsed from below as a narrow dark interruption now resolves into something far more exact: an ancient dwarven stone door, set flush into the summit face and weathered so thoroughly that from any real distance it could still be mistaken for part of the mountain itself.
+
+This is not a place of triumph.
+
+It is an access point.
+
+#### Purpose
+
+This closing beat should:
+- bring the party physically to the hidden summit entrance
+- confirm that the summit concealment is ancient dwarven construction rather than a natural crack
+- provide one short mechanical threshold puzzle appropriate to original dwarven engineering
+- end Packet 5 with the door opened and the spiral descent chamber revealed beyond
+
+#### Read-Aloud
+
+The final rise leaves nowhere else to go.
+
+The summit wall stands before you in black stone and wind-frozen white, close enough now that the shape you chased from below can no longer pretend to be natural. Frost lies across the face in long mineral veils, but not evenly. It gathers around edges. Around boundaries.
+
+Around a door.
+
+Tall, ancient, and nearly flush with the mountain, the slab is fitted so precisely into the summit crown that only now-only here-does the hidden line of it become obvious. No handle breaks its surface. No hinges show. The carvings that frame it are worn nearly smooth by age, but enough remains to mark it as dwarven work: ordered figures under burden, stone held in balance, craft made law.
+
+The Tremorscope points not upward now, but directly at the sealed threshold.
+
+#### Summit Door & Forecourt
+
+- The door is a massive slab of dark fitted stone, tall enough for dwarves to pass through in file and broad enough for load movement
+- It sits within a shallow worked forecourt cut directly into the summit crown
+- Frost and mineral staining partially conceal the frame, but the join-lines are too exact to be natural
+- Around the threshold, worn relief carvings depict dwarven laborers, haulers, masons, and braced supports arranged in stable formation
+- In front of the door are **four squat stone load-plates** set into the ground, arranged in a deliberate pattern across the worked forecourt
+- No arcane glow, script puzzle, or overt magical lock announces itself; this is an engineered entrance, not a theatrical one
+
+#### Mechanical Beat - The Load-Plate Threshold
+
+The summit door opens through **balanced distributed weight**, not brute force and not a spoken answer.
+
+The four load-plates are part of an ancient dwarven counterweight mechanism built into the threshold. The intended lesson is simple: the deep opens to ordered burden correctly applied.
+
+The party should be able to solve this through observation and experimentation, not precision math.
+
+#### Checks & Clues
+
+- **Investigation (DC 13):** The four plates are worn differently from the surrounding stone and are clearly meant to bear weight.
+- **Perception (DC 13):** Fine seams around the door tighten or loosen slightly when a plate is tested.
+- **History (DC 14):** The relief carvings depict stable labor formations and balanced support, not combat or ceremony.
+- **Athletics (DC 12):** A character can test a plate safely, feeling the stone settle slightly beneath their weight.
+- **Arcana (DC 13):** The Tremorscope is not opening the door, but it confirms that the active path forward lies through this mechanism and not elsewhere in the summit face.
+
+If the party recovered the **Dwarven Stone-Whistle (Harmonic Finder)**, allow advantage on one check made to interpret the threshold correctly.
+
+#### Running the Puzzle
+
+The simplest intended solution is that the party places weight on the correct plates in a balanced pattern.
+
+Use practical logic, not exact hidden arithmetic.
+
+Examples of acceptable solutions:
+- four creatures each standing on one plate
+- three creatures plus one weighted pack, stone block, or equivalent load on the fourth
+- any other reasonable arrangement that clearly shows the party has understood the principle of distributed burden rather than crowding one side or forcing the door directly
+
+Wrong attempts should not punish the party harshly this late in the packet.
+
+Instead, use:
+- a deep internal lock-thud
+- a partial shift that resets
+- a small shiver through the forecourt
+- frost falling from the frame
+- the sense that the mechanism is waiting for proper balance, not rejecting them out of hostility
+
+The puzzle should resolve quickly once the party grasps the idea.
+
+#### Read-Aloud - The Mechanism Answers
+
+The first wrong attempt earns only resistance.
+
+A deep stone thud sounds somewhere inside the summit, followed by the dry complaint of old weight trying to move and settling back into place. Frost slips from the doorframe in thin white sheets. One of the hidden seams widens by a finger's breadth, then stills again.
+
+Not locked against you.
+
+Unconvinced by you.
+
+When the weight finally settles into proper balance, the answer comes through the soles of your boots before it reaches your ears.
+
+Something immense shifts inside the mountain.
+
+The plates sink a fraction. Counterweights engage somewhere deep in the wall. Dust, frost, and ancient mineral grit whisper down from the frame as the great slab releases inward with unbearable slowness.
+
+Cold air spills out from within.
+
+Not the sharp wind-cold of the summit outside.
+
+A deeper cold.
+
+Buried.
+
+Still.
+
+#### First Look into the Chamber
+
+Beyond the opened door, the mountain does not reveal a room in full.
+
+It reveals descent.
+
+Just past the threshold, the stone curves away into a spiral chamber cut downward through the heart of the summit. Old dwarven masonry and black mountain stone are fused together by age, pressure, and mineral growth. The descending path is broad enough for deliberate passage, but the dark below swallows certainty almost at once.
+
+Details the party may immediately notice:
+- a spiraling inner wall disappearing below
+- old worked steps or a sloping descent path cut for repeated use
+- support ribs, brackets, or carved stone braces partly swallowed by age
+- air from below carrying stone-dust, iron, and a colder stillness than the mountain wind outside
+- the Tremorscope's pulse now angled downward into the hidden interior
+
+#### Narrative Signal
+
+Packet 5 should end with a clean campaign hinge.
+
+The party has finished the exterior climb.
+
+They have not conquered Stillpeak.
+
+They have found the way inside it.
+
+The mountain above was the warning.
+
+The descent below is the real passage.
+
+#### Transition Beat
+
+End the packet with the door standing open behind the party's solved threshold and the spiral chamber falling away before them.
+
+The summit wind remains at their backs for only a moment.
+
+Then even that feels far away.
+
+Packet 6 begins when they cross the threshold and start down into the buried dwarven interior beneath Stillpeak.
+
 ---
 
 ## 3. Read-Aloud Scene Introduction
