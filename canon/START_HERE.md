@@ -147,7 +147,7 @@ The ascent becomes an attrition threshold. The mountain now feels actively hosti
 - the Tremorscope detects hidden internal structure
 - the summit contains a concealed entrance leading inward
 
-By the end of Packet 5, the summit is no longer the final destination. It is the threshold into the real mystery.
+By the end of Packet 5, the party has reached and opened the concealed ancient dwarven summit door. The summit is no longer the final destination. It is the threshold into the real mystery.
 
 ---
 
@@ -307,7 +307,7 @@ Preserve:
 - existing naming conventions
 
 Current story spine:
-- Packets 1–5 cover the exterior ascent to the summit seam.
+- Packets 1–5 cover the exterior ascent to the concealed ancient dwarven summit door.
 - The summit reveals a hidden opening into a spiral descent chamber.
 - The real mission becomes stopping the worsening tremors from inside Stillpeak.
 - The deeper source is a bereaved dwarven undead king whose grief, rage, and stone-drawing power destroyed an ancient mining establishment.

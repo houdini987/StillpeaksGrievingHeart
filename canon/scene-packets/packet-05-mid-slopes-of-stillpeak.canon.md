@@ -6,7 +6,7 @@
 
 **Purpose:** Turn the ascent into a costly attrition threshold, prove Stillpeak is actively breaking minds and terrain, and point the party toward a hidden summit entrance leading down into the mountain.
 
-**Expected Duration:** 45-75 minutes of play.
+**Expected Duration:** 75-120 minutes of play, depending on how fully the traversal, cairn, guardian, and summit-ingress beats are played.
 
 **Encounter Types:** Traversal under attack, technical climb, environmental pressure, hard threshold combat, concealed summit-ingress puzzle.
 
@@ -183,7 +183,7 @@ Ahead, the broken ramps tighten into something darker and cleaner: a black rib o
 
 **Live Use:** Use for timed climb narration, gust-window rulings, line-setting, rescue beats, and summit clue layering.
 
-**Likely Player Actions:** set lines, study the Tremorscope, search old marks, brace allies
+**Likely Player Actions:** set lines, time movement windows, study the Tremorscope, secure anchors, brace allies
 
 The route narrows until it stops feeling like a slope at all.
 
@@ -310,6 +310,8 @@ The clean edge of black stone gives way to a broader slope ahead, but the width 
 
 **Live Use:** Use for burdened ascent, accumulated-failure atmosphere, low-oxygen pressure, and slow destabilizing movement.
 
+**Flow Guidance:** Run the moraine as a burdened crossing first, the cairn as its brief interpretive pause, and the dead as pressure if hesitation, delay, or pacing calls for consequence.
+
 Beyond the spine, the route broadens just enough to feel false.
 
 The Shattered Moraine is a field of accumulated failure: shattered stone, ice-laced debris, buried collapse, and the half-kept remains of other attempts. Old anchors protrude from scree with nothing left attached. A snapped line emerges from frozen rubble and vanishes again. Here and there, bones or splintered gear show through the slope for a moment before the moraine shifts and half-buries them again.
@@ -357,7 +359,7 @@ Broken anchors jut from scree. A snapped length of rope appears from under ice a
 
 **Live Use:** Use for brief interpretive stillness, Tremorscope reading, and a simple fracture-acceptance puzzle.
 
-**Likely Player Actions:** study the Tremorscope, inspect cairns, search old marks, topple the pillar
+**Likely Player Actions:** study the Tremorscope, inspect cairns, interpret the imbalance, test the cracked pillar, topple the pillar
 
 **Run Fast:** Reveal the imbalance quickly, allow one or two checks, then move to toppling the pillar and awarding the Harmonic Finder.
 
@@ -487,7 +489,7 @@ If the party investigates the debris fields or succeeds on the right checks, the
 
 #### Camp Decision Point
 
-This can still function as the last meaningful staging point before Packet 6, but it is a bad refuge rather than a good one. Rest here may steady the party for the summit push, yet it also means lingering under thin air, false distance, shifting debris, and the pressure that has already started settling into their bodies.
+This can still function as a last bad refuge before Packet 6 if the party insists on stopping, but it should not feel like a full safe staging point. Rest here may steady the party for the summit push, yet it also means lingering under thin air, false distance, shifting debris, and the pressure that has already started settling into their bodies.
 
 If the party camps here, emphasize that they are not recovering in safety. They are choosing to stop inside the compression chamber.
 
