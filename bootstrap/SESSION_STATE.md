@@ -9,16 +9,16 @@ It should always reflect the most recent agreed-upon table state.
 ## Location
 
 - Packet: **05 — The Mid-Slopes of Stillpeak**
-- Segment: **II — Wind-Carved Spine (entry point)**
-- Position: Transition point from Stonefold Ramps into the Wind-Carved Spine
+- Segment: **III — Shattered Moraine**
+- Position: Arrival / approach to the Shattered Moraine after completing the Wind-Carved Spine
 
 ---
 
 ## Party Status
 
 - Level: **7 (all members)**
-- Condition: Post-combat (hill giant), currently in a **short rest**
-- Positioning: Rope secured below on Stonefold Ramps (Maelreth), preparing for precision ascent
+- Condition: Post-Wind-Carved Spine traversal; entering the Shattered Moraine
+- Positioning: Party has completed the precision climb beyond the Stonefold Ramps and is transitioning into unstable moraine terrain
 
 ---
 
@@ -34,7 +34,8 @@ It should always reflect the most recent agreed-upon table state.
 - Sustained multiple rock impacts during traversal
 - Encountered **one** vibration-maddened hill giant (reduced from default two)
 - Hill giant defeated
-- Party halted to take a short rest before committing to Wind-Carved Spine
+- Party completed the Wind-Carved Spine traversal
+- Party is now at the Shattered Moraine beat
 
 ---
 
@@ -56,8 +57,7 @@ It should always reflect the most recent agreed-upon table state.
 
 ## Immediate Next Beat
 
-- Commit to traversal of **Wind-Carved Spine**
-- Shift from chaotic movement (ramps) to precision climbing (wind exposure, anchor placement, timing)
+- Establish the **Shattered Moraine**: broken ice, unstable stone, aftermath of mountain violence, and the next stage of ascent pressure
 
 ---
 
@@ -72,10 +72,10 @@ It should always reflect the most recent agreed-upon table state.
 
 ## DM Notes (Operational)
 
-- Emphasize transition in tone: chaos → precision
-- Reduce cover, increase exposure and timing pressure
-- Force role definition (lead climber, anchor setter, spotter)
-- Maintain tension even during rest (no true safety)
+- Emphasize terrain instability rather than pure exposure
+- Shift pressure from precision climbing to fractured footing, shifting ice, and unstable debris
+- Preserve the sense that the mountain is breaking apart under rhythmic force
+- Keep the Mountain Toll active through movement, cold, fatigue, and hazard consequences
 
 ---
 
