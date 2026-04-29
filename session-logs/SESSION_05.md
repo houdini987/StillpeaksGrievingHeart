@@ -2,7 +2,22 @@
 
 ## High-Level Summary
 
-The party completed the Wind-Carved Spine traversal and advanced into Packet 05, Segment III — the Shattered Moraine.
+The party completed the Wind-Carved Spine traversal and advanced into Packet 05, Segment III — the Shattered Moraine. This is a bridge / state-advancement log created to reconcile live table progress with the repo baseline after the close-session protocol was formalized.
+
+## Play-by-Play
+
+### Wind-Carved Spine Continuation
+
+- The party continued from the Stonefold Ramps / Wind-Carved Spine transition point.
+- Maelreth's previously secured rope below the Stonefold Ramps remained relevant as prior tactical setup, but the party moved beyond that anchor point during the spine traversal.
+- The scene pressure shifted from chaotic rockfall and ramp ascent into exposed precision climbing.
+- The party completed the Wind-Carved Spine traversal.
+
+### Transition into Shattered Moraine
+
+- After the exposed spine, the terrain changed again: less about narrow wind exposure, more about broken ice, unstable stone, and fractured debris.
+- The party arrived at / approached the Shattered Moraine.
+- The next scene should establish unstable moraine terrain as the new active pressure: shifting footing, cracked ice, broken stone, and evidence that the mountain is being damaged by rhythmic force.
 
 ## Key Events
 
