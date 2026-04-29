@@ -2,13 +2,6 @@
 
 This file is the shared starting point for any AI project, assistant, or human collaborator working from this repository.
 
-It is intended to support two working modes:
-
-- **DM Runtime Project:** live table support, rulings, narration, continuity, and session-state updates.
-- **Ideation / Design Project:** packet design, canon refinement, prep work, structural improvements, and future-session planning.
-
-Both projects should read this file before acting.
-
 ---
 
 ## Mandatory Read Order
@@ -19,33 +12,20 @@ When beginning work, read in this order:
 2. `bootstrap/PROJECT_ROLES.md`
 3. `bootstrap/SESSION_PROTOCOL.md`
 4. `bootstrap/SESSION_STATE.md`
-5. `LESSONS_LEARNED.md`
-6. `canon/CANON_MANIFEST.md`
-7. Most recent relevant file in `session-logs/`
-8. Relevant canon packet(s) from `canon/scene-packets/`
-9. Supporting files from `canon/project-rules/` or `canon/appendices/` only as needed
-
-If there is uncertainty about packet paths, file names, or current canon scope, use `canon/CANON_MANIFEST.md` first rather than guessing.
+5. `session-logs/LATEST_SESSION_LOG.md`
+6. `LESSONS_LEARNED.md`
+7. `canon/CANON_MANIFEST.md`
 
 ---
 
-## Authority Model
+## Session Log Access Rule
 
-### Canon Layer
+Do not rely on directory listing or search to find the latest session log.
 
-`canon/` contains designed campaign truth.
+Always use:
+- `session-logs/LATEST_SESSION_LOG.md` as the deterministic pointer
 
-### Session Log Layer
-
-`session-logs/` contains actual-play continuity.
-
-### Lessons Learned Layer
-
-`LESSONS_LEARNED.md` contains compact operational rules and corrections. Read the full file during boot.
-
-### Bootstrap Layer
-
-`bootstrap/` contains shared operating instructions and the current working state.
+If the pointer is missing, stale, or conflicts with SESSION_STATE, flag immediately.
 
 ---
 
