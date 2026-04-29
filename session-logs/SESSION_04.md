@@ -26,6 +26,7 @@ The party progressed through Packet 05, resolved the Silent Echo Cairn, crossed 
 - Party level: 7
 - Condition: post-combat, taking a short rest
 - Position: transition point from Stonefold Ramps into Wind-Carved Spine
+- Tactical detail: Maelreth has rope secured below on the Stonefold Ramps.
 
 ## Advancement
 
