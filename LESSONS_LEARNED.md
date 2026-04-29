@@ -12,3 +12,4 @@ Use this file as the single compact index of durable project lessons. Keep each 
 - LL-008 [Format] Use `LL-### [Tag]` plus a short directive; keep each lesson actionable and compact.
 - LL-009 [Stability] Never renumber existing lesson IDs; leave gaps if an entry is retired or removed.
 - LL-010 [Session Access] Do not scan or search for session logs; always use `session-logs/LATEST_SESSION_LOG.md` as the pointer.
+- LL-011 [Table Truth] Do not propose cutting, replaying, or relocating completed table beats; treat completed session-state events as history unless the user explicitly asks to retcon.
