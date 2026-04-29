@@ -13,7 +13,7 @@ The repo should always make it possible to answer two questions quickly:
 
 ---
 
-## Opening a New Session (Enhanced Behavior)
+## Opening a New Session
 
 ### User Command
 
@@ -24,19 +24,20 @@ The repo should always make it possible to answer two questions quickly:
 When opening a session, the assistant MUST:
 
 1. Read `bootstrap/BOOTSTRAP.md`.
-2. Read `bootstrap/SESSION_STATE.md`.
-3. Read `canon/CANON_MANIFEST.md`.
-4. Scan the `session-logs/` directory to determine:
-   - the most recent session file
-   - the highest session number
-5. Read the most recent session log file.
-6. Read the active canon packet and segment from SESSION_STATE.
+2. Follow the bootstrap read order.
+3. Read `bootstrap/SESSION_STATE.md`.
+4. Read `session-logs/LATEST_SESSION_LOG.md`.
+5. Read the latest session log file named by that pointer.
+6. Read `canon/CANON_MANIFEST.md`.
+7. Read the active canon packet and segment from SESSION_STATE.
+
+Do not scan or list the `session-logs/` directory to discover the latest session log. The pointer file is the deterministic discovery mechanism.
 
 ### Derived State Requirements
 
 The assistant MUST:
 
-- Determine the **next session number** (do not create the file yet)
+- Determine the **next session number** from the latest session log pointer, not memory
 - Validate SESSION_STATE against the latest session log
 - Detect any mismatch between SESSION_STATE and session logs
 
@@ -78,8 +79,9 @@ When closing a session, the assistant MUST:
 1. Use the repo-derived next session number.
 2. Build the session log using the standard structure.
 3. Write the new file to `session-logs/`.
-4. Update `bootstrap/SESSION_STATE.md`.
-5. Confirm both writes.
+4. Update `session-logs/LATEST_SESSION_LOG.md` to point at the new file.
+5. Update `bootstrap/SESSION_STATE.md`.
+6. Confirm all writes.
 
 ---
 
@@ -93,12 +95,14 @@ When closing a session, the assistant MUST:
 
 - Update `SESSION_STATE.md`
 - Do NOT create a new session log
+- Do NOT update `session-logs/LATEST_SESSION_LOG.md` unless a new session log is also created
 
 ---
 
 ## Critical Rules
 
-- Session numbering MUST be derived from repo, never memory
+- Session log discovery MUST use `session-logs/LATEST_SESSION_LOG.md`, never directory scan/search
+- Session numbering MUST be derived from the latest session log pointer, never memory
 - SESSION_STATE MUST reflect repo truth, not chat assumptions
 - OPEN SESSION = read-only
 - CLOSE SESSION = write + persist
@@ -107,8 +111,8 @@ When closing a session, the assistant MUST:
 
 ## Cross-Project Rules
 
-- DM Runtime writes session logs and SESSION_STATE
-- Ideation reads but does not modify them
+- DM Runtime writes session logs, LATEST_SESSION_LOG, and SESSION_STATE
+- Ideation reads but does not modify them unless explicitly asked to perform repo maintenance
 
 ---
 
