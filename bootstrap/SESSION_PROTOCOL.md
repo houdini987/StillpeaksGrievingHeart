@@ -76,12 +76,20 @@ It must NOT:
 
 When closing a session, the assistant MUST:
 
-1. Use the repo-derived next session number.
+1. Use the repo-derived next session number from `session-logs/LATEST_SESSION_LOG.md`.
 2. Build the session log using the standard structure.
-3. Write the new file to `session-logs/`.
-4. Update `session-logs/LATEST_SESSION_LOG.md` to point at the new file.
-5. Update `bootstrap/SESSION_STATE.md`.
-6. Confirm all writes.
+3. Include current table reality: location, completed beat/segment, current beat/segment, party condition, tactical carryovers, gained/missed items, deviations from canon, and immediate next beat.
+4. Write the new file to `session-logs/`.
+5. Update `session-logs/LATEST_SESSION_LOG.md` to point at the new file.
+6. Update `bootstrap/SESSION_STATE.md` so it reflects the live baseline for the next session, not the beginning of the session that just ended.
+7. Cross-check that `SESSION_STATE.md`, `LATEST_SESSION_LOG.md`, and the newly written session log agree on packet, segment, position, party level, condition, and immediate next beat.
+8. Confirm all writes and flag any unresolved uncertainty instead of silently guessing.
+
+### Close-Session State Advancement Rule
+
+`CLOSE SESSION` must advance repo state to the party's actual ending position. If the party completed a segment or beat during play, `SESSION_STATE.md` must be moved forward to the next current beat/segment.
+
+Do not leave `SESSION_STATE.md` pointing at the session's starting beat unless the party actually ended there.
 
 ---
 
@@ -106,6 +114,7 @@ When closing a session, the assistant MUST:
 - SESSION_STATE MUST reflect repo truth, not chat assumptions
 - OPEN SESSION = read-only
 - CLOSE SESSION = write + persist
+- CLOSE SESSION must advance state to the next actual live-play baseline
 
 ---
 
