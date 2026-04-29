@@ -16,11 +16,15 @@ Both projects should read this file before acting.
 When beginning work, read in this order:
 
 1. `bootstrap/BOOTSTRAP.md`
-2. `bootstrap/SESSION_STATE.md`
-3. `canon/CANON_MANIFEST.md`
-4. Most recent relevant file in `session-logs/`
-5. Relevant canon packet(s) from `canon/scene-packets/`
-6. Supporting files from `canon/project-rules/` or `canon/appendices/` only as needed
+2. `bootstrap/PROJECT_ROLES.md`
+3. `bootstrap/SESSION_PROTOCOL.md`
+4. `bootstrap/SESSION_STATE.md`
+5. `lessons-learned/LESSONS_INDEX.md`
+6. All active lesson files referenced in `lessons-learned/LESSONS_INDEX.md`
+7. `canon/CANON_MANIFEST.md`
+8. Most recent relevant file in `session-logs/`
+9. Relevant canon packet(s) from `canon/scene-packets/`
+10. Supporting files from `canon/project-rules/` or `canon/appendices/` only as needed
 
 If there is uncertainty about packet paths, file names, or current canon scope, use `canon/CANON_MANIFEST.md` first rather than guessing.
 
@@ -44,6 +48,14 @@ Session logs record what happened at the table: player choices, deviations from 
 
 Session logs are authoritative for continuity, but not automatically authoritative for future canon design.
 
+### Lessons Learned Layer
+
+`lessons-learned/` contains operational gotchas and process corrections discovered while using the repo across both projects.
+
+Both the DM Runtime Project and the Ideation / Design Project should scan active lessons during boot.
+
+The assistant is responsible for determining whether a newly discovered error or user callout is serious enough to become a lesson. Serious issues include mistakes that could cause session-state drift, canon bleed, numbering errors, write-order problems, or recurring workflow confusion.
+
 ### Bootstrap Layer
 
 `bootstrap/` contains shared operating instructions and the current working state.
@@ -66,6 +78,8 @@ Never assume the party acquired an item, clue, boon, or NPC relationship merely 
 ---
 
 ## Project Role Split
+
+For full role boundaries, read `bootstrap/PROJECT_ROLES.md`.
 
 ### DM Runtime Project
 
@@ -106,6 +120,29 @@ Recommended format:
 8. Pause Point
 
 The most important section for cross-project coordination is **Deviations from Canon**.
+
+---
+
+## Lessons Learned Expectations
+
+Lessons learned are not a dumping ground.
+
+Create a new lesson only when a mistake, gotcha, or user correction is serious enough that the system should not repeat it.
+
+Examples of lesson-worthy issues:
+
+- Accidental writes during read-only workflows
+- Session numbering drift
+- SESSION_STATE mismatch with latest session log
+- Canon/session-log confusion
+- Incorrect project-role behavior
+- Repeated live-play friction caused by ambiguous protocol
+
+When a new lesson is created:
+
+1. Add a new `LL-###-short-slug.md` file.
+2. Update `lessons-learned/LESSONS_INDEX.md`.
+3. Update bootstrap or protocol files if the lesson changes boot behavior.
 
 ---
 
