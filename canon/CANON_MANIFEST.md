@@ -16,5 +16,6 @@ This file is a navigation and indexing aid only. It helps humans and tools find 
 
 - `canon/README.md` — Canon-layer overview, repo consumption guidance, and packet structure rules.
 - `canon/project-rules/canon-authority.md` — Canon authority and source-layer handling rules for the repository.
+- `canon/appendices/overall-story-arc.md` — Supporting canon appendix for the locked campaign-level grief-source, dwarven king, queen's death, reactivation timeline, and interior design direction.
 - `canon/appendices/monsters-of-stillpeak.md` — Supporting canon appendix for Stillpeak monster references.
 - `canon/appendices/visual-escalation-model.md` — Supporting canon appendix for visual progression and degradation beyond the Karagvorn Line.
