@@ -11,6 +11,7 @@ This file is a navigation and indexing aid only. It helps humans and tools find 
 | Packet 03 | Cinderwatch Frozen Village | `canon/scene-packets/packet-03-cinderwatch-frozen-village.canon.md` | Village packet covering Cinderwatch and its immediate canon beats. | Live canon |
 | Packet 04 | The Karagvorn Line & Lower Slopes | `canon/scene-packets/packet-04-karagvorn-line-lower-slopes.canon.md` | Crossing packet establishing the Karagvorn Line and lower-slope ascent rules. | Live canon |
 | Packet 05 | The Mid-Slopes of Stillpeak | `canon/scene-packets/packet-05-mid-slopes-of-stillpeak.canon.md` | Mid-slopes attrition packet covering the summit approach threshold. | Live canon |
+| Packet 06 | The Exodus Stair | `canon/scene-packets/packet-06-the-exodus-stair.canon.md` | Upper interior transition packet from summit egress into the first wider exodus landing. | Draft canon |
 
 ## Other Key Canon Files
 
