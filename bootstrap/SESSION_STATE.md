@@ -10,15 +10,15 @@ It should always reflect the most recent agreed-upon table state.
 
 - Packet: **05 — The Mid-Slopes of Stillpeak**
 - Segment: **III — Shattered Moraine**
-- Position: Arrival / approach to the Shattered Moraine after completing the Wind-Carved Spine
+- Position: **Summit Face reached; party is at the concealed dwarven entrance threshold but has not opened the door yet**
 
 ---
 
 ## Party Status
 
 - Level: **7 (all members)**
-- Condition: Post-Wind-Carved Spine traversal; entering the Shattered Moraine
-- Positioning: Party has completed the precision climb beyond the Stonefold Ramps and is transitioning into unstable moraine terrain
+- Condition: **Severely oxygen-deprived / altitude sick after completing the Shattered Moraine final ascent**
+- Positioning: Party reached the summit face after crossing the Shattered Moraine under physical timer pressure; they must now determine how to reveal/open the dwarven door while suffering summit hypoxia.
 
 ---
 
@@ -35,7 +35,10 @@ It should always reflect the most recent agreed-upon table state.
 - Encountered **one** vibration-maddened hill giant (reduced from default two)
 - Hill giant defeated
 - Party completed the Wind-Carved Spine traversal
-- Party is now at the Shattered Moraine beat
+- Party entered the Shattered Moraine final ascent using the physical 2-minute timer pressure system
+- Party crossed the Shifting Lanes, Burden Ridge, Dead Field, and Glassing Slope
+- Party reached **Beat 6 — Summit Face**
+- Party is now severely deprived of oxygen / altitude sick and must find a way to open the concealed dwarven entrance
 
 ---
 
@@ -45,37 +48,44 @@ It should always reflect the most recent agreed-upon table state.
 - Silent Echo Cairn dwarf whistle not recovered (missed content)
 - Flame boon modified to a mild warming effect
 - Environmental pressure emphasized during traversal beyond baseline pacing
+- Party briefly considered / used rope tethering logic during Shattered Moraine planning, but they were **not tethered** during later timer consequences in the Shifting Lanes
 
 ---
 
 ## Active Systems
 
-- **Tremorscope:** active, continues to indicate increasing signal strength toward summit
-- **Mountain Toll System:** active (movement tax, fatigue, cold checks, wind effects, climb mechanics)
+- **Tremorscope:** active at the summit face; no longer only points upward and is expected to respond from within / through the stone as the door interaction begins
+- **Mountain Toll System:** active until the party enters Stillpeak interior
+- **Physical Timer:** active through the exterior summit-face pressure unless the DM explicitly pauses it for door interaction pacing
+- **Altitude Sickness Phase 3 — Summit Hypoxia:** active; party is severely oxygen-deprived, and movement/forceful physical checks should reflect hypoxia pressure
 
 ---
 
 ## Immediate Next Beat
 
-- Establish the **Shattered Moraine**: broken ice, unstable stone, aftermath of mountain violence, and the next stage of ascent pressure
+- **Open the concealed dwarven summit door** at Packet 5, Beat 6 — Summit Face.
+- The party has reached the wall/door threshold but has **not yet opened the entrance**.
+- Use tremorscope resonance, ice clearing, dwarven construction logic, force/magic, or a cost-bearing hold/stabilization action to resolve the door.
 
 ---
 
 ## Open Threads
 
-- Increasing tremorscope signal toward summit
-- Nature and source of rhythmic tremors
+- Tremorscope signal now answers from within / through the summit stone
+- Nature and source of rhythmic tremors remain unresolved
 - Environmental degradation patterns and their origin
 - Unrecovered Silent Echo Cairn whistle (potentially lost permanently unless revisited)
+- Consequences of entering Stillpeak while severely altitude sick / oxygen-deprived
 
 ---
 
 ## DM Notes (Operational)
 
-- Emphasize terrain instability rather than pure exposure
-- Shift pressure from precision climbing to fractured footing, shifting ice, and unstable debris
-- Preserve the sense that the mountain is breaking apart under rhythmic force
-- Keep the Mountain Toll active through movement, cold, fatigue, and hazard consequences
+- Do **not** rewind to Shattered Moraine traversal; the party has reached the summit face.
+- Do **not** assume the dwarven door is open yet.
+- Keep the next interaction focused on opening the door under summit hypoxia, not more generic movement checks.
+- The door should not become a long puzzle; per Packet 5 canon, it should open through decisive contributions and/or cost-bearing action.
+- If the door opens, transition into Stillpeak interior and allow the exterior Mountain Toll / timer pressure to release.
 
 ---
 
