@@ -106,6 +106,16 @@ The upper interior should feel warmer than the summit but not safe. The air is s
 
 The Mountain Toll and exterior physical timer pressure should release once the party is truly inside. Summit Hypoxia may remain for the first beat or two as the party recovers, but the primary pressure shifts from exposure to enclosed descent and resonance.
 
+### Interior Light — Ore-Seam Glow
+
+The interior of Stillpeak is not dark in the ordinary dungeon sense.
+
+Unnatural seams of ore and crystal run through the stone in irregular veins, casting ghostly multicolored light across the dwarven passages. One stretch may glow with sickly yellow, another with rose-pink, another with cold blue or green-white mineral fire.
+
+The effect is beautiful at first glance, but never comforting. The light does not flicker like flame or behave like reflected torchlight. It pulses faintly with the mountain's deeper rhythm, brightening or dimming in response to tremors, memory-echoes, and resonance events.
+
+Use this glow to make the interior feel wondrous and dangerous at the same time: a buried kingdom lit by the mountain's own wounded mineral heart.
+
 ### Visual Motifs
 
 - Scratches, boot marks, and hand-scars all oriented upward/outward.
@@ -114,6 +124,7 @@ The Mountain Toll and exterior physical timer pressure should release once the p
 - Abandoned practical objects: ledgers, straps, splints, lantern stubs, children's slate tags, broken wedges.
 - Seals and warning marks pointing down, not up.
 - Evidence that an organized evacuation became panic.
+- Ghostly multicolored ore and crystal seams casting yellow, pink, blue, and green-white light.
 
 ---
 
@@ -269,6 +280,7 @@ It was built to let people out.
 - Handrails are worn smooth from many hands moving upward.
 - Scratches and boot marks point toward the summit door.
 - A broken interior bar lies discarded near the threshold, as if the door was forced open from within.
+- Thin ore seams cast uneven bands of yellow, pink, and blue light across the walls.
 
 **Suggested Checks:**
 
@@ -374,6 +386,8 @@ The chain does not sway until the Tremorscope pulses.
 
 Then it moves a little too late.
 
+Multicolored crystal veins run down the shaft walls like frozen lightning, lighting the drop in alternating bands of rose, yellow, and cold blue.
+
 **Suggested Checks:**
 
 - Athletics **DC 15** to descend chain, ladder, or broken stair safely.
@@ -408,6 +422,8 @@ The passage ends at open dark.
 Not a room. A wound cut downward through the mountain.
 
 A shaft drops through the stone, ringed by broken stairwork and old iron rails. A chain hangs in the center, link after link vanishing into shadow. Far below, something large and square rests at an impossible angle: a lift platform, jammed where it should never have stopped.
+
+The shaft is not dark. Veins of ore and crystal run down the walls in broken colors: yellow like old lamplight, pink like bruised quartz, blue like winter seen through ice. The glow is beautiful enough to make the depth visible and wrong enough to make it feel watched.
 
 The walls are marked with old instructions, capacity numbers, route arrows, and emergency cuts chiseled quickly enough that some strokes never found their proper depth.
 
@@ -497,6 +513,7 @@ It contains:
 - sealed lower doors
 - a collapsed side passage
 - a central damaged relief or civic emblem
+- broad mineral seams casting uneven ghost-light over the whole chamber
 
 Directional markers point to several old routes:
 
@@ -526,6 +543,8 @@ Not much comfort. Just space.
 
 The chamber below is wider than the stair, wide enough for a crowd that is no longer here. Low rails divide the floor into lanes. Bronze tally plates hang crooked from the walls. Hundreds of dead lantern wicks sit in blackened cups, burned down to nothing.
 
+No flame burns here, but the chamber is not dark. Thin seams of ore and crystal glow from the walls and floor in uneven colors: a yellow vein crossing a broken rail, a pink shimmer behind a fallen tally board, cold blue light pooling beneath sealed doors.
+
 Arrows cut into the stone point in several directions.
 
 One leads back up: Summit Egress.
@@ -539,6 +558,8 @@ And one, nearly hidden by dust and fallen stone, points into a darker passage ma
 Bridgeward.
 
 The Tremorscope pulses once.
+
+The mineral seams answer faintly.
 
 Down there.
 
@@ -578,6 +599,10 @@ A deeper route associated with a bridge complex, royal ceremony, or major intern
 
 It is listening to the same resonance that shaped the dwarven systems. Inside Stillpeak, the pulse has fewer exterior distortions and feels more direct.
 
+### Why Is the Stone Glowing?
+
+The mineral seams are natural ore and crystal made unnatural by grief-resonance. They are not torches, spell-lamps, or safe decorative lighting. Their colors can brighten, dim, or shift when the mountain answers a pulse.
+
 ---
 
 ## 8. Escalation Signal
@@ -587,7 +612,7 @@ Escalate when the party becomes careless, forceful, or too comfortable.
 ### Escalation Ladder
 
 1. **Interior Stillness:** sound falls too flat; dust does not settle correctly.
-2. **Resonance Response:** Tremorscope pulse is answered by chain, stair, or door.
+2. **Resonance Response:** Tremorscope pulse is answered by chain, stair, door, or glowing mineral seam.
 3. **Memory Pressure:** old exodus sounds briefly replay.
 4. **Structural Shift:** shaft, ledge, or sealed door moves under stress.
 5. **Directional Pull:** Tremorscope points forcefully toward Bridgeward Way.
@@ -607,6 +632,7 @@ Do not escalate by restarting exterior survival pressure. The party has earned t
 - The party hears the first memory-echo of the exodus.
 - The party reaches the Exodus Landing, the first broader interior node.
 - The party identifies Bridgeward Way as the likely route deeper into the mountain.
+- The party learns that the interior is lit by beautiful but dangerous ore and crystal seams that answer the mountain's resonance.
 
 Optional minor discoveries:
 
@@ -652,6 +678,7 @@ Packet 6 should reveal exodus evidence, not the whole tragedy.
 - The lower kingdom was restricted or sealed.
 - The king / royal grief was feared indirectly.
 - The Bridgeward Way is important.
+- The interior is lit by unnatural multicolored ore and crystal seams that are beautiful but dangerous.
 
 ### Tone Target
 
@@ -692,7 +719,11 @@ No map is required for the full packet, but the following layout is recommended 
 - lower landing with route arrows
 - sealed doors to Lower Holds and Royal Descent
 - darker route marked Bridgeward Way
+- multicolored ore and crystal seams providing ghostly interior light: yellow, pink, blue, and green-white
+- beautiful but dangerous mineral glow that pulses subtly with resonance
 
 ### Visual Direction
 
 The map should feel like the top of a funnel. The upper spaces are cramped and vertical. The lower landing should be the first place that suggests the mountain contains much larger structures below.
+
+The interior should not be rendered as ordinary darkness. Use ghostly, multicolored ore-seam glow as a defining visual identity: beautiful mineral light that reveals the space while making it feel unsafe.
