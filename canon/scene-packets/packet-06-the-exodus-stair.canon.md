@@ -6,15 +6,15 @@
 
 **Current Table Baseline:** The party has reached the Summit Face at the concealed dwarven entrance threshold. The door has not yet been opened. The party is severely oxygen-deprived / altitude sick after completing the Shattered Moraine final ascent.
 
-**Purpose:** Transition the party from exterior mountain survival into the upper interior of Stillpeak. The summit entrance is not a grand front gate; it is a narrow dwarven egress point used during the ancient exodus. The party begins at the dungeon's smallest point and descends through cramped evacuation infrastructure toward the first wider interior landing.
+**Purpose:** Transition the party from exterior mountain survival into the upper interior of Stillpeak. The summit entrance is not a grand front gate; it is a narrow dwarven egress point used during the ancient exodus. The party begins at the dungeon's smallest point and descends through evacuation infrastructure toward the first wider interior landing.
 
-**Expected Duration:** 60–90 minutes of play, depending on how much the party investigates the exodus evidence and how difficult the descent becomes.
+**Expected Duration:** 60–90 minutes of play, depending on how much the party investigates the first refuge chamber, the exodus evidence, and the damaged descent.
 
-**Encounter Types:** Threshold interaction, exploration, environmental descent, resonance hazard, historical clue discovery, light haunting / memory echo.
+**Encounter Types:** Threshold interaction, safe recovery chamber, exploration, environmental descent, resonance hazard, historical clue discovery, light haunting / memory echo.
 
-**Key Mechanics:** Door opening under summit hypoxia, release of exterior Mountain Toll after entry, damaged interior descent, resonance pulse track, investigation of ancient evacuation signs, optional separation / positioning complications.
+**Key Mechanics:** Door opening under summit hypoxia, full release of exterior Mountain Toll / cold / hypoxia after entry and rest, Resonance Chalk discovery, damaged interior descent, resonance pulse track, investigation of ancient evacuation signs, optional separation / positioning complications.
 
-**Key Discoveries:** The summit door was an exit. Many dwarves fled upward through this route long ago. The upper passage is evacuation infrastructure, not a ceremonial entrance. The lower kingdom was sealed behind those who escaped. The deeper route leads toward older halls and eventually toward the Bridgeward Way.
+**Key Discoveries:** The summit door was an exit. Many dwarves escaped upward through this route long ago. The upper passage is evacuation infrastructure, not a ceremonial entrance. The lower kingdom was sealed behind those who escaped. The deeper route leads toward older halls and eventually toward the Bridgeward Way.
 
 **Target Endpoint:** The party reaches the Exodus Landing, the first meaningfully wider interior space below the summit egress, and sees signs pointing deeper into the old dwarven kingdom.
 
@@ -41,7 +41,8 @@ The party should not yet receive the full story of the queen's death, the immort
 - Stillpeak contains an ancient dwarven kingdom or seat.
 - The summit passage was an exodus route.
 - The flight was organized at first, then desperate.
-- The lower kingdom was sealed behind the evacuees.
+- Some dwarves made it through the summit egress and escaped.
+- The lower kingdom was sealed behind those who escaped.
 - The deeper route leads toward something called the Bridgeward Way.
 
 This packet should be dense with implication, not dense with rooms.
@@ -95,7 +96,7 @@ The party enters Stillpeak from its uppermost concealed egress. The structure wi
 Use the following spatial logic:
 
 - **Summit Face / Door:** exterior threshold; hidden dwarven seam beneath ice.
-- **Upper Egress Throat:** narrow passage, one or two abreast, engineered for departure.
+- **Last Breath Refuge:** first interior evacuation exit chamber, built for recovery, accounting, and sealing the route behind escapees.
 - **Broken Muster Niches:** cramped side alcoves for records, wounded, tools, and prayers.
 - **Chain-Lift Void:** damaged vertical descent spine with stair remnants, lift chains, and maintenance ledges.
 - **Exodus Landing:** first broader chamber, an old evacuation sorting point and future launch point for deeper interior exploration.
@@ -104,7 +105,7 @@ Use the following spatial logic:
 
 The upper interior should feel warmer than the summit but not safe. The air is stale, mineral-heavy, and preserved. Sound travels oddly: bootfalls are close and dry, but deeper pulses return late from below.
 
-The Mountain Toll and exterior physical timer pressure should release once the party is truly inside. Summit Hypoxia may remain for the first beat or two as the party recovers, but the primary pressure shifts from exposure to enclosed descent and resonance.
+The Mountain Toll, cold pressure, and exterior physical timer pressure should release once the party is truly inside. The strange burdening effect that began beyond the Karagvorn Line applies to the mountain exterior; inside Stillpeak, the pressure changes from exposure and burden to resonance, memory, and unstable architecture. Summit Hypoxia may linger narratively until the party rests, but the first refuge chamber is safe enough to clear it.
 
 ### Interior Light — Ore-Seam Glow
 
@@ -121,9 +122,10 @@ Use this glow to make the interior feel wondrous and dangerous at the same time:
 - Scratches, boot marks, and hand-scars all oriented upward/outward.
 - Emergency runes, not welcome inscriptions.
 - Narrow dwarven engineering built for controlled escape.
-- Abandoned practical objects: ledgers, straps, splints, lantern stubs, children's slate tags, broken wedges.
+- Hewn stone walls split by old tremor fissures, with glowing mineral veins visible through the cracks.
+- Abandoned practical objects: survivor slates, splints, brace-poles, lantern stubs, broken wedges.
 - Seals and warning marks pointing down, not up.
-- Evidence that an organized evacuation became panic.
+- Evidence that an organized evacuation became desperate.
 - Ghostly multicolored ore and crystal seams casting yellow, pink, blue, and green-white light.
 
 ---
@@ -134,9 +136,10 @@ Use this glow to make the interior feel wondrous and dangerous at the same time:
 
 When the party opens the door and enters:
 
-- The exterior Mountain Toll pauses or ends for the moment.
+- The exterior Mountain Toll ends for the moment because the Karagvorn Line's strange burdening effect applies to the exterior mountain environment, not the interior evacuation works.
 - The physical timer should stop unless the DM wants one final summit-face consequence before entry.
-- Altitude Sickness Phase 3 should linger narratively but no longer dominate every action.
+- Cold pressure ends once the door is shut or the party is fully inside the Last Breath Refuge.
+- Summit Hypoxia ends after the party completes a short rest or controlled recovery in the Last Breath Refuge.
 - The Tremorscope remains active and becomes more legible inside the mountain.
 
 The party should feel relief, but not victory.
@@ -160,9 +163,22 @@ Suggested checks:
 - **Dwarvish, History, mason's tools, or stonework reasoning DC 15** to identify the opening logic.
 - **Group stabilization DC 16** if the exterior pressure surges before entry.
 
+### Safe Rest Rule — Last Breath Refuge
+
+The Last Breath Refuge is safe enough for the party to take an immediate short rest. This rest should fully clear the lingering exterior conditions:
+
+- Remove Mountain Toll burden effects.
+- Remove active cold-pressure consequences.
+- Remove Summit Hypoxia / altitude sickness effects.
+- Allow normal short-rest recovery.
+
+Do not punish the party mechanically for resting here. They earned the reset by completing the Shattered Moraine and opening the summit door.
+
+The rest should still be atmospheric. Use memory-whispers from the final escape to deepen the room, not to threaten the party. These echoes are stone-held memories, not ghosts or active enemies.
+
 ### Interior Pressure System — Resonance Pulse Track
 
-Replace the exterior timer with a lighter interior pressure tool.
+Replace the exterior timer with a lighter interior pressure tool after the party leaves the Last Breath Refuge or begins forceful/careless exploration beyond it.
 
 Start the **Resonance Pulse Track** at 0.
 
@@ -171,7 +187,7 @@ Add 1 Pulse when:
 - the party makes a loud, forceful, or careless action in the egress stair
 - a major check fails by 5 or more
 - someone strikes load-bearing stone without care
-- the party lingers while the Tremorscope is actively pulsing
+- the party lingers in an unstable descent area while the Tremorscope is actively pulsing
 - the DM wants to signal the mountain answering from below
 
 At **3 Pulse**, the shaft answers. Reset the track to 0 after resolving one consequence.
@@ -185,19 +201,6 @@ Possible pulse consequences:
 - The Tremorscope vibrates hard enough to point toward a lower passage or sealed door.
 
 This should create pressure without repeating the Shattered Moraine's full timed intensity.
-
-### Recovery Opportunity
-
-Once fully inside and away from the summit wind, allow the party a brief recovery beat if pacing permits.
-
-A short rest should not be automatic in the Upper Egress Throat, but the party may stabilize breathing, treat immediate injuries, or make a controlled pause in one of the muster niches.
-
-Suggested effects for a controlled pause:
-
-- Remove the immediate narrative pressure of summit hypoxia.
-- Allow one Medicine, Survival, or Constitution-based group recovery check **DC 13**.
-- On success, each character clears the worst breath-debt symptoms.
-- On failure, the party recovers enough to continue, but the Resonance Pulse Track begins the next beat at 1.
 
 ---
 
@@ -220,9 +223,9 @@ Suggested effects for a controlled pause:
 - Dwarvish, History, mason's tools, or stonework logic **DC 15** to identify dwarven opening logic.
 - Group stabilization **DC 16** if the summit face shifts before entry.
 
-**Success:** The door opens. The party enters the Upper Egress Throat. Exterior pressure releases.
+**Success:** The door opens. The party enters the Last Breath Refuge. Exterior timer pressure releases.
 
-**Failure:** The door still becomes openable, but the party pays for delay: one character takes minor bludgeoning/cold damage, gains a fatigue consequence, drops gear, or begins the interior with Resonance Pulse Track at 1.
+**Failure:** The door still becomes openable, but the party pays for delay: one character takes minor bludgeoning/cold damage, drops gear, or enters the refuge in worse narrative condition. Do not block access after the party has reached this threshold.
 
 **Door Opening Read-Aloud:**
 
@@ -246,7 +249,7 @@ The first breath inside does not heal you.
 
 It simply stops the mountain from taking more.
 
-The air is warmer than the summit, but old enough to taste of metal, dust, and sealed stone. Behind you, the wind screams against the open seam. Ahead, the passage narrows, sloping downward into dark dwarven work.
+The air is warmer than the summit, but old enough to taste of metal, dust, and sealed stone. Behind you, the wind screams against the open seam. Ahead, a worked chamber waits in dim mineral light.
 
 Then you notice the marks.
 
@@ -262,55 +265,83 @@ It was built to let people out.
 
 ---
 
-### BEAT 2 — The Upper Egress Throat
+### BEAT 2 — The Last Breath Refuge
 
-**Map Zone:** First narrow passage inside the summit door.
+**Map Zone:** First interior chamber immediately beyond the summit door.
 
-**Purpose:** Establish that the summit entrance is an evacuation route, not a ceremonial gate.
+**Purpose:** Give the party a safe recovery point, establish that the summit door was an emergency evacuation exit, and seed the first major interior lore through investigation and final-escape memory-whispers.
 
-**What the Party Is Doing:** Moving into the first cramped passage and interpreting its use.
+**What the Party Is Doing:** Recovering from the exterior climb, reading the room, and discovering what kind of route they have entered.
 
-**Primary Challenge:** Read the space correctly while recovering from the exterior climb.
+**Primary Challenge:** Understand that this was the last interior refuge before escape, not a welcoming entrance or guard post.
+
+**Rest Safety:** This room is safe for an immediate short rest. Completing the rest clears Mountain Toll burden effects, cold-pressure consequences, and Summit Hypoxia / altitude sickness. The Karagvorn Line's burdening effect does not extend into this interior chamber.
 
 **Environment Details:**
 
-- The passage is narrow enough for one or two abreast.
-- The ceiling is low by non-dwarven standards but not a crawlspace.
-- Runes are utilitarian: direction, pressure doors, capacity marks, and emergency instructions.
-- Handrails are worn smooth from many hands moving upward.
-- Scratches and boot marks point toward the summit door.
-- A broken interior bar lies discarded near the threshold, as if the door was forced open from within.
-- Thin ore seams cast uneven bands of yellow, pink, and blue light across the walls.
+The room is squat, hewn, and practical. It is large enough for the party to sit, breathe, bind wounds, and spread gear, but it still feels like the top of a funnel rather than a grand hall. The summit door dominates one wall from the inside: thick stone, pressure bars, weather seals, and worn handholds all face outward.
+
+The walls are cut dwarven stone, but decades of geological tremors have split them with thin fissures. Through those cracks, the party can see veins of crystal and ore glowing in impossible colors: yellow like old lamplight, rose-pink like bruised quartz, cold blue like winter under ice, and green-white like mineral fire.
+
+Use three dominant evacuation details:
+
+- **Cracked stone benches** worn smooth by exhausted evacuees who made it to the exit chamber.
+- **Broken water cistern channels** that once fed a small emergency basin near the wall.
+- **Old handprints around pressure-seal levers**, showing where dwarves sealed or braced the route behind them.
+
+A dark slate is affixed to one wall at dwarven eye-level. Its inscription is not a welcome message. It is a survivor record. If someone reads Dwarvish, the slate lists family names, presumably those confirmed to have made it to the summit egress and escaped.
+
+**Key Object — Resonance Chalk:**
+
+A cracked stone box beneath the slate contains three sticks of pale blue-gray **Resonance Chalk** wrapped in brittle waxed cloth.
+
+Resonance Chalk was used by dwarven surveyors and emergency engineers to mark unstable seams, pressure doors, and tremor-sensitive stone. When used on resonant stonework, it leaves a faint line that trembles, brightens, or powders away in response to vibration.
+
+**Suggested Use:** The party may use one stick of Resonance Chalk to mark a stone seam, door, bridge point, or unstable architectural feature. For one future interior puzzle, hazard, or route-reading moment, the chalk can grant advantage on an Investigation, Arcana, Survival, mason's tools, or Dwarvish/stonework check involving resonance or structural stress. It should not become a general-purpose magic detector.
 
 **Suggested Checks:**
 
-- Investigation **DC 13:** The marks show crowd movement outward, not guard traffic inward.
-- History **DC 14:** The geometry resembles emergency architecture, not a formal entrance.
-- Dwarvish or stonework reasoning **DC 13:** The passage is marked as an egress route.
-- Survival **DC 13:** Many people moved through here in exhaustion or panic.
-- Perception **DC 12:** Smaller scratches lower on the walls suggest children or short evacuees were present.
+- Dwarvish **DC 12:** Read the wall slate as family names of escapees confirmed at the summit egress.
+- Investigation **DC 13:** The room's layout faces the summit door, proving it functioned as an exit-side refuge rather than an entrance hall.
+- History **DC 14:** The room suggests organized evacuation infrastructure, not ordinary military defense.
+- Survival **DC 13:** The benches, cistern channel, and worn floor show people arrived exhausted and recovered here after climbing up from below.
+- Perception **DC 13:** The pressure-seal handprints and worn levers show the route was sealed or braced from this side.
+- Arcana or Investigation **DC 14:** Identify the Resonance Chalk and understand its use with tremor-sensitive stone.
+- Religion or Insight **DC 14:** The room carries grief, but not malice; the memories here belong to people escaping, counting, and leaving others behind.
 
-**Success:** The party understands this was an exit used by fleeing dwarves.
+**Success:** The party understands this was the last interior refuge before escape and can recover safely. They may discover the Resonance Chalk and learn that the dwarves had practical tools for reading resonance and unstable stone.
 
-**Failure:** The party still sees signs of use, but misreads the order or urgency until later beats clarify it.
+**Failure:** The party still rests safely, but may initially misread the room as a guard chamber or supply alcove. Later evidence should clarify the evacuation function.
 
-**Discovery:** The first major clue is locked here: the party entered through a hidden summit exit.
+**Short Rest Memory-Whispers:**
+
+During the rest, the DM may quietly whisper one memory to each player. These are final-escape memories held in the stone. They are not combat triggers and do not interrupt the rest. Each whisper should feel personal and incomplete, as though the chamber briefly mistook a living adventurer for one of the last dwarves who passed through.
+
+Use one per player, or choose only the ones that fit the moment:
+
+- **Whisper 1 — The Counter:** "Five from Hearth Dromun. Three from Keld's lower hall. Two carried. One breathing. Mark them. Mark them before the door freezes."
+- **Whisper 2 — The Sealer:** "Hands here. When I say, push. Do not listen below. If they knock after the third bell, it is not them anymore."
+- **Whisper 3 — The Child:** "Is this the sky? I thought it would be warmer. I thought she would come with us."
+- **Whisper 4 — The Steward:** "Names on the slate. No titles. No ranks. Families only. If the king asks who left, let the stone answer for us."
+- **Whisper 5 — The Last Look Back:** "Leave the lower lamps burning. Someone may still see them. Someone may still climb."
+
+**Memory-Echo Boundary:** These whispers should suggest final escape, survivor counting, sealing the route, and guilt over those left below. Do not reveal the queen's death, the king's immortality, or the exact source of the mountain's grief yet.
 
 **Spoken Cues:**
 
-- "The stone is worn in the wrong direction."
-- "The handrail is polished smooth nearest the way out."
-- "These are not welcome runes. They are instructions for people who already knew they were running."
+- "This room is not arranged to receive travelers. It is arranged to recover survivors."
+- "Every practical surface faces the door behind you. Everything in the room assumes the next important act is getting out."
+- "The cracks in the stone glow softly, as if the mountain has a second set of veins beneath the worked walls."
 
 ---
 
 ### BEAT 3 — The Broken Muster Niches
 
-**Map Zone:** Small side alcoves branching from the egress passage.
+**Map Zone:** Small side alcoves branching from the egress passage below the Last Breath Refuge.
 
 **Purpose:** Show that the exodus was organized at first, then deteriorated.
 
-**What the Party Is Doing:** Investigating cramped emergency staging alcoves.
+**What the Party Is Doing:** Investigating cramped emergency staging alcoves after leaving the refuge.
 
 **Primary Challenge:** Gather clues without bogging the packet down in too many tiny rooms.
 
@@ -332,11 +363,11 @@ Possible readable fragments:
 
 #### Niche B — The Wounded Niche
 
-Rust-dark cot rings, splint hooks, empty salve jars, and torn bandage fasteners remain fixed to the wall.
+Rust-dark cot rings, empty salve jars, cracked splints, and broken brace-poles remain stacked along the wall.
 
-- Medicine **DC 13:** This was triage for evacuation, not long-term care.
+- Medicine **DC 13:** This was emergency evacuation aid, not long-term care.
 - Insight **DC 13:** The injured were being moved upward, not treated in place.
-- Perception **DC 12:** Several cot fasteners were ripped loose in haste.
+- Perception **DC 12:** Several braces were snapped or abandoned in haste.
 
 #### Niche C — The Tool Niche
 
@@ -581,7 +612,7 @@ The summit door was concealed to protect the egress route from weather, enemies,
 
 ### Why Did They Flee Upward?
 
-The lower routes were compromised, sealed, or unsafe. The dwarves were using the summit egress because something below had made normal internal evacuation impossible.
+The lower routes were compromised, sealed, or unsafe. The dwarves were using the summit egress because something below had made normal internal evacuation impossible. Some dwarves reached the Last Breath Refuge, recorded family names, sealed what they could behind them, and escaped into the outside world.
 
 ### What Was the Mourning Seal?
 
@@ -603,11 +634,15 @@ It is listening to the same resonance that shaped the dwarven systems. Inside St
 
 The mineral seams are natural ore and crystal made unnatural by grief-resonance. They are not torches, spell-lamps, or safe decorative lighting. Their colors can brighten, dim, or shift when the mountain answers a pulse.
 
+### What Is Resonance Chalk?
+
+A dwarven surveyor's tool used to mark tremor-sensitive stone, pressure seams, unstable doors, and resonant structural stress. It is useful for reading Stillpeak's interior architecture, not for detecting all magic.
+
 ---
 
 ## 8. Escalation Signal
 
-Escalate when the party becomes careless, forceful, or too comfortable.
+Escalate when the party becomes careless, forceful, or too comfortable after leaving the Last Breath Refuge.
 
 ### Escalation Ladder
 
@@ -625,22 +660,24 @@ Do not escalate by restarting exterior survival pressure. The party has earned t
 ## 9. Rewards / Discoveries
 
 - The party opens the summit door and enters Stillpeak.
-- Exterior Mountain Toll pressure releases after entry.
+- Exterior Mountain Toll, cold pressure, and summit hypoxia release after entry/rest in the Last Breath Refuge.
 - The party discovers the summit entrance was an exodus route.
-- The party learns that many dwarves fled upward long ago.
+- The party learns that some dwarves escaped upward through this route long ago.
+- The party can discover a wall slate listing family names of those confirmed to have reached the summit egress.
+- The party can recover three sticks of Resonance Chalk.
 - The party discovers references to the Mourning Seal.
-- The party hears the first memory-echo of the exodus.
+- The party hears memory-whispers of the final escape.
 - The party reaches the Exodus Landing, the first broader interior node.
 - The party identifies Bridgeward Way as the likely route deeper into the mountain.
 - The party learns that the interior is lit by beautiful but dangerous ore and crystal seams that answer the mountain's resonance.
 
 Optional minor discoveries:
 
-- A surviving evacuation tally tag bearing an old family mark.
-- A bronze route token that grants advantage on one future Dwarvish / route-interpretation check inside Stillpeak.
 - A spent but intact dwarven emergency lantern casing, usable as a focus for interpreting old egress markings.
+- A broken pressure-seal lever handle bearing an old family mark.
+- A recoverable splint brace that can be repurposed as a temporary climbing aid once.
 
-Do not over-reward with treasure. The real reward is interior access and story orientation.
+Do not over-reward with treasure. The real reward is interior access, recovery, story orientation, and a practical resonance-reading tool.
 
 ---
 
@@ -673,24 +710,26 @@ Packet 6 should reveal exodus evidence, not the whole tragedy.
 ### Do Reveal
 
 - The summit door was an exit.
-- The dwarves fled upward through this route.
+- The Last Breath Refuge was an emergency evacuation exit chamber.
+- Some dwarves reached this chamber and escaped.
 - The evacuation began organized and became desperate.
 - The lower kingdom was restricted or sealed.
 - The king / royal grief was feared indirectly.
 - The Bridgeward Way is important.
 - The interior is lit by unnatural multicolored ore and crystal seams that are beautiful but dangerous.
+- Resonance Chalk exists as a practical dwarven tool for reading tremor-sensitive stone.
 
 ### Tone Target
 
-The mood is not combat-forward. It is discovery under pressure.
+The mood is not combat-forward. It is discovery after survival.
 
-The party should feel that they have escaped the mountain's exterior violence only to enter the preserved evidence of an older catastrophe.
+The party should feel that they have escaped the mountain's exterior violence only to enter the preserved evidence of an older catastrophe. The first room should give real physical safety while remaining emotionally haunted.
 
 ### Difficulty Target
 
 Moderate. The main danger is not death but separation, loss of control, resource pressure, and clue interpretation under unstable architecture.
 
-Downing a PC here should be unlikely unless the party acts recklessly around the shaft. The packet's job is to bring them inside and reorient the story, not punish them immediately after the Shattered Moraine.
+Downing a PC here should be unlikely unless the party acts recklessly around the shaft. The packet's job is to bring them inside, let them recover, and reorient the story, not punish them immediately after the Shattered Moraine.
 
 ---
 
@@ -701,15 +740,19 @@ No map is required for the full packet, but the following layout is recommended 
 ### Vertical Funnel Layout
 
 1. **Summit Door** — small exterior threshold.
-2. **Upper Egress Throat** — narrow corridor, one or two abreast.
+2. **Last Breath Refuge** — emergency exit refuge and safe rest chamber.
 3. **Muster Niches** — four small side alcoves.
 4. **Chain-Lift Void** — vertical shaft with broken stair, chain, lift platform below, and side ledges.
 5. **Exodus Landing** — first wider chamber and packet endpoint.
 
 ### Suggested Map Features
 
-- narrow entry throat
-- handrails worn toward exit
+- summit-side pressure door
+- cracked stone benches
+- broken water cistern channel
+- pressure-seal levers with old handprints
+- wall slate listing family names in Dwarvish
+- fissured hewn stone with glowing crystal veins
 - emergency runes
 - side niches
 - central shaft
