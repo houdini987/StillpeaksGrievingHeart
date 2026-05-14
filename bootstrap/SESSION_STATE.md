@@ -89,6 +89,15 @@ It should always reflect the most recent agreed-upon table state.
 
 ---
 
+## Roll20 Prep Notes for Next Session
+
+- Prepared hostile creature NPCs/tokens in Roll20: **3 Shaft Scuttlers**, **4 Ice Mephits**, and **1 Chain-Lift Crawler**.
+- Prepared ghost NPCs/tokens in Roll20: **Door-Bracer Spirit** and **Ledger Keeper**.
+- Other Packet 6 ghost options are **not** prebuilt in Roll20 and should remain narration/social-memory encounters unless the party attacks or otherwise forces combat.
+- Prefer using the prepared ghosts first if a ghost scene becomes mechanically relevant; avoid requiring unbuilt spirit stat blocks unless necessary.
+
+---
+
 ## Update Rules
 
 Update this file when any of the following change:
