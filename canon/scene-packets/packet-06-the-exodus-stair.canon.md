@@ -301,13 +301,13 @@ Resonance Chalk was used by dwarven surveyors and emergency engineers to mark un
 
 **Suggested Checks:**
 
-- Dwarvish **DC 12:** Read the wall slate as family names of escapees confirmed at the summit egress.
-- Investigation **DC 13:** The room's layout faces the summit door, proving it functioned as an exit-side refuge rather than an entrance hall.
-- History **DC 14:** The room suggests organized evacuation infrastructure, not ordinary military defense.
-- Survival **DC 13:** The benches, cistern channel, and worn floor show people arrived exhausted and recovered here after climbing up from below.
-- Perception **DC 13:** The pressure-seal handprints and worn levers show the route was sealed or braced from this side.
-- Arcana or Investigation **DC 14:** Identify the Resonance Chalk and understand its use with tremor-sensitive stone.
-- Religion or Insight **DC 14:** The room carries grief, but not malice; the memories here belong to people escaping, counting, and leaving others behind.
+- **Dwarvish DC 12 — Survivor Slate:** The slate lists family names rather than military units or noble titles. On a success, the reader understands this was a final accounting of people confirmed to have reached the summit egress, likely after escape became possible. The repeated family names make the chamber feel less like a checkpoint and more like the place where survivors were recorded before the door froze, sealed, or became unusable.
+- **Investigation DC 13 — Exit-Side Layout:** The room's practical surfaces all face the summit door: benches angled toward it, worn handholds beside it, pressure bars operated from this side, and floor scuffs leading outward. On a success, the party identifies this chamber as an exit-side refuge, not an entrance hall. Travelers were not welcomed here; survivors recovered here after reaching the top of the escape route.
+- **History DC 14 — Organized Evacuation Infrastructure:** The room's features are too deliberate to be improvised panic: cistern channels, wall slate, pressure-seal hardware, and recovery benches. On a success, the character recognizes an organized evacuation system that was used under emergency conditions. The first impression should be discipline under collapse, not simple chaos.
+- **Survival DC 13 — Exhaustion Patterns:** The benches, broken cistern basin, and worn floor show people arrived depleted, wet, injured, and breathless after climbing up from below. On a success, the character can tell this was a recovery point after the hardest part of escape, not a place where evacuees waited to continue upward.
+- **Perception DC 13 — Pressure-Seal Handprints:** Old handprints, darkened palm-smears, and worn lever edges cluster around the pressure-seal mechanism. On a success, the character notices that many hands operated or braced the levers from this side, suggesting the route below was sealed, held, or locked behind those who escaped.
+- **Arcana or Investigation DC 14 — Resonance Chalk:** The chalk is stored like a tool, not treasure. On a success, the character identifies it as a dwarven surveyor's aid for marking tremor-sensitive seams, pressure doors, and unstable stonework. If tested on a fissure, the chalk line faintly trembles with the mountain's deep pulse before settling.
+- **Religion or Insight DC 14 — Grief Without Malice:** The chamber feels heavy, but not hateful. On a success, the character understands the emotional residue here is not an attack or curse. It is the memory of people counting survivors, sealing a route, and carrying the guilt of those who did not make it.
 
 **Success:** The party understands this was the last interior refuge before escape and can recover safely. They may discover the Resonance Chalk and learn that the dwarves had practical tools for reading resonance and unstable stone.
 
