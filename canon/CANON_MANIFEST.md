@@ -18,6 +18,7 @@ This file is a navigation and indexing aid only. It helps humans and tools find 
 | Canon ID | Title | Exact Path | Applies To | Purpose | Status |
 |---|---|---|---|---|---|
 | Packet 06 Encounters | Ghosts of the Exodus Stair | `canon/scene-packets/packet-06-the-exodus-stair-encounters.canon.md` | Packet 06 — The Exodus Stair | Defines benign-unless-attacked dwarf spirit encounters and simple fallback stat blocks for Chapter 6. | Draft canon supplement |
+| Packet 06 Hostiles | Hostile Intruders of the Exodus Stair | `canon/scene-packets/packet-06-the-exodus-stair-hostile-encounters.canon.md` | Packet 06 — The Exodus Stair | Defines opportunistic hostile creature encounters for Chapter 6, including scaled ice mephit squatters and a Chain-Lift Crawler set piece. | Draft canon supplement |
 
 ## Other Key Canon Files
 
