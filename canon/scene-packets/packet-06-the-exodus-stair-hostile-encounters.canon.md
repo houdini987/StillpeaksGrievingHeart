@@ -92,6 +92,32 @@ Use one or two:
 - **Frozen Basin Lip:** Half cover for Small creatures hiding behind broken cistern stone.
 - **Dead Lantern Hook:** A creature can knock a hanging hook or bracket loose as an action; one creature below must make a **DC 12 Dexterity saving throw** or take 3 (1d6) bludgeoning damage.
 
+### Monster Treasure / Salvage
+
+Ice mephits are not carrying meaningful coin, but they hoard shiny salvage and useful scraps in frozen basins and drain pockets.
+
+After the fight, characters can search the nest.
+
+Suggested checks:
+
+- **Investigation DC 12:** Find the obvious hoard pocket.
+- **Perception DC 13:** Notice a second stash wedged inside a drain slot.
+- **Sleight of Hand or Dexterity DC 13:** Extract a fragile object from ice without cracking it.
+- **Fire, tools, or 10 minutes of careful thawing:** Automatically free one frozen item without a check.
+
+Default loot:
+
+- 18 gp, 34 sp, and 61 cp in mixed old coinage and traveler scraps.
+- Two small garnets worth 15 gp each, frozen inside a cracked basin lip.
+- A silvered dwarven belt clasp worth 20 gp.
+- A chipped but usable **cold-seal lens** from an old dwarven lantern.
+
+**Cold-Seal Lens.** Once mounted into a lantern or held before a light source, this lens can help distinguish mundane frost from magical/cursed cold. Once in Packet 6 or 7, it grants advantage on an Investigation, Arcana, or Survival check involving cold-affected stone, frozen mechanisms, or ice-covered inscriptions.
+
+Optional additional find if the Frost-Spite Mephit is present:
+
+- **Frost-Spite Shard.** A sharp, translucent ice crystal left behind when the ringleader dies. It melts after 24 hours unless kept in magical or extreme cold. Before it melts, it can be used once as an improvised thrown weapon: range 20/60, +Dex to hit, 1d6 piercing + 1d6 cold on hit. It is not a permanent magic item.
+
 ### Simple Stat Block — Ice Mephit Squatter
 
 **Small elemental, neutral evil**  
@@ -208,6 +234,33 @@ Use at least two:
 - **Central Chain:** A creature adjacent to the chain can use an action to stabilize itself or another creature, granting advantage on the next check or save against falling or forced movement.
 - **Swinging Chain Pulse:** If the Resonance Pulse Track triggers during combat, the chain swings. Creatures on exposed ledges must make a **DC 14 Dexterity saving throw** or be knocked prone or pushed 5 ft.
 - **Maintenance Ledge:** Narrow ledges count as difficult terrain for Medium creatures. A creature shoved while on a ledge must make a **DC 13 Dexterity saving throw** or fall to a lower ledge, taking 7 (2d6) bludgeoning damage.
+
+### Monster Treasure / Salvage
+
+The crawler is not carrying treasure, but its nest contains debris dragged from the shaft and remains of older victims.
+
+After the fight, characters can search the nest, ledges, or the jammed lift platform.
+
+Suggested checks:
+
+- **Investigation DC 13:** Sort useful gear from bones, old cloth, and debris.
+- **Perception DC 14:** Spot a satchel caught beneath webbing or chain links.
+- **Athletics or Acrobatics DC 14:** Reach a dangerous ledge containing salvage.
+- **Survival DC 13:** Identify which remains are recent animal prey versus older humanoid remains.
+
+Default loot:
+
+- 42 gp in mixed coinage from old victims and broken belt pouches.
+- One intact potion of healing wrapped in cracked leather.
+- One climber's kit missing only one piton; still usable.
+- A silver ring worth 25 gp, engraved in Dwarvish with the phrase "steady hands, safe return."
+- One **Lift-Brake Pin** wedged in old grease near the jammed platform.
+
+**Lift-Brake Pin.** A heavy dwarven locking pin used to hold a lift wheel or brake assembly in place. As an action, a character can use it to pin, jam, or stabilize one mechanical component such as a lift gear, chain housing, pressure lever, or rotating stone bracket. The next relevant Athletics, Investigation, or tool check has advantage. After one major use, the pin bends or becomes lodged.
+
+Optional additional find if the party risks a dangerous ledge:
+
+- **Unbroken Anchor Ring.** A detachable dwarven anchor ring worth 30 gp. When used with rope in worked stone, it grants advantage once on a group climbing, lowering, or rescue check.
 
 ### Simple Stat Block — Chain-Lift Crawler
 
