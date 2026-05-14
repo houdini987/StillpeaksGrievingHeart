@@ -58,6 +58,18 @@ It should always reflect the most recent agreed-upon table state.
 - **Mountain Toll System:** active until the party enters Stillpeak interior
 - **Physical Timer:** active through the exterior summit-face pressure unless the DM explicitly pauses it for door interaction pacing
 - **Altitude Sickness Phase 3 — Summit Hypoxia:** active; party is severely oxygen-deprived, and movement/forceful physical checks should reflect hypoxia pressure
+- **Mountain Attunement:** **Erny** and **Maelreth** are attuned to the mountain. In Packet 6, they are clearer receivers of interior resonance and should receive the canon upper-interior advantage before the connection begins to curdle.
+
+---
+
+## Mountain Attunement Runtime Handling
+
+- Attuned characters: **Erny** and **Maelreth**.
+- In major Packet 6 scenes, each attuned character may gain advantage on one check to interpret or anticipate resonance, including Tremorscope interpretation, Arcana, Religion, Insight, Investigation, Survival, or Perception checks tied to vibration, memory-echoes, unstable stone, directional pulses, the Chain-Lift Void, or the Last Breath Refuge.
+- Present the advantage as clearer reception: sensing pulses before the Tremorscope visibly moves, knowing which seam is about to brighten, feeling a chain shift a heartbeat early, distinguishing memory-echo residue from hostile presence, or reading the mountain's answer through body sensation.
+- Seed the downside immediately but lightly: pressure behind the eyes, hum in the teeth, second heartbeat under the skull, words vibrating through the jaw, or the sense that the mountain noticed them noticing it.
+- Do **not** impose penalties merely for being attuned during Packet 6 unless the party acts recklessly, the attuned character over-opens themselves to the pulse, or the Resonance Pulse Track triggers a major consequence.
+- If disadvantage/cost becomes appropriate tonight, use intrusive effects rather than hard shutdowns: unwanted memory fragments, concentration pressure, false certainty, psychic static, or delayed perception after a major pulse.
 
 ---
 
@@ -66,6 +78,7 @@ It should always reflect the most recent agreed-upon table state.
 - **Open the concealed dwarven summit door** at Packet 5, Beat 6 — Summit Face.
 - The party has reached the wall/door threshold but has **not yet opened the entrance**.
 - Use tremorscope resonance, ice clearing, dwarven construction logic, force/magic, or a cost-bearing hold/stabilization action to resolve the door.
+- Erny and Maelreth should be especially likely to sense the returning pulse or feel the door's resonance before the rest of the party can interpret it.
 
 ---
 
@@ -76,6 +89,7 @@ It should always reflect the most recent agreed-upon table state.
 - Environmental degradation patterns and their origin
 - Unrecovered Silent Echo Cairn whistle (potentially lost permanently unless revisited)
 - Consequences of entering Stillpeak while severely altitude sick / oxygen-deprived
+- Erny and Maelreth's mountain attunement is currently useful in Packet 6 but is expected to become more intrusive deeper inside Stillpeak
 
 ---
 
@@ -86,6 +100,7 @@ It should always reflect the most recent agreed-upon table state.
 - Keep the next interaction focused on opening the door under summit hypoxia, not more generic movement checks.
 - The door should not become a long puzzle; per Packet 5 canon, it should open through decisive contributions and/or cost-bearing action.
 - If the door opens, transition into Stillpeak interior and allow the exterior Mountain Toll / timer pressure to release.
+- Augment interactions for Erny and Maelreth as mountain-attuned receivers: give them earlier sensory cues, clearer resonance interpretation, and subtle aftereffects.
 
 ---
 
