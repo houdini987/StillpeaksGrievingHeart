@@ -13,6 +13,12 @@ This file is a navigation and indexing aid only. It helps humans and tools find 
 | Packet 05 | The Mid-Slopes of Stillpeak | `canon/scene-packets/packet-05-mid-slopes-of-stillpeak.canon.md` | Mid-slopes attrition packet covering the summit approach threshold. | Live canon |
 | Packet 06 | The Exodus Stair | `canon/scene-packets/packet-06-the-exodus-stair.canon.md` | Upper interior transition packet from summit egress into the first wider exodus landing. | Draft canon |
 
+## Scene Packet Addenda
+
+| Canon ID | Title | Exact Path | Applies To | Purpose | Status |
+|---|---|---|---|---|---|
+| Packet 06 Addendum | Interior Light and Mountain Attunement | `canon/scene-packets/packet-06-the-exodus-stair.canon-addendum.md` | Packet 06 — The Exodus Stair | Clarifies cursed seam-glow as post-queen-death grief-resonance contamination and defines early mountain-attunement advantage / later vulnerability trajectory. | Draft canon addendum |
+
 ## Other Key Canon Files
 
 - `canon/README.md` — Canon-layer overview, repo consumption guidance, and packet structure rules.
