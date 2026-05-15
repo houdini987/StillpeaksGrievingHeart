@@ -8,57 +8,68 @@ It should always reflect the most recent agreed-upon table state.
 
 ## Location
 
-- Packet: **05 — The Mid-Slopes of Stillpeak**
-- Segment: **III — Shattered Moraine**
-- Position: **Summit Face reached; party is at the concealed dwarven entrance threshold but has not opened the door yet**
+- Packet: **06 — The Exodus Stair**
+- Segment: **Chain-Lift Void**
+- Position: **After the Chain-Lift Crawler fight; party is in/around the Chain-Lift Void and must stabilize/regroup before continuing toward Exodus Landing / Bridgeward Way**
 
 ---
 
 ## Party Status
 
-- Level: **7 (all members)**
-- Condition: **Severely oxygen-deprived / altitude sick after completing the Shattered Moraine final ascent**
-- Positioning: Party reached the summit face after crossing the Shattered Moraine under physical timer pressure; they must now determine how to reveal/open the dwarven door while suffering summit hypoxia.
+- Level: **8 (all members)**
+- Condition: **Recovered from exterior summit hypoxia, cold pressure, and active Mountain Toll burden after short rest in the Last Breath Refuge**
+- Positioning: Party entered Stillpeak, rested, investigated the Last Breath Refuge and Broken Muster Niches, fought ice mephits, then engaged the Chain-Lift Crawler and Shaft Scuttlers in the Chain-Lift Void. Erny fell to the bottom of the shaft during the encounter; confirm next session whether the party has fully regrouped or remains vertically split.
 
 ---
 
 ## Recent Events
 
-- Party traversed Karagvorn Line and entered sustained environmental pressure
-- Investigated and solved the Silent Echo Cairn
-  - Activated fire, heart, and branch symbols
-  - Received minor boons
-  - Did **not** recover the dwarven stone whistle
-
-- Entered Stonefold Ramps (Packet 5, Segment I)
-- Sustained multiple rock impacts during traversal
-- Encountered **one** vibration-maddened hill giant (reduced from default two)
-- Hill giant defeated
-- Party completed the Wind-Carved Spine traversal
-- Party entered the Shattered Moraine final ascent using the physical 2-minute timer pressure system
-- Party crossed the Shifting Lanes, Burden Ridge, Dead Field, and Glassing Slope
-- Party reached **Beat 6 — Summit Face**
-- Party is now severely deprived of oxygen / altitude sick and must find a way to open the concealed dwarven entrance
+- Party opened the concealed dwarven summit door through resonance, with Erny and Maelreth using mountain attunement.
+- Party entered the Last Breath Refuge and learned the summit door was an exit-side egress, not a welcoming entrance.
+- Party completed a short rest in the Last Breath Refuge.
+  - Summit Hypoxia cleared.
+  - Exterior cold pressure cleared.
+  - Current Mountain Toll burden effects cleared for the interior.
+- Party received memory-whispers from the ancient exodus during the rest.
+- Erny studied the survivor slate and recognized it as a family-based survivor accounting.
+- Maelreth studied the colored seam-glow and recognized it as a later resonance symptom, not original dwarven lighting or a clean magical color-code.
+- Party moved into the Broken Muster Niches.
+- Party investigated or discussed the record, wounded, tool, and prayer niches.
+- Erny rolled double natural 20s on a Religion check at the prayer niche and understood that the soot on the queenly relief was protective mourning, not desecration.
+- Party received the warning: **"Do not say her name in the stair. He hears grief before he hears words."**
+- Four ice mephits emerged from cistern/drainage infrastructure and were defeated or resolved.
+- Party reached the Chain-Lift Void.
+- Erny threw a torch down the shaft, revealing movement and the jammed lift platform.
+- Maelreth hit the Chain-Lift Crawler with Eldritch Blasts, revealing it and escalating the shaft resonance.
+- Chain-Lift Crawler and three Shaft Scuttlers were placed on the map.
+- Erny fell to the bottom of the shaft and became separated from the rest of the party at the top.
+- Chain-Lift Crawler was defeated.
+- Crawler salvage was discovered near its nest / the jammed lift platform.
+- Party advances to level 8.
 
 ---
 
-## Known Deviations from Canon
+## Known Deviations from Canon / Actual-Play Notes
 
-- Hill giant encounter reduced from two creatures to one for difficulty tuning
-- Silent Echo Cairn dwarf whistle not recovered (missed content)
-- Flame boon modified to a mild warming effect
-- Environmental pressure emphasized during traversal beyond baseline pacing
-- Party briefly considered / used rope tethering logic during Shattered Moraine planning, but they were **not tethered** during later timer consequences in the Shifting Lanes
+- Hill giant encounter in Packet 5 was reduced from two creatures to one for difficulty tuning.
+- Silent Echo Cairn dwarf whistle was not recovered.
+- Flame boon at the Silent Echo Cairn was modified to a mild warming effect.
+- Environmental pressure was emphasized during Packet 5 traversal beyond baseline pacing.
+- Party briefly considered / used rope tethering logic during Shattered Moraine planning, but they were **not tethered** during later timer consequences in the Shifting Lanes.
+- Ice Mephit Squatters were used as an active Packet 6 encounter.
+- Chain-Lift Crawler was used as the main Packet 6 combat set piece.
+- Final disposition of all three Shaft Scuttlers was not fully captured in chat; if tactical precision matters, confirm at next open whether any fled, died, or remain active.
 
 ---
 
 ## Active Systems
 
-- **Tremorscope:** active at the summit face; no longer only points upward and is expected to respond from within / through the stone as the door interaction begins
-- **Mountain Toll System:** active until the party enters Stillpeak interior
-- **Physical Timer:** active through the exterior summit-face pressure unless the DM explicitly pauses it for door interaction pacing
-- **Altitude Sickness Phase 3 — Summit Hypoxia:** active; party is severely oxygen-deprived, and movement/forceful physical checks should reflect hypoxia pressure
-- **Mountain Attunement:** **Erny** and **Maelreth** are attuned to the mountain. In Packet 6, they are clearer receivers of interior resonance and should receive the canon upper-interior advantage before the connection begins to curdle.
+- **Tremorscope:** active and more legible inside Stillpeak; may point toward lower routes, sealed doors, structural resonance, or Bridgeward direction.
+- **Mountain Toll System:** exterior burden pressure is not currently active inside the upper Exodus Stair after the Last Breath Refuge rest.
+- **Physical Timer:** off.
+- **Summit Hypoxia:** cleared after short rest.
+- **Interior Pressure:** use **Resonance Pulse Track** in unstable interior areas such as the Chain-Lift Void.
+- **Mountain Attunement:** **Erny** and **Maelreth** are attuned to the mountain. Their connection has started to produce headaches / strain during interior resonance events.
 
 ---
 
@@ -67,49 +78,73 @@ It should always reflect the most recent agreed-upon table state.
 - Attuned characters: **Erny** and **Maelreth**.
 - In major Packet 6 scenes, each attuned character may gain advantage on one check to interpret or anticipate resonance, including Tremorscope interpretation, Arcana, Religion, Insight, Investigation, Survival, or Perception checks tied to vibration, memory-echoes, unstable stone, directional pulses, the Chain-Lift Void, or the Last Breath Refuge.
 - Present the advantage as clearer reception: sensing pulses before the Tremorscope visibly moves, knowing which seam is about to brighten, feeling a chain shift a heartbeat early, distinguishing memory-echo residue from hostile presence, or reading the mountain's answer through body sensation.
-- Seed the downside immediately but lightly: pressure behind the eyes, hum in the teeth, second heartbeat under the skull, words vibrating through the jaw, or the sense that the mountain noticed them noticing it.
-- Do **not** impose penalties merely for being attuned during Packet 6 unless the party acts recklessly, the attuned character over-opens themselves to the pulse, or the Resonance Pulse Track triggers a major consequence.
-- If disadvantage/cost becomes appropriate tonight, use intrusive effects rather than hard shutdowns: unwanted memory fragments, concentration pressure, false certainty, psychic static, or delayed perception after a major pulse.
+- Active downside has begun: pressure behind the eyes, hum in the teeth, second heartbeat under the skull, words vibrating through the jaw, and/or the sense that the mountain noticed them noticing it.
+- Do **not** impose standing penalties merely for being attuned unless the party acts recklessly, the attuned character over-opens themselves to the pulse, or the Resonance Pulse Track triggers a major consequence.
+- If disadvantage/cost becomes appropriate, use intrusive effects rather than hard shutdowns: unwanted memory fragments, concentration pressure, false certainty, psychic static, or delayed perception after a major pulse.
+
+---
+
+## Items / Treasure Gained
+
+From Ice Mephit nest:
+- 18 gp, 34 sp, 61 cp
+- Two small garnets worth 15 gp each
+- Silvered dwarven belt clasp worth 20 gp
+- Cold-Seal Lens
+
+From Chain-Lift Crawler nest / lift debris:
+- 42 gp
+- One potion of healing
+- One usable climber's kit missing one piton
+- Silver ring worth 25 gp engraved in Dwarvish: **"steady hands, safe return"**
+- Lift-Brake Pin
+- Optional if claimed or still available: Unbroken Anchor Ring worth 30 gp
+
+Other Packet 6 discoveries:
+- Resonance Chalk in the Last Breath Refuge, if collected
+- Prayer niche insight: the queenly figure was loved/protected, and her memory/name is dangerous in the stair
 
 ---
 
 ## Immediate Next Beat
 
-- **Open the concealed dwarven summit door** at Packet 5, Beat 6 — Summit Face.
-- The party has reached the wall/door threshold but has **not yet opened the entrance**.
-- Use tremorscope resonance, ice clearing, dwarven construction logic, force/magic, or a cost-bearing hold/stabilization action to resolve the door.
-- Erny and Maelreth should be especially likely to sense the returning pulse or feel the door's resonance before the rest of the party can interpret it.
+- **Stabilize and regroup after the Chain-Lift Void fight.**
+- Confirm whether Erny and the rest of the party are still vertically split or have regrouped.
+- Finish the descent through the Chain-Lift Void.
+- Continue toward **Exodus Landing / Bridgeward Way**.
 
 ---
 
 ## Open Threads
 
-- Tremorscope signal now answers from within / through the summit stone
-- Nature and source of rhythmic tremors remain unresolved
-- Environmental degradation patterns and their origin
-- Unrecovered Silent Echo Cairn whistle (potentially lost permanently unless revisited)
-- Consequences of entering Stillpeak while severely altitude sick / oxygen-deprived
-- Erny and Maelreth's mountain attunement is currently useful in Packet 6 but is expected to become more intrusive deeper inside Stillpeak
+- Complete/regroup from Chain-Lift Void descent.
+- Continue to Exodus Landing / Bridgeward Way.
+- Erny and Maelreth's mountain attunement is useful but increasingly intrusive.
+- The queenly figure is loved/protected and dangerous to name, but the reason remains unrevealed.
+- The lower kingdom, Mourning Seal, immortal king truth, queen death, and final grief-source solution remain unrevealed.
+- Tremorscope remains active and more legible inside the mountain.
+- Final scuttler disposition may need confirmation if tactically relevant.
 
 ---
 
 ## DM Notes (Operational)
 
-- Do **not** rewind to Shattered Moraine traversal; the party has reached the summit face.
-- Do **not** assume the dwarven door is open yet.
-- Keep the next interaction focused on opening the door under summit hypoxia, not more generic movement checks.
-- The door should not become a long puzzle; per Packet 5 canon, it should open through decisive contributions and/or cost-bearing action.
-- If the door opens, transition into Stillpeak interior and allow the exterior Mountain Toll / timer pressure to release.
-- Augment interactions for Erny and Maelreth as mountain-attuned receivers: give them earlier sensory cues, clearer resonance interpretation, and subtle aftereffects.
+- Do **not** rewind to the summit door; it is open and the party is inside Stillpeak.
+- Do **not** reapply exterior Mountain Toll, cold pressure, physical timer, or Summit Hypoxia while the party remains in this upper interior refuge/stair context unless a later packet explicitly reintroduces them.
+- Do **not** reveal queen death, immortal king truth, or final grief-source solution yet.
+- Keep the next interaction focused on regrouping from the Chain-Lift Void and transitioning to Exodus Landing / Bridgeward Way.
+- Augment interactions for Erny and Maelreth as mountain-attuned receivers, but remember strain has begun.
 
 ---
 
-## Roll20 Prep Notes for Next Session
+## Roll20 Prep / Runtime Notes
 
-- Prepared hostile creature NPCs/tokens in Roll20: **3 Shaft Scuttlers**, **4 Ice Mephits**, and **1 Chain-Lift Crawler**.
-- Prepared ghost NPCs/tokens in Roll20: **Door-Bracer Spirit** and **Ledger Keeper**.
-- Other Packet 6 ghost options are **not** prebuilt in Roll20 and should remain narration/social-memory encounters unless the party attacks or otherwise forces combat.
-- Prefer using the prepared ghosts first if a ghost scene becomes mechanically relevant; avoid requiring unbuilt spirit stat blocks unless necessary.
+- Roll20 prepared hostiles for Session 06 included **3 Shaft Scuttlers**, **4 Ice Mephits**, and **1 Chain-Lift Crawler**.
+- Chain-Lift Crawler is defeated.
+- Ice Mephits were used and defeated/resolved.
+- Final Shaft Scuttler status should be confirmed if needed.
+- Prepared ghost NPCs/tokens: **Door-Bracer Spirit** and **Ledger Keeper**.
+- Other Packet 6 ghost options were not prebuilt and should remain narration/social-memory encounters unless combat is forced.
 
 ---
 
