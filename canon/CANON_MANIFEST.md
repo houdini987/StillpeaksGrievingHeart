@@ -12,6 +12,7 @@ This file is a navigation and indexing aid only. It helps humans and tools find 
 | Packet 04 | The Karagvorn Line & Lower Slopes | `canon/scene-packets/packet-04-karagvorn-line-lower-slopes.canon.md` | Crossing packet establishing the Karagvorn Line and lower-slope ascent rules. | Live canon |
 | Packet 05 | The Mid-Slopes of Stillpeak | `canon/scene-packets/packet-05-mid-slopes-of-stillpeak.canon.md` | Mid-slopes attrition packet covering the summit approach threshold. | Live canon |
 | Packet 06 | The Exodus Stair | `canon/scene-packets/packet-06-the-exodus-stair.canon.md` | Upper interior transition packet from summit egress into the first wider exodus landing. | Draft canon |
+| Packet 07 | Bridgeward Way | `canon/scene-packets/packet-07-bridgeward-way.canon.md` | Main Chapter 7 scene packet from Exodus Landing through Witness Halls, Queen's Bridge, and Far-Side Mourning Threshold. | Draft canon |
 
 ## Scene Packet Supplements
 
@@ -22,7 +23,10 @@ This file is a navigation and indexing aid only. It helps humans and tools find 
 | Packet 06 Treasure | Exodus Stair Discoveries | `canon/scene-packets/packet-06-the-exodus-stair-treasure.canon.md` | Packet 06 — The Exodus Stair | Defines exploration, check-based, and environmental treasure discoveries for Chapter 6. | Draft canon supplement |
 | Packet 06 Exodus Landing | Exodus Landing Augment | `canon/scene-packets/packet-06-exodus-landing-augment.canon.md` | Packet 06 — The Exodus Stair, BEAT 6 | Adds the 10–15 minute Exodus Landing orientation capstone, four-route handling, first spirit-gathering echo, and Soot-Black Prayer Bead handoff into Packet 7. | Draft canon supplement |
 | Packet 07 Overview | Bridgeward Way Overview | `canon/scene-packets/packet-07-bridgeward-way-overview.canon.md` | Packet 07 — Bridgeward Way | Establishes the final-draft Chapter 7 arc, reveal boundaries, beat structure, Queen's Bridge tragedy sequence, and far-side throneward handoff. | Draft canon supplement |
+| Packet 07 Witness Halls | The Witness Halls | `canon/scene-packets/packet-07-witness-halls.canon.md` | Packet 07 — Bridgeward Way, BEAT 3 | Details the compact pre-bridge dungeon, including processional entry, witness spirits, covered queen imagery, Animus encounter, and final bridge arch. | Draft canon supplement |
+| Packet 07 Queen's Bridge | The Queen's Bridge | `canon/scene-packets/packet-07-queens-bridge.canon.md` | Packet 07 — Bridgeward Way, BEAT 4–5 | Details the bridge set piece, layered tragedy reenactment, Hollow Below trigger, Tremor Memory Track, crossing hazards, and far-side mourning threshold. | Draft canon supplement |
 | Packet 07 Monsters | Bridgeward Way Threats | `canon/scene-packets/packet-07-monsters.canon.md` | Packet 07 — Bridgeward Way / Queen's Bridge | Defines The Hollow Below, the Witness-Hall Grief-Crystal Animus, and Crystal Shardlings for the level 8 Chapter 7 encounter package. | Draft canon supplement |
+| Packet 07 Treasure | Bridgeward Way Discoveries | `canon/scene-packets/packet-07-treasure-discoveries.canon.md` | Packet 07 — Bridgeward Way | Defines optional rewards, clue-bearing objects, and check-based discoveries for Chapter 7. | Draft canon supplement |
 
 ## Other Key Canon Files
 
