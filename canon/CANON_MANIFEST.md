@@ -21,6 +21,7 @@ This file is a navigation and indexing aid only. It helps humans and tools find 
 | Packet 06 Hostiles | Hostile Intruders of the Exodus Stair | `canon/scene-packets/packet-06-the-exodus-stair-hostile-encounters.canon.md` | Packet 06 — The Exodus Stair | Defines opportunistic hostile creature encounters for Chapter 6, including scaled ice mephit squatters and a Chain-Lift Crawler set piece. | Draft canon supplement |
 | Packet 06 Treasure | Exodus Stair Discoveries | `canon/scene-packets/packet-06-the-exodus-stair-treasure.canon.md` | Packet 06 — The Exodus Stair | Defines exploration, check-based, and environmental treasure discoveries for Chapter 6. | Draft canon supplement |
 | Packet 06 Exodus Landing | Exodus Landing Augment | `canon/scene-packets/packet-06-exodus-landing-augment.canon.md` | Packet 06 — The Exodus Stair, BEAT 6 | Adds the 10–15 minute Exodus Landing orientation capstone, four-route handling, first spirit-gathering echo, and Soot-Black Prayer Bead handoff into Packet 7. | Draft canon supplement |
+| Packet 07 Monsters | Bridgeward Way Threats | `canon/scene-packets/packet-07-monsters.canon.md` | Packet 07 — Bridgeward Way / Queen's Bridge | Defines The Hollow Below and Crystal Shardlings for the level 8 Queen's Bridge encounter package. | Draft canon supplement |
 
 ## Other Key Canon Files
 
