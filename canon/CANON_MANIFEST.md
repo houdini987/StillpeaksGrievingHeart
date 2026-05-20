@@ -27,6 +27,7 @@ This file is a navigation and indexing aid only. It helps humans and tools find 
 | Packet 07 Queen's Bridge | The Queen's Bridge | `canon/scene-packets/packet-07-queens-bridge.canon.md` | Packet 07 — Bridgeward Way, BEAT 4–5 | Details the bridge set piece, layered tragedy reenactment, Hollow Below trigger, Tremor Memory Track, crossing hazards, and far-side mourning threshold. | Draft canon supplement |
 | Packet 07 Monsters | Bridgeward Way Threats | `canon/scene-packets/packet-07-monsters.canon.md` | Packet 07 — Bridgeward Way / Queen's Bridge | Defines The Hollow Below, the Witness-Hall Grief-Crystal Animus, and Crystal Shardlings for the level 8 Chapter 7 encounter package. | Draft canon supplement |
 | Packet 07 Treasure | Bridgeward Way Discoveries | `canon/scene-packets/packet-07-treasure-discoveries.canon.md` | Packet 07 — Bridgeward Way | Defines optional rewards, clue-bearing objects, and check-based discoveries for Chapter 7. | Draft canon supplement |
+| Packet 07 Handoff | Ideation Handoff | `canon/scene-packets/packet-07-ideation-handoff.md` | Packet 07 — Bridgeward Way | Captures working decisions, file list, map/image planning notes, remaining refinement items, and next-chat resume prompt for Packet 7. | Design handoff |
 
 ## Other Key Canon Files
 
