@@ -8,6 +8,8 @@ It augments **BEAT 6 — The Exodus Landing** only. It does not alter the alread
 
 Use this supplement when the party reaches Exodus Landing after the Chain-Lift Void and the table goal is to quickly orient the party toward Scene Packet 7 / Bridgeward Way.
 
+When used as the first step into Packet 7, this room also functions as the physical setup for **Bridgeward Threshold**.
+
 ---
 
 ## Design Intent
@@ -23,6 +25,31 @@ Use this supplement when the party reaches Exodus Landing after the Chain-Lift V
 **Guaranteed Discovery:** Soot-Black Prayer Bead / mourning clue.
 
 **Deep-Lore Boundary:** Do not reveal the queen's death, the immortal king truth, the exact bridge fall, or the final grief-source solution in this scene.
+
+---
+
+## Canon Map Identity and Orientation
+
+**Official scene name:** Bridgeward Threshold when used as the opening beat of Packet 7.
+
+**Map identity:** Exodus Landing / Four Ways.
+
+The in-game Exodus Landing map is canon for this scene. Treat it as a broad, damaged dwarven sorting chamber: a square stone hall with four exits, a central raised route marker or civic plinth, ruined crowd-control rails, dead lamp infrastructure, debris, cracked paving, and wrong-colored cursed crystal seams in the walls.
+
+The chamber is not a throne hall, shrine, guardroom, or treasure chamber. It is civic evacuation infrastructure: a controlled node where fleeing dwarves were counted, sorted, redirected, or held before routes were closed.
+
+Use this map orientation:
+
+| Map Direction | Canon Route | Visual Role |
+|---|---|---|
+| **North / top corridor** | Route back toward the Chain-Lift Void / Summit Egress | The party's arrival route from Packet 6. Narrower, damaged, descent-linked behind them. |
+| **South / bottom stone ladder / lower passage** | **Bridgeward Way** | The formal forward route into Packet 7, depicted by the stone ladder / descent to a lower level. This is the Tremorscope-aligned route. |
+| **West / left sealed side door** | Lower Holds | Blocked, braced, or sealed from this side. Evacuation closure logic. |
+| **East / right reinforced side passage** | Royal Descent | Warning-marked, pressure-barred, emotionally oppressive, important but not the current route. |
+
+The central raised stone feature is an old dwarven **route-control plinth** or **evacuation tally marker**, not an altar. It should read as practical civic infrastructure used by survivors and stewards under pressure.
+
+The room's emotional logic is: **they made it this far, then had to choose who went where.**
 
 ---
 
@@ -59,10 +86,10 @@ The party sees the room's purpose quickly: this was an evacuation sorting point.
 
 **Visible Routes:**
 
-- **Summit Egress** — behind/upward; where they came from.
-- **Lower Holds** — sealed doors, evacuation closure marks.
-- **Royal Descent** — cracked crest, warning marks, oppressive resonance.
-- **Bridgeward Way** — darker passage, dust-shifted, aligned to the Tremorscope.
+- **Summit Egress / Chain-Lift Return** — north/top corridor; the way the party came from.
+- **Lower Holds** — west/left sealed doors, evacuation closure marks.
+- **Royal Descent** — east/right reinforced side passage, cracked crest, warning marks, oppressive resonance.
+- **Bridgeward Way** — south/bottom stone ladder or lower passage; darker descent, dust-shifted, aligned to the Tremorscope.
 
 **Suggested Check:**
 
@@ -80,7 +107,7 @@ The party sees the room's purpose quickly: this was an evacuation sorting point.
 >
 > The arrows cut into the stone are old but readable. One points back toward the Summit Egress. One toward doors marked Lower Holds. One descends beneath a cracked royal crest.
 >
-> And one, half-hidden by dust and fallen stone, points toward a darker passage marked in old Dwarvish:
+> And one, half-hidden by dust and fallen stone, points toward a darker lower passage marked in old Dwarvish:
 >
 > **Bridgeward.**
 
@@ -126,7 +153,7 @@ Use this section to let the party feel they have multiple options without lettin
 
 #### Bridgeward Way
 
-**Visual:** Dust disturbed by no wind. Seam-glow faintly answering. Tremorscope alignment.
+**Visual:** The south/bottom stone ladder or lower passage descends away from the chamber. Dust is disturbed by no wind. Seam-glow faintly answers. The Tremorscope aligns here.
 
 **Meaning:** This is the route toward the current goal and Scene Packet 7.
 
@@ -140,7 +167,7 @@ Use this section to let the party feel they have multiple options without lettin
 >
 > It does not hesitate.
 >
-> It leans toward Bridgeward with the quiet certainty of a compass finding north. The mineral seams along that passage answer in a faint sequence, one pale pulse after another, like lights waking far beneath the stone.
+> It leans toward Bridgeward with the quiet certainty of a compass finding north. The mineral seams along that lower passage answer in a faint sequence, one pale pulse after another, like lights waking far beneath the stone.
 
 ---
 
@@ -249,7 +276,7 @@ Use this once the party has oriented, seen the spirits, and found or noticed the
 >
 > The Tremorscope pulses once. The soot-black bead warms in your hand for a single breath.
 >
-> Then, from the passage ahead, stone answers stone.
+> Then, from the lower passage ahead, stone answers stone.
 >
 > The Exodus Stair is behind you now.
 >
@@ -271,3 +298,27 @@ Do not let this become a full hub exploration scene. Give the party:
 Avoid adding combat here unless the party acts violently toward spirits or forcefully attacks sealed routes.
 
 Do not resolve Lower Holds, Royal Descent, queen death, immortal king truth, or the final grief-source solution in this scene.
+
+---
+
+## Visual Direction for Map Reference
+
+Use the canon Exodus Landing map as the visual anchor:
+
+- Hand-drawn Roll20 tactical map style.
+- Top-down, readable stone architecture.
+- No baked grid.
+- No labels.
+- White or transparent-feeling background outside the map footprint.
+- Rough dwarven stone walls with cracked tile floors.
+- Central raised stone marker / route-control plinth.
+- Four clear route exits.
+- Dead lamp cups, lantern hooks, signal basins, and old sconce infrastructure.
+- Broken rails and queue-control barriers.
+- Scattered crates, collapsed benches, debris, and old route hardware.
+- Subtle cursed crystal seams in blue, green-white, pale rose, and yellow tones.
+- Restrained glow, not bright fantasy neon.
+- Abandoned and functional, not treasure-filled or royal.
+- Bridgeward should feel visually lower, darker, more formal, and more ominous than the other routes.
+
+The strongest map-design rule: **this room is orientation, not exploration sprawl**. It gives the party a choice-shaped space, then tells them which route is alive with the story.
