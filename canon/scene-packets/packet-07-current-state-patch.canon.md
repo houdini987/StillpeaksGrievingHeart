@@ -13,6 +13,7 @@ It corrects stale readiness language in the Packet 7 canon stack without changin
 - `packet-07-monsters.canon.md`
 - `packet-07-treasure-discoveries.canon.md`
 - `packet-07-ideation-handoff.md`
+- `packet-07-spoken-word-runtime-cues.canon.md`
 
 ---
 
@@ -20,7 +21,7 @@ It corrects stale readiness language in the Packet 7 canon stack without changin
 
 Packet 7 remains **Draft canon** until final tweaks, table-prep review, and any desired balance edits are complete.
 
-This draft status is intentional for now. It does not mean the Packet 7 files are missing their core scene design. The main chapter packet, overview, Witness Halls supplement, Queen's Bridge supplement, monster supplement, treasure/discovery supplement, and ideation handoff all currently exist in canon.
+This draft status is intentional for now. It does not mean the Packet 7 files are missing their core scene design. The main chapter packet, overview, Witness Halls supplement, Queen's Bridge supplement, monster supplement, treasure/discovery supplement, spoken-word cue supplement, and ideation handoff all currently exist in canon.
 
 Do not promote Packet 7 to **Live canon** until the user explicitly asks for that promotion after final review.
 
@@ -41,6 +42,7 @@ Current state:
 - `packet-07-queens-bridge.canon.md` exists and contains the bridge set piece, Tremor Memory Track, crossing hazards, Hollow Below trigger, tragedy reveal, and Far-Side Mourning Threshold.
 - `packet-07-monsters.canon.md` exists and contains canon stat blocks for the Witness-Hall Grief-Crystal Animus, The Hollow Below, and Crystal Shardlings.
 - `packet-07-treasure-discoveries.canon.md` exists and contains Chapter 7 symbolic discoveries, modest rewards, and DC guidance.
+- `packet-07-spoken-word-runtime-cues.canon.md` exists and contains supplemental table narration, partial-success phrasing, combat cues, and pacing buttons.
 
 Where older files say to use the treasure file "once drafted," read that as: **use `packet-07-treasure-discoveries.canon.md` as the current canon treasure/discovery supplement.**
 
@@ -110,3 +112,90 @@ The encounter monster stat blocks already exist in `packet-07-monsters.canon.md`
 - **Crystal Shardlings**
 
 A future sidequest may still refine, rebalance, print-format, or Roll20-format these stat blocks, but canon is not missing the baseline monster mechanics.
+
+---
+
+## 7. Chapter 7 Roll20 Runtime Checklist
+
+Use this as the last-pass table-prep checklist before running Packet 7.
+
+### Required Scene / Map Support
+
+- **Exodus Landing / Bridgeward Threshold:** Use the existing Exodus Landing / Four Ways map or theater-of-mind support to bridge Packet 6 into Packet 7.
+- **Empty City Verge:** Scenic image, overlook map, or theater-of-mind description is sufficient. Do not turn this into a city crawl.
+- **Witness Halls:** Tactical/exploration map with Processional Entry, Witness Niches, Gallery of Covered Faces, Crystal Growth Chamber, and Last Arch Before the Span.
+- **Queen's Bridge:** Tactical set-piece map with a continuous but damaged bridge, near-side arch, central fall-scar/fracture area, far-side crystal formations, and far-side mourning threshold / throneward marker.
+- **Far-Side Mourning Threshold:** Small map, inset, handout, or theater-of-mind scene is sufficient. This should end Chapter 7, not open Chapter 8.
+
+### Required Tokens / Stat Blocks
+
+- **Witness-Hall Grief-Crystal Animus** — one Large token.
+- **The Hollow Below** — one Large token; represent it as underbridge / edge / fissure-based rather than standing openly in the center of the bridge.
+- **Crystal Shardlings** — two Small tokens, emerging from far-side crystal formations only when The Hollow Below activates.
+- **Spirit figures / procession markers** — optional noncombat tokens or handout elements. Do not place them in initiative unless the table needs visual anchors.
+
+### Suggested Roll20 Markers
+
+Prepare simple markers or GM-layer notes for:
+
+- Tremor Memory Track: 0 / 1 / 2 / trigger at 3.
+- central fall-scar / fracture zone.
+- edge-risk or gap-risk spaces.
+- difficult terrain from Stone Shear, Snagging Growth, or crystal-split floor.
+- Hollow Below tendrils / grappled targets.
+- far-side crystal formations where Shardlings emerge.
+- safe/anchor points for rope, pitons, climber's kit, Lift-Brake Pin, or teamwork actions.
+
+### Must-Hit Spoken Beats
+
+Before leaving Exodus Landing:
+
+- Bridgeward is the meaningful route.
+- Spirits are beginning to gather in that direction.
+- The Soot-Black Prayer Bead / mourning clue is available if not already handled.
+
+At Empty City Verge:
+
+- Stillpeak was a real kingdom/city, not a dungeon.
+- The city is mostly inaccessible for this chapter.
+- The Tremorscope and spirit movement point Bridgeward.
+
+In Witness Halls:
+
+- The bridge was sacred/civic.
+- The queen was loved.
+- Her image/memory became dangerous to hold directly.
+- The Animus is a grief-crystal growth, not a guardian.
+
+At Queen's Bridge:
+
+- The bridge is the emotional center of Chapter 7.
+- The queen's fall was caused by a tremor.
+- The Hollow Below exploits the wound but did not cause the tragedy.
+- The spirit-memory continues during combat.
+
+At Far-Side Mourning Threshold:
+
+- The aftermath scattered dwarves toward the king, the cavern bottom, prayer, and panic.
+- The route ahead points throneward.
+- Stop before beginning Chapter 8.
+
+### Runtime Pacing Reminders
+
+- Do not let the Empty City Verge become a full city crawl.
+- Do not let the Witness Halls consume the entire session unless the table is deeply engaged and time allows.
+- Do not let Queen's Bridge become only a combat encounter; use `packet-07-spoken-word-runtime-cues.canon.md` to keep the queen's fall memory active.
+- Do not add extra bridge monsters unless absolutely necessary; prefer Tremor Memory terrain complications.
+- If forced movement becomes too lethal, allow catch-edge saves and use The Hollow Below's retreat option rather than escalating to character removal.
+- End the chapter at the far-side threshold after the throneward handoff.
+
+### Quick Runtime Order
+
+1. Resolve Chain-Lift regroup / Exodus Landing bridge if still needed.
+2. Route the party into Bridgeward Way.
+3. Empty City Verge reveal.
+4. Witness Halls exploration and Animus encounter.
+5. Last Arch before the Span.
+6. Queen's Bridge memory + Hollow Below + two Shardlings.
+7. Far-Side Mourning Threshold.
+8. Stop before throneward descent becomes active play.
