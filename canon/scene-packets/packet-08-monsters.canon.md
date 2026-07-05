@@ -293,6 +293,7 @@ Suggested shared stat feel, before final numerical tuning:
 - **Damage style:** stone, crystal, psychic grief-pressure, forced movement, restraint.
 - **Spellcasting:** no normal druid spell list. The green beam effectively consumes their concentration, so they cannot cast ordinary druid spells while sustaining the king.
 - **Beam magic:** their remaining druidic magic expresses itself as signature terrain/root powers and simple reaction-style beam-concentration pulses.
+- **Legendary resistance:** each Druid titan has **1 legendary resistance**. This represents ancient court Stone Druid willpower reinforced by the sustaining beam, not generic boss immunity.
 - **Multiattack:** avoid default Stone Golem multiattack unless deliberately escalating. Prefer one meaningful action with a rider.
 
 ### Beam-Concentration Rule
@@ -311,6 +312,14 @@ This means:
 
 This keeps the fight fast in Roll20 and makes the beams feel like an active magical commitment rather than just a visual tether.
 
+### Legendary Resistance Rule
+
+Each Druid titan has **1 legendary resistance**.
+
+Use it to prevent one early fight-ending disable, banishment-style removal, or hard-control effect that would trivialize the beam objective before the party engages the encounter. Do not use it to negate every clever player choice.
+
+Once a Druid's beam breaks because that Druid is destroyed, its legendary resistance is irrelevant. Do not transfer unused legendary resistance between Druids.
+
 ---
 
 ## Dhurak Stonevein, the Fault-Tender
@@ -318,6 +327,8 @@ This keeps the fight fast in Roll20 and makes the beams feel like an active magi
 **Base Roll20 Chassis:** Stone Golem or other durable earth creature for AC/HP/saves only.
 
 **Durability Target:** About **180 HP**. Dhurak is the heavier physical anchor and should take more concentrated punishment before his beam breaks.
+
+**Legendary Resistance:** **1/day.** Dhurak can choose to succeed on one failed saving throw. Flavor this as the fault-lines bracing him and the green beam locking his body back into place.
 
 **Creature Concept:** Former court Stone Druid transformed into a crystal-earth titan. Dhurak read fault-lines for the king, interpreted tremors, and helped induce the bridge catastrophe. Now he is a living fault-prayer: the earthquake given druidic will.
 
@@ -416,6 +427,8 @@ Dhurak should:
 
 **Durability Target:** About **150 HP**. Veyra is slightly softer than Dhurak, but her restraint, beam protection, and preservation pressure make her tactically dangerous.
 
+**Legendary Resistance:** **1/day.** Veyra can choose to succeed on one failed saving throw. Flavor this as crystal roots tightening around her and the green beam preserving the spell-shape of her body.
+
 **Creature Concept:** Former court Stone Druid transformed into a crystal-root titan. Veyra read root systems, preservation rites, and deep crystal growth for the king. Now she is corrupt preservation given body: the will that binds what should be released.
 
 **Role:** Root druid, restraint, beam reinforcement, psychic preservation pressure, anti-mobility.
@@ -493,7 +506,7 @@ When the Mourning King takes damage, Veyra flares her beam.
 Suggested mechanics:
 
 - Reduce that damage by 10–15.
-- Or force the attacker to make **DC 15 Wisdom saving throw** or take 7 (2d6) psychic damage.
+- Or force the attacker to make **DC 15 Wisdom save** or take 7 (2d6) psychic damage.
 
 If Veyra uses Green Beam Reinforcement as a reaction, she cannot also use Root Preservation that round.
 
@@ -519,6 +532,7 @@ Shared traits:
 - Large or Huge crystal-earth bodies depending on Roll20 space.
 - Green beam connected to the king.
 - The beam functions like a supernatural concentration commitment, but does not break from ordinary damage checks.
+- Each has 1 legendary resistance only.
 - Abbathor-touched crystal growths.
 - Former Stone Druid symbolism warped by greed.
 - Ancient court-advisor identity still visible beneath the transformation.
@@ -562,6 +576,7 @@ Recommended balance levers:
 - Use asymmetric Druid durability: Dhurak around 180 HP, Veyra around 150 HP.
 - Avoid running both Druids as Stone Golem multiattack bruisers by default.
 - Do not give Dhurak or Veyra normal druid spell lists; the green beam consumes their concentration.
+- Give each Druid exactly 1 legendary resistance; do not use it to erase every clever player play.
 - Use beam-concentration reactions sparingly so they add identity without becoming extra turn bloat.
 - Lower the Mourning King's offensive spell selection.
 - Make beam protection obvious but not absolute.
