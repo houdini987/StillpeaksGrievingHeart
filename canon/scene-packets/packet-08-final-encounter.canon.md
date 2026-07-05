@@ -4,12 +4,15 @@
 
 This file defines the final encounter structure for Scene Packet 8 / Chapter 8: Throneward Descent.
 
-It covers the King's Chamber / Crystal Boss Arena, green sustaining beams, boss phases, clarity window, and resolution branches.
+It covers the King's Chamber / Crystal Boss Arena, green sustaining beams, Druid protection logic, combat phases, clarity window, and resolution branches.
 
 Use with:
 
 - `packet-08-throneward-descent.canon.md`
 - `packet-08-monsters.canon.md`
+- `packet-08-current-stat-blocks-quick-reference.canon.md`
+- `packet-08-roll20-monster-prep.canon.md`
+- `packet-08-mourning-king-non-undead-rule.canon.md`
 - `packet-08-attunement-affliction.canon.md`
 - `packet-08-treasure-discoveries.canon.md`
 - `packet-08-runtime-cues.canon.md`
@@ -20,13 +23,16 @@ Use with:
 
 This encounter is the campaign's final moral and mechanical test.
 
-The party should already understand the lore before this battle begins. The final encounter should show them the consequence of what they learned:
+The party should already understand the broad lore before this battle begins. The final encounter should show them the consequence of what they learned:
 
-- the king locked in crystal
-- Dhurak and Veyra transformed into monstrous crystal-earth titans
-- green beams sustaining the king
+- the king fastened to the throne as a living vessel, not an undead commander
+- Dhurak and Veyra transformed into monstrous crystal-earth Stone Druid titans
+- green beams sustaining the throne-engine through the king
+- the Druids protecting the king more than themselves because he is the vessel of their corrupted preservation engine
 - Maelreth and Erny nearly overwhelmed by the source
 - mercy death as the cleanest resolution once the beams break
+
+The fight is not against a stock lich. It is against the Druid-built grief engine around a trapped king.
 
 ---
 
@@ -78,7 +84,7 @@ Suggested cue:
 
 The King's Chamber is no longer a normal royal chamber.
 
-The party still enters through a recognizable royal doorway set into a surviving wall, but that doorway does not lead into a conventional rectangular room. It opens into a warehouse-sized spherical cavern: the ground-zero cavity where the crystal energy ignited generations ago.
+The party still enters through a recognizable royal doorway set into a surviving wall, but that doorway does not lead into a conventional rectangular room. It opens into a warehouse-sized geode-like cavity: the ground-zero wound where the crystal energy ignited generations ago.
 
 Think of the space as the inside of a vast geode rock rather than a perfect architectural sphere. The cavity is round in the way a natural crystal pocket is round: organic, jagged, uneven, and enclosing. The original royal architecture was blasted outward, swallowed, and vitrified into the crystal shell. Broken wall segments, royal relief fragments, dead lamp housings, and floor patterns remain only as warped remnants fused into the inner geode surface.
 
@@ -94,6 +100,7 @@ Features:
 - Dhurak Stonevein and Veyra Deeproot positioned to either side of the central throne-engine
 - one glowing green beam from Dhurak to the king
 - one glowing green beam from Veyra to the king
+- both Druid titans angled protectively toward the king, making their guardian/vessel relationship obvious immediately
 - jagged crystal growths covering the curved inner shell like the inside of a massive geode
 - organic radial crystal scars and blast fractures from the original ignition point
 - uneven curved walls, ceiling, and floor fused into one enclosing cavity
@@ -103,7 +110,7 @@ Features:
 - unstable cracks and pulse lines aimed inward and outward from the center
 - queen-linked remnants near the central throne-engine or trapped in curved crystal walls
 
-The arena should be visually readable in Roll20: one round/organic boss space, three central boss anchors, and obvious beam lines. Do not place the throne at the far end or back wall; the central engine is the point of the room. Do not draw perfect concentric rings unless later map work deliberately chooses that abstraction.
+The arena should be visually readable in Roll20: one round/organic boss space, two active Druid anchors, a central inert King vessel, and obvious beam lines. Do not place the throne at the far end or back wall; the central engine is the point of the room. Do not draw perfect concentric rings unless later map work deliberately chooses that abstraction.
 
 ---
 
@@ -139,7 +146,7 @@ On failure, choose the least fussy consequence that fits:
 - lose 10 feet of movement
 - drop from an upper slope to a lower slope and take 3 (1d6) bludgeoning/piercing damage only if the fall is visually meaningful
 
-Do not use the bowl slope to repeatedly punish melee characters who must approach the center. The center should be dangerous because of the bosses and beams, not because every step requires a roll.
+Do not use the bowl slope to repeatedly punish melee characters who must approach the center. The center should be dangerous because of the Druids and beams, not because every step requires a roll.
 
 ### Dhurak Weaponizes the Bowl
 
@@ -177,15 +184,15 @@ This is the final-arena escalation of the earlier shaft behavior: when Erny or M
 
 ### Trigger
 
-While at least one green beam remains active, if **Erny** or **Maelreth** uses an offensive action, attack, damaging spell, smite, or damaging class feature against **any boss** in the final arena, the geode chamber reacts.
+While at least one green beam remains active, if **Erny** or **Maelreth** uses an offensive action, attack, damaging spell, smite, or damaging class feature against **Dhurak, Veyra, or the protected King vessel**, the geode chamber reacts.
 
-Resolve the triggering offense normally first. The backlash happens after the attack/spell/feature resolves.
+Resolve the triggering offense normally first. If the attack against the King is intercepted by a Druid, the backlash can still occur because the offensive resonance entered the active engine.
 
 Default cap: trigger this backlash **once per round**, not once per hit or once per Eldritch Blast beam. This prevents the mechanic from becoming a self-punishing loop while still making Erny and Maelreth's offense feel dangerous.
 
 ### Backlash Effect — Full-Geode Flash
 
-All crystals in the spherical geode chamber ignite at once.
+All crystals in the geode chamber ignite at once.
 
 For a heartbeat, the room becomes white-green light. The ground shakes. Crystal shards release from the jagged shell overhead and rain down across the battlefield.
 
@@ -217,7 +224,7 @@ They can still attack. Their offense still matters. But while the beams remain a
 
 Suggested cue:
 
-> The moment your attack bites into the boss, every crystal in the chamber notices.
+> The moment your attack bites into the engine, every crystal in the chamber notices.
 >
 > The geode ignites.
 >
@@ -228,6 +235,8 @@ Suggested cue:
 ---
 
 ## Entry Read-Aloud
+
+Use this when the party first enters the King's Chamber. The Druid protection relationship should be clear immediately: the beams, the posture of both titans, and the throne-cage all show that the King is a vessel being protected, not an active commander.
 
 > The royal doorway still exists.
 >
@@ -245,57 +254,78 @@ Suggested cue:
 >
 > Crystal ribs curl around it like a cage grown from the mountain's own bones.
 >
-> Inside that embrace sits the king.
+> Inside that cage sits the king.
 >
-> Crown fused to crystal. Beard threaded with mineral veins. Hands locked to the throne as if command itself has become a shackle.
+> Crown fused to crystal. Beard threaded with mineral veins. Hands locked to the arms of the throne. Not ruling from it.
 >
-> To his left, a towering crystal-stone giant turns, fault-lines glowing through its body.
+> Fastened to it.
 >
-> To his right, another rises from rootlike crystal growths, its body threaded into the central floor.
+> A green beam burns into him from the left, where a towering crystal-stone giant braces itself against the floor, fault-lines glowing through its body like cracks in a mountain before collapse.
 >
-> From each monster, a green beam burns into the king.
+> Another beam burns into him from the right, where a second giant rises from rootlike crystal growths, its body threaded into the central floor as if it has grown there for centuries.
 >
-> The throne pulses.
+> The two giants do not stand before him like servants.
 >
-> The king opens his eyes.
+> They stand around him like wardens around a holy engine.
 >
-> And the mountain grieves through him.
+> Every beam, every root, every fault-line says the same thing: they are not waiting for his command.
+>
+> They are keeping him.
+>
+> The king's eyes open.
+>
+> For one breath, you see a man trapped behind the light.
+>
+> Then the throne pulses, the Druids turn toward you, and the whole geode answers.
+
+### Shorter Combat-Start Cue
+
+Use if the long read-aloud has already happened but initiative needs a sharp ignition line.
+
+> The King does not rise.
+>
+> He cannot.
+>
+> The throne holds him still as the two Druid titans move to protect what they have made of him.
+>
+> Roll initiative.
 
 ---
 
 ## Encounter Package
 
-All three bosses are active from the start.
+The final encounter has **two active bosses** and one protected vessel objective.
 
-- **Mourning King** — Lich chassis modified as grief-engine / throne-bound royal caster.
-- **Dhurak Stonevein, the Fault-Tender** — boosted Stone Golem chassis; tremor/arena breaker.
-- **Veyra Deeproot, the Root-Seer** — boosted Stone Golem chassis; crystal-root controller / beam sustainer.
+- **Mourning King** — non-undead, throne-bound living vessel. Inert during combat while beams remain active.
+- **Dhurak Stonevein, the Fault-Tender** — boosted Stone Druid titan; tremor/arena breaker.
+- **Veyra Deeproot, the Root-Seer** — boosted Stone Druid titan; crystal-root controller / beam sustainer.
 
 The mandatory Implosion Threshold encounter occurs before this arena and is not part of the final encounter package. Do not add final-arena minions by default.
 
 ---
 
-## Green Beam Mechanic
+## Green Beam / Vessel Protection Mechanic
 
-Each Druid titan sustains the Mourning King with one visible green beam.
+Each Druid titan sustains the throne-engine through the Mourning King with one visible green beam.
+
+The beams should be obvious on entry. The players should understand before initiative that the Druids are protecting the King and that the King is trapped inside the mechanism.
 
 ### While Both Beams Are Active
 
-- The Mourning King has major protection.
-- The king regains hit points or ignores some damage each round.
+- The Mourning King is inert as a combatant.
+- Dhurak and Veyra are both active.
+- The King is protected by both beam absorption and Druid interception.
 - Erny and Maelreth suffer full Final Attunement Crisis.
-- Erny and Maelreth's offensive actions against bosses can trigger Attuned Offense Backlash.
+- Erny and Maelreth's offensive actions against the engine/bosses can trigger Attuned Offense Backlash.
 - Dhurak and Veyra should feel like priority targets.
 
-Recommended mechanical options:
+Preferred table version for attacks on the King:
 
-Choose one for simplicity:
+1. A living Druid titan intercepts by default.
+2. The attack/effect is redirected to that Druid, or the Druid takes the damage/effect in the King's place.
+3. If damage still reaches the King, both beams absorb the first 30 damage he takes each round.
 
-1. The king has resistance to all damage while both beams are active.
-2. The king regains 20 hit points at initiative count 20 while both beams are active.
-3. The first 30 damage the king takes each round is absorbed by the beams.
-
-Preferred table version: **damage absorption**. It is visible and easy to narrate.
+The intercept should be visibly sacrificial, not merely defensive.
 
 ### When One Beam Breaks
 
@@ -305,13 +335,12 @@ When either Dhurak or Veyra is destroyed:
 - The king's protection weakens.
 - Final Attunement Crisis becomes less severe.
 - Attuned Offense Backlash weakens but may still occur.
-- The surviving Druid becomes more desperate or more violent.
+- The surviving Druid becomes more desperate, more violent, or more single-minded in protecting the vessel.
 
 Recommended mechanical change:
 
-- Damage absorption drops by half.
-- Or the king loses resistance to one major damage category.
-- Or the king's regeneration/healing is halved.
+- Only the surviving Druid can intercept.
+- If damage reaches the King, beam absorption drops to first 15 damage each round.
 
 ### When Both Beams Break
 
@@ -319,10 +348,45 @@ When both Dhurak and Veyra are destroyed:
 
 - The green beams collapse.
 - The throne's crystal embrace cracks.
+- Druid interception ends.
 - The king loses beam protection.
 - Final Attunement Crisis ends.
 - Attuned Offense Backlash ends.
 - The Mourning King enters a clarity window.
+
+---
+
+## Druid Interception Teaching
+
+Because option A is canon, the protection should be clear from the first description, not hidden as a puzzle.
+
+Use these visible signals:
+
+- beams run from each Druid into the King, not from King to Druid
+- the Druids' bodies are physically angled between the party and the throne
+- roots, fault-lines, and crystal ribs all bend protectively around the King
+- the King is visibly restrained, not poised to command
+- the Druids move when the party threatens the King, even before the King speaks
+
+If a player says they want to attack the King, remind them what their characters can plainly see:
+
+> The line is open only in the way a trap is open.
+>
+> Both beams tighten when your weapon turns toward him.
+>
+> Dhurak and Veyra shift at once, not to save themselves, but to put their bodies between you and the throne.
+
+If the attack proceeds, use the interception rule.
+
+Suggested interception cue:
+
+> The attack never reaches the king.
+>
+> The nearest green beam snaps taut, and the Druid titan tears itself sideways into the blow.
+>
+> Crystal splits. Stone screams.
+>
+> The king remains pinned to the throne, untouched — not because he defended himself, but because they will break themselves before they let the vessel fail.
 
 ---
 
@@ -332,39 +396,40 @@ When both Dhurak and Veyra are destroyed:
 
 Starts when initiative begins.
 
-All bosses active. Both beams active.
+Both Druid titans active. Both beams active. King inert.
 
 Tone:
 
 - overwhelming pressure
+- obvious Druid protection
 - arena control
-- visible beam protection
+- visible beam interception
 - Maelreth and Erny under maximum strain
 - attuned offense causing full-room crystal flash and tremor backlash
 
 DM goal:
 
-Make the party understand quickly that the Druids matter.
+Make the party understand immediately that Dhurak and Veyra are the fight.
 
 Signals:
 
-- attacks against the king partially vanish into the green beams
-- the beam brightens when he is hurt
-- Dhurak and Veyra pulse in response
-- the king's wounds seal with crystal light
+- attacks against the King draw Druid interception
+- the beams brighten when the vessel is threatened
+- Dhurak and Veyra pulse in response to damage
+- the King does not command, dodge, or cast
 - Erny or Maelreth's offense makes all crystals flash and shake the bowl
 
 ### Phase 2 — Cracked Engine
 
 Starts when one Druid titan is destroyed.
 
-One beam active.
+One beam active. King still inert but less protected.
 
 Tone:
 
 - momentum shift
 - king destabilizing
-- surviving Druid becoming more dangerous
+- surviving Druid becoming more desperate
 - attunement pressure slightly easing
 - backlash still possible but weaker
 
@@ -481,7 +546,7 @@ If the party refuses to act during the clarity window or tries to preserve the k
 - the crystal remnants begin to pulse again
 - the king panics
 - the grief-engine may attempt to reassert itself
-- the DM may restart a reduced final phase or force a final decision
+- the DM may restart a reduced final pressure scene or force a final decision
 
 Do not allow indefinite negotiation to drain the scene.
 
@@ -489,14 +554,14 @@ Do not allow indefinite negotiation to drain the scene.
 
 ## Arena Hazards
 
-Use sparingly; the three-boss package is already heavy.
+Use sparingly; the Druid titan package is already heavy.
 
 Optional hazards:
 
 - **Crystal Pulse Line:** irregular 15-foot crystal scar, DC 14 Dexterity save or 2d6 force/psychic damage.
 - **Bowl-Slope Slide:** A creature high on the geode bowl after a tremor, shove, beam flare, or risky movement makes **DC 14 Dexterity saving throw** or slides 10 feet toward the center and/or falls prone.
-- **Attuned Offense Backlash:** If Erny or Maelreth attacks/damages a boss while at least one beam remains active, all crystals flash, the ground tremors, and the party makes **DC 14 Dexterity saving throw** against falling shards; default 7 (2d6) piercing/force damage, half on success, once per round.
-- **Green Beam Flare:** A creature crossing a beam makes DC 15 Constitution save or takes 2d8 radiant/necrotic-flavored crystal damage and is pushed 10 feet.
+- **Attuned Offense Backlash:** If Erny or Maelreth attacks/damages the active engine while at least one beam remains active, all crystals flash, the ground tremors, and the party makes **DC 14 Dexterity saving throw** against falling shards; default 7 (2d6) piercing/force damage, half on success, once per round.
+- **Green Beam Flare:** A creature crossing a beam makes DC 15 Constitution save or takes 2d8 radiant/force-flavored crystal damage and is pushed 10 feet.
 - **Crystal Root Snare:** Difficult terrain; DC 14 Strength or Acrobatics to escape if restrained.
 - **Falling Shards:** Initiative count 20, one 10-foot area beneath the jagged geode ceiling becomes dangerous terrain.
 
@@ -506,44 +571,16 @@ Avoid overloading the fight with too many hazards unless the party is overwhelmi
 
 ## Balance Notes
 
-This encounter is dangerous because all three bosses are active from the start and the party has already passed through a mandatory threshold encounter.
+This encounter is dangerous because it uses two active Druid titan bosses, a protected King vessel, beam interception, arena pressure, attunement backlash, and a mandatory threshold encounter beforehand.
 
 Balance levers:
 
 - use the tactical breath to let the party spend potions/items before initiative
-- reduce the king's early damage output while both beams are active
-- make his early actions control-oriented rather than nova-oriented
+- keep the King inert while beams remain active
+- make Druid interception obvious so attacks against the King do not feel like a trick
 - keep Dhurak and Veyra dangerous but not one-shot lethal
 - allow beam mechanics to reward focus fire
 - let relics or lore discoveries grant tactical advantages
 - cap Attuned Offense Backlash at once per round unless deliberately escalating
 - reduce or soften Attuned Offense Backlash after one beam is destroyed
-- reduce boss HP if the party reaches the arena heavily depleted
-- remove optional arena hazards if the threshold encounter taxed the party heavily
-
-Dhurak and Veyra use Stone Golem chassis for Roll20 convenience, but should be boosted above ordinary Stone Golem threat.
-
----
-
-## Map Reference
-
-King's Chamber map should include:
-
-- surviving royal doorway / entry threshold at the chamber edge
-- round organic geode-like ground-zero arena footprint, not a perfect circle if avoidable
-- bowl-shaped playable floor sloping toward the central throne-engine
-- throne / king anchor at or near the center of the crystal cavity
-- Dhurak and Veyra positioned to either side of the central throne-engine
-- visible beam lines converging on the king
-- jagged crystal shell texture like the inside of a massive geode
-- organic radial scars, growth seams, and pulse fractures from the original ignition point
-- curved wall/floor/ceiling feel, even in top-down Roll20 form
-- lower slopes as difficult terrain and upper slopes as unstable footing at DM discretion
-- crystal roots and difficult terrain growing irregularly from the center
-- cracked royal floor patterns bent, buried, or broken by the geode blast-scar
-- dead lamps swallowed by crystal-glass along the curved perimeter
-- possible queen relic point near the central throne-engine or side of the geode wall
-- no clean concentric rings by default
-- no far-end/back-wall throne placement
-- no baked labels
-- no baked grid
+- avoid adding extra arena hazards unless the party is overwhelming the fight
