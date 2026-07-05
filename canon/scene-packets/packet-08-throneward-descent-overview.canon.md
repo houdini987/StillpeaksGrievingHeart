@@ -12,6 +12,7 @@ Use with:
 - `packet-08-king-and-stone-druids-lore.canon.md`
 - `packet-08-attunement-affliction.canon.md`
 - `packet-08-final-encounter.canon.md`
+- `packet-08-ending-execution.canon.md`
 - `packet-08-monsters.canon.md`
 - `packet-08-current-stat-blocks-quick-reference.canon.md`
 - `packet-08-roll20-monster-prep.canon.md`
@@ -132,7 +133,7 @@ Primary ending:
 - Dhurak and Veyra are destroyed.
 - The green beams break.
 - The king reaches a brief clarity window.
-- He begs for a quick end.
+- He gives a poetic but unmistakable plea for release.
 - If the party grants mercy death, Stillpeak begins to release.
 
 Slim possibility:
@@ -140,6 +141,8 @@ Slim possibility:
 - If the party uses an appropriate queen-linked mourning/restraint relic during the clarity window, they may attempt a narrow salvation route.
 - The relic must symbolize mourning without possession.
 - Failure should collapse back into the mercy-death path rather than create a punitive dead end.
+
+For clarity-window execution, mercy-death handling, relic salvation, and refusal/delay pressure, use `packet-08-ending-execution.canon.md`.
 
 ---
 
@@ -154,6 +157,7 @@ Recommended files:
 - `packet-08-king-and-stone-druids-lore.canon.md` — lore supplement.
 - `packet-08-attunement-affliction.canon.md` — Maelreth/Erny affliction mechanics.
 - `packet-08-final-encounter.canon.md` — boss arena and encounter phases.
+- `packet-08-ending-execution.canon.md` — clarity window, poetic mercy plea, relic salvation handling, refusal/delay pressure, and final release narration.
 - `packet-08-monsters.canon.md` — threshold encounter and boss stat block modifications.
 - `packet-08-current-stat-blocks-quick-reference.canon.md` — current table-facing monster mechanics and stat block summary.
 - `packet-08-roll20-monster-prep.canon.md` — Roll20 token notes, quick macro text, and setup reminders.
