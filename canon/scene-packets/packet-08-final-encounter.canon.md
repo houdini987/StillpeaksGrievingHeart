@@ -30,6 +30,50 @@ The party should already understand the lore before this battle begins. The fina
 
 ---
 
+## Pre-Entry Tactical Breath
+
+After the mandatory Implosion Threshold encounter and before entering the King's Chamber, the party gets a brief tactical breath.
+
+This is **not a short rest**.
+
+Allow about 5–10 in-world minutes for:
+
+- drinking healing potions
+- swapping readied gear
+- checking relics or clues
+- casting short-duration preparatory spells if the spell's timing makes sense
+- distributing potions or items
+- choosing marching order / entry positions
+- quick character conversation
+
+Do not allow:
+
+- short-rest feature recovery
+- Hit Dice spending
+- lengthy ritual casting unless the DM explicitly wants to slow pacing
+- safe long-form exploration
+- repeated attempts to farm advantage or reset the whole chapter
+
+The pressure should remain audible and visible. The King's Chamber is close. The party gets one breath before the door, not an hour of safety.
+
+Suggested cue:
+
+> The last of the threshold creatures breaks apart, but the chamber does not become safe.
+>
+> The green light drains away from the shattered bodies in thin veins, all flowing toward the same sealed arch.
+>
+> Beyond it, something vast pulses once.
+>
+> Then again.
+>
+> You have moments to bind wounds, drink what you must, and decide how you enter.
+>
+> Not enough time to rest.
+>
+> Enough time to understand that the next room is the heart of it.
+
+---
+
 ## Arena Concept
 
 The King's Chamber is no longer a normal royal chamber.
@@ -319,6 +363,7 @@ This encounter is dangerous because all three bosses are active from the start a
 
 Balance levers:
 
+- use the tactical breath to let the party spend potions/items before initiative
 - reduce the king's early damage output while both beams are active
 - make his early actions control-oriented rather than nova-oriented
 - keep Dhurak and Veyra dangerous but not one-shot lethal
