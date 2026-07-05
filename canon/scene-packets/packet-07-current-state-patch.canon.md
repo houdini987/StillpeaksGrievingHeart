@@ -14,6 +14,7 @@ It corrects stale readiness language in the Packet 7 canon stack without changin
 - `packet-07-treasure-discoveries.canon.md`
 - `packet-07-ideation-handoff.md`
 - `packet-07-spoken-word-runtime-cues.canon.md`
+- `packet-07-bridge-truth-refinement.canon.md`
 
 ---
 
@@ -21,7 +22,7 @@ It corrects stale readiness language in the Packet 7 canon stack without changin
 
 Packet 7 remains **Draft canon** until final tweaks, table-prep review, and any desired balance edits are complete.
 
-This draft status is intentional for now. It does not mean the Packet 7 files are missing their core scene design. The main chapter packet, overview, Witness Halls supplement, Queen's Bridge supplement, monster supplement, treasure/discovery supplement, spoken-word cue supplement, and ideation handoff all currently exist in canon.
+This draft status is intentional for now. It does not mean the Packet 7 files are missing their core scene design. The main chapter packet, overview, Witness Halls supplement, Queen's Bridge supplement, monster supplement, treasure/discovery supplement, spoken-word cue supplement, bridge-truth refinement, and ideation handoff all currently exist in canon.
 
 Do not promote Packet 7 to **Live canon** until the user explicitly asks for that promotion after final review.
 
@@ -29,7 +30,7 @@ Do not promote Packet 7 to **Live canon** until the user explicitly asks for tha
 
 ## 2. Stale File-State Corrections
 
-The following older references in the Packet 7 stack should be treated as stale current-state language:
+The following older references in the Packet 7 stack should be treated as stale current-state language if encountered in older branches, exports, or cached copies:
 
 - Any phrase implying `packet-07-treasure-discoveries.canon.md` still needs to be drafted.
 - Any phrase implying `packet-07-witness-halls.canon.md` still needs to be drafted.
@@ -43,12 +44,24 @@ Current state:
 - `packet-07-monsters.canon.md` exists and contains canon stat blocks for the Witness-Hall Grief-Crystal Animus, The Hollow Below, and Crystal Shardlings.
 - `packet-07-treasure-discoveries.canon.md` exists and contains Chapter 7 symbolic discoveries, modest rewards, and DC guidance.
 - `packet-07-spoken-word-runtime-cues.canon.md` exists and contains supplemental table narration, partial-success phrasing, combat cues, and pacing buttons.
+- `packet-07-bridge-truth-refinement.canon.md` exists and preserves the Chapter 7 table-facing tremor truth while setting up the hidden Chapter 8 induced-tremor reveal.
 
-Where older files say to use the treasure file "once drafted," read that as: **use `packet-07-treasure-discoveries.canon.md` as the current canon treasure/discovery supplement.**
+Use `packet-07-treasure-discoveries.canon.md` as the current canon treasure/discovery supplement.
 
 ---
 
-## 3. Roll20 / Map Current-State Clarification
+## 3. Chapter 7 / Chapter 8 Truth Boundary
+
+For ingestion, preserve both layers:
+
+- **Chapter 7 table-facing truth:** the witnesses, spirits, and bridge memory show a sudden tremor, the queen's fall, failed rescue, and immediate civic panic. They do not reveal murder, betrayal, sabotage, visible spellcasting, Abbathor, Dhurak, Veyra, or a conspiratorial cause.
+- **Chapter 8 hidden truth:** later throneward evidence may reveal that the tremor was secretly induced by Dhurak Stonevein and Veyra Deeproot through Abbathor-touched crystal corruption.
+
+When answering Chapter 7 runtime questions, say the queen fell because of a tremor. When answering whole-campaign design questions, include the deeper truth only if the context calls for Chapter 8 or full-arc knowledge.
+
+---
+
+## 4. Roll20 / Map Current-State Clarification
 
 Some Chapter 7 maps and scenic images may already exist in Roll20 and should not be assumed missing merely because the ideation handoff lists map/image planning as a remaining work item.
 
@@ -67,7 +80,7 @@ Do not create new visual assets solely because the handoff says map/image planni
 
 ---
 
-## 4. Queen's Bridge Physical Continuity Rule
+## 5. Queen's Bridge Physical Continuity Rule
 
 The Queen's Bridge is damaged but still crossable.
 
@@ -86,7 +99,7 @@ Use crossing checks, hazards, and monster pressure to make the route perilous wi
 
 ---
 
-## 5. Level-8 Balance Assumption
+## 6. Level-8 Balance Assumption
 
 For Packet 7 encounter planning, assume the party is definitely **level 8**, matching `bootstrap/SESSION_STATE.md` and the latest session log.
 
@@ -103,7 +116,7 @@ Until updated sheets are available, use runtime safety valves rather than rewrit
 
 ---
 
-## 6. Monster Stat Block Current-State
+## 7. Monster Stat Block Current-State
 
 The encounter monster stat blocks already exist in `packet-07-monsters.canon.md`:
 
@@ -115,7 +128,7 @@ A future sidequest may still refine, rebalance, print-format, or Roll20-format t
 
 ---
 
-## 7. Chapter 7 Roll20 Runtime Checklist
+## 8. Chapter 7 Roll20 Runtime Checklist
 
 Use this as the last-pass table-prep checklist before running Packet 7.
 
