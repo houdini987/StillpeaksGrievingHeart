@@ -88,7 +88,7 @@ All three bosses are active from the start.
 - **Dhurak Stonevein, the Fault-Tender** — boosted Stone Golem chassis; tremor/arena breaker.
 - **Veyra Deeproot, the Root-Seer** — boosted Stone Golem chassis; crystal-root controller / beam sustainer.
 
-Non-boss monsters are not currently part of the locked encounter package. Add lesser threats only after later deliberate design.
+The mandatory Implosion Threshold encounter occurs before this arena and is not part of the final encounter package. Do not add final-arena minions by default.
 
 ---
 
@@ -315,7 +315,7 @@ Avoid overloading the fight with too many hazards unless the party is overwhelmi
 
 ## Balance Notes
 
-This encounter is dangerous because all three bosses are active from the start.
+This encounter is dangerous because all three bosses are active from the start and the party has already passed through a mandatory threshold encounter.
 
 Balance levers:
 
@@ -325,6 +325,7 @@ Balance levers:
 - allow beam mechanics to reward focus fire
 - let relics or lore discoveries grant tactical advantages
 - reduce boss HP if the party reaches the arena heavily depleted
+- remove optional arena hazards if the threshold encounter taxed the party heavily
 
 Dhurak and Veyra use Stone Golem chassis for Roll20 convenience, but should be boosted above ordinary Stone Golem threat.
 
