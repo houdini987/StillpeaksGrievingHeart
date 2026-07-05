@@ -265,7 +265,8 @@ Only these queen-linked mourning/restraint relics count:
 
 1. **Soot-Black Prayer Bead**
 2. **Torn White Procession Cloth**
-3. **Queen's Lantern Charm**
+
+The Queen's Lantern Charm does not count for slim salvation, though it may help with attunement/fear pressure.
 
 The relic must be used during the clarity window.
 
