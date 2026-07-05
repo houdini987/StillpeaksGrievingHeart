@@ -40,13 +40,12 @@ Only the following relics count as valid queen-linked mourning/restraint relics 
 
 1. **Soot-Black Prayer Bead**
 2. **Torn White Procession Cloth**
-3. **Queen's Lantern Charm**
 
-A valid relic symbolizes mourning without possession — grief that honors the queen instead of dragging her back.
+A valid salvation relic symbolizes mourning without possession — grief that honors the queen instead of dragging her back.
 
-Do not treat unrelated beads, improvised objects, ordinary treasure, or later undefined relics as valid salvation relics unless the user explicitly revises this canon later.
+Do not treat the Queen's Lantern Charm, unrelated beads, improvised objects, ordinary treasure, or later undefined relics as valid salvation relics unless the user explicitly revises this canon later.
 
-The Soot-Black Prayer Bead is the strongest and clearest relic. Torn White Procession Cloth is an unavoidable but low-emphasis Chapter 8 discovery, present because it belongs to the tragedy rather than because the module is steering the party toward salvation. Queen's Lantern Charm remains optional.
+The Soot-Black Prayer Bead is the strongest and clearest salvation relic. Torn White Procession Cloth is an unavoidable but low-emphasis Chapter 8 discovery, present because it belongs to the tragedy rather than because the module is steering the party toward salvation. Queen's Lantern Charm remains optional and useful, but it supports attunement/fear pressure rather than the slim salvation path.
 
 ---
 
@@ -110,7 +109,7 @@ The Soot-Black Prayer Bead is the strongest and clearest relic. Torn White Proce
 
 **Lore:** Lanterns guided witnesses and mourners; they were never meant to drag the dead back from darkness.
 
-**Possible Use:** Valid queen-linked relic; can also grant advantage on one save against fear, grief, or final attunement pressure.
+**Possible Use:** Not a valid slim-salvation relic. It can grant advantage on one save against fear, grief, or final attunement pressure, or it can be used once for relic counterplay against Erny or Maelreth's over-attunement.
 
 ---
 
@@ -138,7 +137,7 @@ The Soot-Black Prayer Bead is the strongest and clearest relic. Torn White Proce
 
 ## Relic Use in Final Encounter
 
-During the clarity window, one of the three valid queen-linked relics may enable the slim salvation route.
+During the clarity window, only the Soot-Black Prayer Bead or Torn White Procession Cloth may enable the slim salvation route.
 
 Recommended use:
 
