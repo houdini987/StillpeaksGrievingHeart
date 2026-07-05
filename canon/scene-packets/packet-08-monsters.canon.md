@@ -79,7 +79,7 @@ This encounter should **not** be tuned to down a PC unless the party makes unusu
 Use this as the default level-8 party version:
 
 - **1 Crystal Tremorborn** — Earth Elemental chassis, reduced/contained.
-- **2 Crystal Shardlings** — Magma Mephit or Ice Mephit chassis, reskinned as glowing crystal-tainted creatures.
+- **2 Crystal Shardlings** — Magma Mephit chassis, reskinned as glowing crystal-tainted creatures.
 
 If the party is heavily depleted, use only the Crystal Tremorborn.
 
@@ -123,15 +123,15 @@ This is a smaller preview of Dhurak's stronger tremor mechanics, wrapped in Veyr
 
 ### Crystal Shardlings
 
-**Base Roll20 Chassis:** Magma Mephit or Ice Mephit.
+**Base Roll20 Chassis:** Magma Mephit.
 
-**Recommended Adjustment:** Remove flight if the map/hallway makes flying awkward. Reskin breath weapon as crystal flare. Use them as quick visual harassers, not attrition monsters.
+**Recommended Adjustment:** Remove flight if the map/hallway makes flying awkward. Reskin fire damage and heat language as green-white crystal flare, dead-lamp pressure, or shard-burst energy. Do not add extra HP or damage.
 
 **Creature Concept:** Small, glowing, unnatural creatures formed from broken crystal, dead-lamp residue, failed containment energy, and grief-beam spillover. They skitter, blink, and hiss with stolen light.
 
 **Origin Flavor:** Shardlings are mixed runoff. Their bodies are Veyra-like crystal growth, their movement is Dhurak-like tremor jitter, and their glow comes from the Mourning King's sustaining beam energy.
 
-**Role:** Harassers, restraint/flare foreshadowing, visual proof that the corruption creates lesser life.
+**Role:** Quick harassers, restraint/flare foreshadowing, visual proof that the corruption creates lesser life. They should be inconvenient, not dangerous enough to become an attrition engine.
 
 **Visual Identity:**
 
@@ -141,9 +141,13 @@ This is a smaller preview of Dhurak's stronger tremor mechanics, wrapped in Veyr
 - rootlike filaments trailing behind them
 - eyes like small green pinpricks
 
-**Action Reskin:** Use the chosen mephit claws and breath/flare mechanics, flavored as crystal cuts and green-white pulse.
+**Action Reskin:**
 
-**Optional Death Effect — Shard Pop:** When a Shardling dies, crystal pressure escapes. Creatures within 5 feet make **DC 12 Dexterity saving throw** or take 3 (1d6) piercing damage. Use only if the fight feels too easy.
+- **Claws:** jagged crystal cuts.
+- **Fire Breath:** green-white crystal flare / dead-lamp burst. Keep the Magma Mephit mechanics, but describe the damage as searing crystal pressure rather than flame.
+- **Death Burst:** crystal pressure pop. Use the Magma Mephit death burst only if the party is fresh or the fight feels too easy; otherwise omit it to preserve the threshold encounter's light-segue purpose.
+
+**Optional Death Effect — Shard Pop:** If not using the Magma Mephit death burst, use this lighter substitute: when a Shardling dies, crystal pressure escapes. Creatures within 5 feet make **DC 12 Dexterity saving throw** or take 3 (1d6) piercing damage. Use only if the fight feels too easy.
 
 ### Encounter Terrain
 
@@ -184,6 +188,7 @@ The Crystal Tremorborn should:
 The Crystal Shardlings should:
 
 - harass backline or wounded characters lightly
+- use the Magma Mephit chassis for speed of Roll20 execution
 - make the green crystal energy feel alive
 - die quickly enough that the encounter does not overstay
 
