@@ -26,8 +26,9 @@ Useful discoveries should help the party:
 - understand the king's culpability
 - recognize the beam mechanic
 - reduce attunement pressure
-- enable the slim salvation possibility
 - make the mercy-death ending emotionally clear
+
+The slim salvation path should remain secondary. Relics may make it possible, but Chapter 8 should not over-signal salvation as the expected or intended ending.
 
 ---
 
@@ -45,7 +46,7 @@ A valid relic symbolizes mourning without possession — grief that honors the q
 
 Do not treat unrelated beads, improvised objects, ordinary treasure, or later undefined relics as valid salvation relics unless the user explicitly revises this canon later.
 
-The Soot-Black Prayer Bead is the strongest and clearest relic. Torn White Procession Cloth and Queen's Lantern Charm are Chapter 8 backup routes that preserve the narrow salvation possibility without relying on a single missed item.
+The Soot-Black Prayer Bead is the strongest and clearest relic. Torn White Procession Cloth is an unavoidable but low-emphasis Chapter 8 discovery, present because it belongs to the tragedy rather than because the module is steering the party toward salvation. Queen's Lantern Charm remains optional.
 
 ---
 
@@ -89,13 +90,15 @@ The Soot-Black Prayer Bead is the strongest and clearest relic. Torn White Proce
 
 ## Discovery 4 — Torn White Procession Cloth
 
-**Location:** Implosion Threshold, final royal approach, or near a preserved memory of responders.
+**Location:** Implosion Threshold / final royal approach before the King's Chamber.
 
-**Description:** A strip of old pale ceremonial cloth preserved under crystal, similar to cloth seen in the Queen's Bridge memory.
+**Discovery Status:** Unavoidable, but not spotlighted as a solution.
+
+**Description:** A strip of old pale ceremonial cloth preserved under crystal, similar to cloth seen in the Queen's Bridge memory. It may be caught beneath a cracked prayer mark, wrapped around a dead lantern bracket, or held by a fading responder-spirit that vanishes when the party approaches.
 
 **Lore:** The queen's memory belongs to mourning, not possession.
 
-**Possible Use:** Valid queen-linked relic for the slim salvation possibility.
+**Runtime Use:** Present this as aftermath texture first. Do not announce that it is a salvation key. If the party keeps it, respects it, or later invokes it during the clarity window as release rather than restoration, it counts as a valid queen-linked relic for the slim salvation possibility.
 
 ---
 
