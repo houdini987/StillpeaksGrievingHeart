@@ -261,13 +261,11 @@ Suggested cue:
 
 Salvation is possible but narrow.
 
-It requires an appropriate queen-linked mourning/restraint relic, such as:
+Only these queen-linked mourning/restraint relics count:
 
-- Soot-Black Prayer Bead
-- the earlier bead if designated queen/mourning-linked
-- torn white procession cloth
-- queen's lantern charm
-- other later-designated relic symbolizing mourning without possession
+1. **Soot-Black Prayer Bead**
+2. **Torn White Procession Cloth**
+3. **Queen's Lantern Charm**
 
 The relic must be used during the clarity window.
 
