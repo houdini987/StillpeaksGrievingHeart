@@ -38,12 +38,12 @@ Do not chase lethality by simply inflating raw damage. The final fight already h
 Final encounter bosses:
 
 1. **The Mourning King** — Lich chassis, modified as a throne-bound grief-engine.
-2. **Dhurak Stonevein, the Fault-Tender** — boosted Stone Golem chassis, tremor-focused crystal-earth titan.
-3. **Veyra Deeproot, the Root-Seer** — boosted Stone Golem chassis, crystal-root / beam-sustain titan.
+2. **Dhurak Stonevein, the Fault-Tender** — ancient court Stone Druid supercharged into a crystal-earth titan; tremor/fault specialist.
+3. **Veyra Deeproot, the Root-Seer** — ancient court Stone Druid supercharged into a crystal-root titan; restraint/preservation specialist.
 
 Roll20 setup principle:
 
-Use common 5e Monster Manual-style chassis to save prep time, then apply focused modifications.
+Use common 5e Monster Manual-style chassis to save prep time, but do **not** let the chassis define the fiction. Dhurak and Veyra are primarily corrupted elder Stone Druids from the king's court, empowered by centuries of crystal energy. Stone Golem or similar stat blocks are only scaffolding for durability, AC, saves, and Roll20 convenience.
 
 ---
 
@@ -276,25 +276,44 @@ Because all three bosses are active from the start, the Mourning King's early tu
 
 ---
 
+## Court Stone Druid Titan Design
+
+Dhurak and Veyra are not ordinary stone golems and should not feel like brute constructs with two slam attacks.
+
+They were once ancient Stone Druids in the king's court: ceremonial advisors, fault-readers, root-seers, royal confidants, and interpreters of the mountain's deep will. Centuries of Abbathor-touched crystal energy have supercharged, enlarged, and deformed them into titan-like bodies, but their combat identity should remain druidic.
+
+Use a simple Roll20 chassis for durability and saves, then replace most ordinary monster behavior with one baseline druidic attack and one signature power each.
+
+Suggested shared stat feel, before final numerical tuning:
+
+- **Size:** Large or Huge, depending on map needs.
+- **AC:** about 17.
+- **HP:** high enough to matter as beam anchors, but not so high that the fight becomes a slog.
+- **Speed:** slower than a normal mobile boss; they reshape the arena more than they chase.
+- **Damage style:** stone, crystal, psychic grief-pressure, forced movement, restraint.
+- **Spellcasting:** avoid full druid spell lists. Use only 1–2 baked-in druidic powers for each so Roll20 remains easy.
+- **Multiattack:** avoid default Stone Golem multiattack unless deliberately escalating. Prefer one meaningful action with a rider.
+
+---
+
 ## Dhurak Stonevein, the Fault-Tender
 
-**Base Roll20 Chassis:** Stone Golem
+**Base Roll20 Chassis:** Stone Golem or other durable earth creature for AC/HP/saves only.
 
-**Threat Note:** Baseline Stone Golem may feel weak for a final-act boss minion. Boost HP, add custom powers, and treat the chassis as a setup convenience rather than the final difficulty target.
+**Creature Concept:** Former court Stone Druid transformed into a crystal-earth titan. Dhurak read fault-lines for the king, interpreted tremors, and helped induce the bridge catastrophe. Now he is a living fault-prayer: the earthquake given druidic will.
 
-**Creature Concept:** Former Stone Druid advisor transformed into a huge crystal-earth titan. Dhurak is the earthquake given limbs.
-
-**Role:** Bruiser, forced movement, fissures, prone effects, arena destabilization.
+**Role:** Tremor druid, forced movement, fissures, bowl destabilization, anti-positioning.
 
 ### Recommended Baseline Adjustments
 
-Start with Stone Golem, then consider:
+Use the chosen chassis for durability, then replace normal attacks with:
 
-- Increase HP substantially above baseline.
-- Add one recharge power.
-- Add one beam-sustain trait.
-- Add one arena-control reaction or bonus action.
-- Replace Slow flavor with tremor/crystal pressure if desired.
+- one baseline **Stone Druid Strike**
+- one signature power: **Fault-Tender Stomp**
+- one beam-sustain trait
+- optional Bridgefall Pull if the table needs more movement pressure
+
+Do not run Dhurak as a normal Stone Golem multiattacker by default.
 
 ### Signature Trait — Faultline Sustainer
 
@@ -304,38 +323,51 @@ While Dhurak lives, one green beam remains active.
 
 When Dhurak is destroyed, his beam breaks and the king weakens.
 
+### Baseline Action — Stone Druid Strike
+
+Dhurak strikes the ground, a creature, or both through the same motion.
+
+Suggested mechanics:
+
+- One melee attack using the chosen chassis's attack bonus.
+- Hit: about 16–18 damage, split between bludgeoning/piercing and crystal force.
+- On hit, the target makes **DC 15 Strength saving throw** or is pushed 10 feet, preferably downhill toward the bowl center, a crack, or a beam lane.
+
+This is Dhurak's ordinary attack. It should feel like druidic terrain command, not a fistfight.
+
 ### Signature Power — Fault-Tender Stomp
 
 Recharge 5–6.
 
-Dhurak slams the ground, opening a jagged tremor line.
+Dhurak slams the ground and wakes the geode bowl.
 
 Suggested mechanics:
 
-- 30-foot line, 5 feet wide.
-- Creatures in the line make **DC 16 Dexterity saving throw**.
+- 30-foot line or 15-foot cone, whichever is easier on the map.
+- Creatures in the area make **DC 16 Dexterity saving throw**.
 - Failure: 21 (6d6) bludgeoning/piercing damage and knocked prone.
 - Success: half damage and not prone.
-- The line becomes difficult terrain until cleared or avoided.
+- The affected area becomes difficult terrain.
+- Creatures already on bowl slopes may also need the normal bowl-slope slide check.
 
-### Signature Power — Bridgefall Pull
+### Optional Power — Bridgefall Pull
 
-Once per round or recharge-based.
+Use only if Dhurak needs a distinctive second trick and the table can handle one more button.
 
-Dhurak forces a creature standing on cracked crystal/stone to feel the queen's fall-memory.
+Once per round or recharge-based, Dhurak forces one creature within 60 feet standing on stone/crystal to feel the queen's fall-memory.
 
 Suggested mechanics:
 
 - One creature within 60 feet makes **DC 15 Strength or Wisdom saving throw**.
-- Failure: pulled 10 feet toward a crack, beam lane, or hazardous crystal line and loses reactions until the start of its next turn.
+- Failure: pulled 10 feet toward a crack, beam lane, slope, or hazardous crystal line and loses reactions until the start of its next turn.
 
 ### Tactics
 
 Dhurak should:
 
-- pressure front-line characters
-- punish clustering
-- create unsafe terrain
+- pressure front-line characters by moving the ground under them
+- punish clustering with Fault-Tender Stomp
+- make the bowl slope dangerous when characters try to hold high ground
 - target Erny or Maelreth when their over-attunement makes them vulnerable
 - physically embody the hidden tremor truth
 
@@ -343,23 +375,22 @@ Dhurak should:
 
 ## Veyra Deeproot, the Root-Seer
 
-**Base Roll20 Chassis:** Stone Golem
+**Base Roll20 Chassis:** Stone Golem or other durable earth creature for AC/HP/saves only.
 
-**Threat Note:** Baseline Stone Golem may feel weak for a final-act boss minion. Boost HP, add custom powers, and treat the chassis as a setup convenience rather than the final difficulty target.
+**Creature Concept:** Former court Stone Druid transformed into a crystal-root titan. Veyra read root systems, preservation rites, and deep crystal growth for the king. Now she is corrupt preservation given body: the will that binds what should be released.
 
-**Creature Concept:** Former Stone Druid advisor transformed into a crystal-root titan. Veyra is the arena's corrupt root system given partial body.
-
-**Role:** Restraint, psychic pressure, beam reinforcement, crystal-root control.
+**Role:** Root druid, restraint, beam reinforcement, psychic preservation pressure, anti-mobility.
 
 ### Recommended Baseline Adjustments
 
-Start with Stone Golem, then consider:
+Use the chosen chassis for durability, then replace normal attacks with:
 
-- Increase HP substantially above baseline.
-- Add one recharge restraint power.
-- Add one beam-reinforcement trait.
-- Add one psychic pressure effect.
-- Reduce movement if she is semi-rooted, but compensate with reach/range.
+- one baseline **Crystal-Root Lash**
+- one signature power: **Crystal Root Snare**
+- one beam-sustain trait
+- optional Green Beam Reinforcement only if the fight needs more king-protection
+
+Do not run Veyra as a normal Stone Golem multiattacker by default.
 
 ### Signature Trait — Root-Seer Sustainer
 
@@ -368,6 +399,18 @@ Veyra channels a green beam into the Mourning King.
 While Veyra lives, one green beam remains active.
 
 When Veyra is destroyed, her beam breaks and the king weakens.
+
+### Baseline Action — Crystal-Root Lash
+
+Veyra lashes out with crystal roots or commands roots through the floor.
+
+Suggested mechanics:
+
+- One ranged or melee spell attack within 60 feet using the chosen chassis attack bonus or **+7**.
+- Hit: about 13–16 piercing/psychic damage.
+- On hit, the target's speed is reduced by 10 feet until the end of its next turn.
+
+This is Veyra's ordinary attack. It should feel like a druidic root command, not a stone punch.
 
 ### Signature Power — Crystal Root Snare
 
@@ -383,7 +426,9 @@ Suggested mechanics:
 - Success: speed reduced by 10 feet until end of next turn.
 - A restrained creature may use an action to make **DC 15 Athletics or Acrobatics** to escape.
 
-### Signature Power — Green Beam Reinforcement
+### Optional Power — Green Beam Reinforcement
+
+Use sparingly if the fight needs more king-protection.
 
 Reaction or recharge-based.
 
@@ -394,16 +439,14 @@ Suggested mechanics:
 - Reduce that damage by 10–15.
 - Or force the attacker to make **DC 15 Wisdom saving throw** or take 7 (2d6) psychic damage.
 
-Use sparingly if the fight is already difficult.
-
 ### Tactics
 
 Veyra should:
 
-- control movement
-- restrain ranged or mobile characters
-- protect the king
+- restrain mobile or ranged characters
+- protect the king through beam reinforcement only when needed
 - intensify Maelreth and Erny's psychic pressure
+- keep characters from comfortably spreading around the bowl
 - feel like corrupt preservation, not brute strength
 
 ---
@@ -414,10 +457,11 @@ Dhurak and Veyra should look related but not identical.
 
 Shared traits:
 
-- Huge or Large crystal-earth bodies depending on Roll20 space.
+- Large or Huge crystal-earth bodies depending on Roll20 space.
 - Green beam connected to the king.
 - Abbathor-touched crystal growths.
 - Former Stone Druid symbolism warped by greed.
+- Ancient court-advisor identity still visible beneath the transformation.
 - No longer fully rational.
 - Still carrying fragments of old titles and duties.
 
@@ -427,6 +471,8 @@ Difference:
 - Veyra binds stone.
 - Dhurak makes the arena move.
 - Veyra makes the arena hold.
+- Dhurak's druidism is fault, tremor, and collapse.
+- Veyra's druidism is root, preservation, and restraint.
 
 ---
 
@@ -451,6 +497,8 @@ Recommended balance levers:
 - Keep the Implosion Threshold encounter short and light; it is a segue, not a resource-tax fight.
 - Reduce or remove Shardlings if the party is depleted.
 - Use Crystal Tremorborn as a debuff/foreshadowing creature, not an Earth Elemental damage multiattacker.
+- Treat Dhurak and Veyra as ancient court Stone Druids first, durable titan chassis second.
+- Avoid running both Druids as Stone Golem multiattack bruisers by default.
 - Lower the Mourning King's offensive spell selection.
 - Make beam protection obvious but not absolute.
 - Boost Druid HP without overboosting damage.
