@@ -193,6 +193,32 @@ Use for Erny and Maelreth.
 
 ---
 
+## Final Arena Entry Cues
+
+Use if the table needs more than the main read-aloud.
+
+### Spherical Ground-Zero Reveal
+
+> The doorway gives you a wall.
+>
+> The chamber beyond gives you a wound.
+>
+> Everything curves away from the center: floor, ceiling, broken reliefs, dead lamps, crystal scars.
+>
+> Whatever happened here did not fill a room.
+>
+> It made one.
+
+### Central Engine Cue
+
+> The throne is not at the end of the chamber.
+>
+> It is the center of it.
+>
+> Every crack, every root, every beam, every line of green-white light points inward.
+
+---
+
 ## Final Encounter Round Cues
 
 Use at initiative count 20 or when pacing needs pressure.
@@ -201,7 +227,9 @@ Use at initiative count 20 or when pacing needs pressure.
 
 > The green beams flare.
 >
-> The king's wounds close in crystal light.
+> The radial scars along the spherical wall answer in light.
+>
+> The king's wounds close in crystal brightness.
 >
 > Dhurak and Veyra do not look at him with loyalty.
 >
@@ -209,7 +237,7 @@ Use at initiative count 20 or when pacing needs pressure.
 
 ### Dhurak Cue
 
-> Dhurak moves, and the floor remembers the bridge.
+> Dhurak moves, and the round chamber remembers the bridge.
 >
 > Not as history.
 >
@@ -217,7 +245,7 @@ Use at initiative count 20 or when pacing needs pressure.
 
 ### Veyra Cue
 
-> Veyra's roots spread through the floor in delicate, terrible lines.
+> Veyra's roots spread through the central floor in delicate, terrible lines.
 >
 > Nothing here wants to release what it holds.
 
@@ -233,7 +261,7 @@ Use at initiative count 20 or when pacing needs pressure.
 
 > One green beam snaps into sparks.
 >
-> The king jerks against the throne.
+> The king jerks against the central throne.
 >
 > Somewhere under the monster, something mortal gasps.
 
@@ -241,7 +269,7 @@ Use at initiative count 20 or when pacing needs pressure.
 
 > The second beam breaks.
 >
-> The chamber goes quiet enough to hear stone cooling.
+> The spherical chamber goes quiet enough to hear stone cooling.
 
 ---
 
