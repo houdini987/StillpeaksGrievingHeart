@@ -11,6 +11,7 @@ Use with:
 - `packet-08-throneward-descent.canon.md`
 - `packet-08-final-encounter.canon.md`
 - `packet-08-monsters.canon.md`
+- `packet-08-treasure-discoveries.canon.md`
 
 ---
 
@@ -118,17 +119,13 @@ On failure, the attempt does not worsen the condition unless the DM wants to esc
 
 ## Relic Counterplay
 
-Queen-linked mourning/restraint relics may help.
+Only the following queen-linked mourning/restraint relics provide relic counterplay in the final arena:
 
-Examples:
+1. **Soot-Black Prayer Bead**
+2. **Torn White Procession Cloth**
+3. **Queen's Lantern Charm**
 
-- Soot-Black Prayer Bead
-- the earlier bead the party found, if later designated queen/mourning-linked
-- torn white procession cloth
-- queen's lantern charm
-- other later-designated relics symbolizing mourning without possession
-
-A character using a suitable relic may spend an action to reduce pressure on one over-attuned character.
+A character using one of these relics may spend an action to reduce pressure on one over-attuned character.
 
 Suggested effect:
 
