@@ -78,33 +78,45 @@ Suggested cue:
 
 The King's Chamber is no longer a normal royal chamber.
 
-It has become a crystal boss arena.
+The party still enters through a recognizable royal doorway set into a wall, but that doorway does not lead into a conventional rectangular room. It opens into a vast spherical cavern: the ground-zero cavity where the crystal energy ignited generations ago.
+
+The chamber should feel like the interior scar of a magical supernova. The original royal architecture was blown outward, swallowed, and vitrified into a near-round hollow. Broken wall segments, royal relief fragments, dead lamp housings, and floor patterns remain only as curved remnants fused into the sphere's inner surface.
+
+At the center of the sphere, the throne, the Mourning King, Dhurak, and Veyra form the final engine.
 
 Features:
 
-- throne at the far end or center-back of the chamber
-- Mourning King locked into the throne's crystal embrace
-- Dhurak Stonevein positioned on one side
-- Veyra Deeproot positioned on the other side
+- a royal doorway / threshold set into surviving wall stone
+- beyond it, a cavernous spherical chamber rather than a traditional room
+- throne and Mourning King at or near the exact center of the sphere
+- Dhurak Stonevein and Veyra Deeproot positioned to either side of the central throne-engine
 - one glowing green beam from Dhurak to the king
 - one glowing green beam from Veyra to the king
-- thick crystal roots, ribs, and veins crossing the floor
-- broken royal reliefs half-consumed by crystal
-- dead lamps swallowed by green-white growth
-- unstable cracks and pulse lines
-- queen-linked remnants near the throne or trapped in crystal
+- radial crystal scars like a frozen supernova blast pattern
+- curved walls, ceiling, and floor fused into one round cavity
+- broken royal reliefs bent along the sphere's inner surface
+- dead lamps and old royal architecture vitrified into crystal-glass
+- thick crystal roots, ribs, and veins radiating from the central throne
+- unstable cracks and pulse lines aimed inward and outward from the center
+- queen-linked remnants near the central throne-engine or trapped in curved crystal walls
 
-The arena should be visually readable in Roll20: two beam-sustainer monsters, one king, obvious beam lines.
+The arena should be visually readable in Roll20: one round/spherical boss space, three central boss anchors, and obvious beam lines. Do not place the throne at the far end or back wall; the central engine is the point of the room.
 
 ---
 
 ## Entry Read-Aloud
 
-> The King's Chamber is no longer a chamber.
+> The royal doorway still exists.
 >
-> It is a crystal wound with walls.
+> The room beyond it does not.
 >
-> The throne stands at the far end, half-buried in green light. Crystal ribs curl around it like a cage grown from the mountain's own bones.
+> The threshold opens into a vast round hollow, as if the heart of the mountain once ignited and blew the stone outward in every direction.
+>
+> The walls, floor, and ceiling curve together into one enormous spherical wound. Royal reliefs bend along the inner surface. Dead lamps hang fused in crystal-glass. Radial scars of green-white light stretch away from the center like the frozen remains of a supernova.
+>
+> At that center stands the throne.
+>
+> Crystal ribs curl around it like a cage grown from the mountain's own bones.
 >
 > Inside that embrace sits the king.
 >
@@ -112,7 +124,7 @@ The arena should be visually readable in Roll20: two beam-sustainer monsters, on
 >
 > To his left, a towering crystal-stone giant turns, fault-lines glowing through its body.
 >
-> To his right, another rises from rootlike crystal growths, its body threaded into the floor.
+> To his right, another rises from rootlike crystal growths, its body threaded into the central floor.
 >
 > From each monster, a green beam burns into the king.
 >
@@ -243,7 +255,7 @@ Read-Aloud:
 
 > The second beam snaps.
 >
-> For the first time since you entered, the chamber is not humming.
+> For the first time since you entered, the spherical chamber is not humming.
 >
 > The king gasps.
 >
@@ -251,7 +263,7 @@ Read-Aloud:
 >
 > Like an old man waking in a room he does not recognize.
 >
-> His eyes move across the broken crystal, the shattered giants, the throne that has held him, and the ruin beyond it.
+> His eyes move across the broken crystal, the shattered giants, the throne that has held him, and the round blast-scar of the chamber around him.
 >
 > When he speaks, the mountain is no longer speaking for him.
 >
@@ -285,8 +297,8 @@ Mercy death is the cleanest and most supported ending.
 
 If the party kills the king during the clarity window:
 
-- the throne cracks
-- green light drains out of the crystal veins
+- the central throne cracks
+- green light drains out of the radial crystal veins
 - the mountain's grief-pressure begins to release
 - trapped spirits may exhale, bow, or fade
 - the queen's memory may appear briefly as release, not reunion
@@ -380,12 +392,17 @@ Dhurak and Veyra use Stone Golem chassis for Roll20 convenience, but should be b
 
 King's Chamber map should include:
 
-- throne / king anchor
-- two side positions for Dhurak and Veyra
-- visible beam lanes
-- crystal roots and difficult terrain
-- cracked royal floor patterns
-- dead lamps swallowed by crystal
-- possible queen relic point near throne or side altar
+- surviving royal doorway / entry threshold at the chamber edge
+- round/spherical ground-zero arena footprint
+- throne / king anchor at or near the exact center
+- Dhurak and Veyra positioned to either side of the central throne-engine
+- visible beam lanes converging on the king
+- radial crystal scars and pulse lines like a frozen supernova
+- curved wall/floor/ceiling feel, even in top-down Roll20 form
+- crystal roots and difficult terrain radiating from the center
+- cracked royal floor patterns bent or broken by the spherical blast-scar
+- dead lamps swallowed by crystal-glass along the curved perimeter
+- possible queen relic point near the central throne-engine or side of the spherical wall
+- no far-end/back-wall throne placement
 - no baked labels
 - no baked grid
