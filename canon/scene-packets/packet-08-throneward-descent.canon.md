@@ -105,6 +105,12 @@ Chapter 8 should move through escalating culpability:
 
 By the final boss, the party should already understand the beams and the Druids' role. The final chamber should not need a lore monologue.
 
+### Salvation Emphasis Boundary
+
+Mercy death remains the primary clean ending. The slim salvation route exists only as a narrow possibility if the party recognizes and uses a valid queen-linked mourning/restraint relic during the clarity window.
+
+Do not over-signal salvation during Chapter 8 exploration. The Torn White Procession Cloth is unavoidable because it belongs to the tragedy's aftermath, not because the module is steering the party toward saving the king.
+
 ---
 
 ## 6. Encounter Modules
@@ -308,6 +314,8 @@ By the final boss, the party should already understand the beams and the Druids'
 - **History DC 14:** Connect this failure to the later evacuation.
 
 **Unavoidable Lore:** The crystal accumulation transformed Dhurak and Veyra into monstrous crystal-earth titans and sustained the king unnaturally. The kingdom's evacuation followed the disaster.
+
+**Unavoidable Discovery — Torn White Procession Cloth:** The party sees or can easily recover a strip of old pale ceremonial cloth preserved under crystal, similar to cloth seen in the Queen's Bridge memory. Present it as aftermath texture first: a responder's remnant, a mourning object, or cloth caught beneath a cracked prayer mark. Do not announce it as a salvation key.
 
 **Spoken Discovery Cue:**
 
