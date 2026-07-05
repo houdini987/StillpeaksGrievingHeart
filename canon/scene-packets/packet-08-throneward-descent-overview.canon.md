@@ -19,6 +19,7 @@ Use with:
 - `packet-08-mourning-king-non-undead-rule.canon.md`
 - `packet-08-treasure-discoveries.canon.md`
 - `packet-08-runtime-cues.canon.md`
+- `packet-08-ideation-handoff.md`
 
 ---
 
@@ -146,6 +147,16 @@ For clarity-window execution, mercy-death handling, relic salvation, and refusal
 
 ---
 
+## Handoff / Resume Guidance
+
+If resuming Packet 8 design after context compaction or in a fresh chat, read:
+
+- `packet-08-ideation-handoff.md`
+
+The handoff captures the current checklist, recently completed work, and recommended next actions. It does not override canon.
+
+---
+
 ## File Scope Guidance
 
 Keep Packet 8 segmented to preserve AI-consumability and avoid file bloat.
@@ -164,3 +175,4 @@ Recommended files:
 - `packet-08-mourning-king-non-undead-rule.canon.md` — Divine Sense / detection boundary and non-undead King rule.
 - `packet-08-treasure-discoveries.canon.md` — queen-linked relics and lore rewards.
 - `packet-08-runtime-cues.canon.md` — spoken-word and pacing cues.
+- `packet-08-ideation-handoff.md` — current working-state handoff for fresh-chat resume.
