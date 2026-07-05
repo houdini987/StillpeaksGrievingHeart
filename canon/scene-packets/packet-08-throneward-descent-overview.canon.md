@@ -13,6 +13,7 @@ Use with:
 - `packet-08-attunement-affliction.canon.md`
 - `packet-08-final-encounter.canon.md`
 - `packet-08-monsters.canon.md`
+- `packet-08-current-stat-blocks-quick-reference.canon.md`
 - `packet-08-mourning-king-non-undead-rule.canon.md`
 - `packet-08-treasure-discoveries.canon.md`
 - `packet-08-runtime-cues.canon.md`
@@ -103,13 +104,17 @@ Default composition:
 - **1 Crystal Tremorborn** — Earth Elemental chassis, reduced to threshold-fight durability.
 - **2 Crystal Shardlings** — Magma Mephit or Ice Mephit chassis, reskinned as glowing crystal-tainted creatures.
 
+For the current table-facing monster quick reference, use `packet-08-current-stat-blocks-quick-reference.canon.md`.
+
 This encounter should foreshadow tremors, crystal flares, restraint pressure, and the fact that the epicenter is producing unnatural life. It should not become a second boss fight.
 
 ### Final Boss Package
 
-- **Mourning King** — Lich chassis for Roll20 convenience only; canonically a non-undead, throne-bound living grief-engine.
+- **Mourning King** — Lich chassis for Roll20 convenience only; canonically a non-undead, throne-bound living grief-engine and inert vessel protected by the Druids.
 - **Dhurak Stonevein, the Fault-Tender** — ancient court Stone Druid supercharged into a crystal-earth titan; tremors, fissures, forced movement, arena destabilization.
 - **Veyra Deeproot, the Root-Seer** — ancient court Stone Druid supercharged into a crystal-root titan; crystal roots, beam reinforcement, restraint, preservation pressure.
+
+For current monster mechanics and table-facing stat-block decisions, use `packet-08-current-stat-blocks-quick-reference.canon.md`.
 
 The final boss arena is a round, organic, geode-like ground-zero cavity. The party enters through a surviving royal doorway, but the throne-engine sits at the center of the blast-scar rather than at a far wall.
 
@@ -149,6 +154,7 @@ Recommended files:
 - `packet-08-attunement-affliction.canon.md` — Maelreth/Erny affliction mechanics.
 - `packet-08-final-encounter.canon.md` — boss arena and encounter phases.
 - `packet-08-monsters.canon.md` — threshold encounter and boss stat block modifications.
+- `packet-08-current-stat-blocks-quick-reference.canon.md` — current table-facing monster mechanics and stat block summary.
 - `packet-08-mourning-king-non-undead-rule.canon.md` — Divine Sense / detection boundary and non-undead King rule.
 - `packet-08-treasure-discoveries.canon.md` — queen-linked relics and lore rewards.
 - `packet-08-runtime-cues.canon.md` — spoken-word and pacing cues.
