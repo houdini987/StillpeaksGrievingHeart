@@ -13,7 +13,7 @@
 | Major Set Pieces | Empty City Verge, Witness Halls, Queen's Bridge, Far-Side Mourning Threshold. |
 | Main Combat Threats | Witness-Hall Grief-Crystal Animus; The Hollow Below; 2 Crystal Shardlings. See `packet-07-monsters.canon.md`. |
 | Key Discoveries | The bridge was a sacred/civic crossing; the queen fell because of a tremor; the fall was witnessed; the immediate aftermath scattered dwarves toward the king, the cavern bottom, the bridge, and religious response; the path ahead leads throneward. |
-| Do Not Reveal Yet | King immortality, mountain-heart mechanism, final solution, full reactivation timeline, whether the king is villain/victim/both. |
+| Do Not Reveal Yet | King immortality, mountain-heart mechanism, final solution, full reactivation timeline, whether the king is villain/victim/both, and the hidden Chapter 8 induced-tremor truth. |
 | Chapter Endpoint | The party crosses the bridge, survives the far-side aftermath scene, and stops before descending toward the throne room. |
 
 ---
@@ -136,6 +136,14 @@ Do not state:
 - the mountain-heart is the anchor
 - the method for ending the curse
 - the whole causal chain between grief and mountain corruption
+- that the tremor was secretly induced by Dhurak Stonevein and Veyra Deeproot
+- Abbathor's involvement in the hidden cause
+
+### Chapter 7 / Chapter 8 Truth Boundary
+
+For Chapter 7 runtime, the bridge memory is honest but incomplete. The witnesses experienced a sudden tremor, not visible murder, betrayal, spellcasting, or sabotage.
+
+For whole-campaign canon, `packet-07-bridge-truth-refinement.canon.md` preserves the deeper Chapter 8 reveal: the tremor was secretly induced by Dhurak Stonevein and Veyra Deeproot through Abbathor-touched crystal corruption. Do not reveal that deeper truth in Chapter 7 unless the user explicitly asks for full-arc design context.
 
 ### Geomancer Boundary
 
@@ -320,7 +328,7 @@ No, not by default. They are witnesses and echoes. Violence against them should 
 
 ### Did Someone Kill the Queen?
 
-No. The Queen's Bridge memory should make clear that the fall was caused by a tremor.
+In Chapter 7, the party should not see a visible killer, attacker, or saboteur. The Queen's Bridge memory should make clear that the fall was caused by a sudden tremor. The deeper cause of that tremor belongs to the hidden Chapter 8 reveal in `packet-07-bridge-truth-refinement.canon.md` and should not be exposed here.
 
 ### Are the Crystals Alive?
 
@@ -354,7 +362,7 @@ Use these to push the party forward:
 
 ## 9. Rewards / Discoveries
 
-Chapter 7 rewards should be modest, symbolic, and route-relevant. Use `packet-07-treasure-discoveries.canon.md` once drafted.
+Chapter 7 rewards should be modest, symbolic, and route-relevant. Use `packet-07-treasure-discoveries.canon.md` as the current canon treasure/discovery supplement.
 
 Recommended minimum discoveries:
 
@@ -373,6 +381,7 @@ Do not place major royal treasure in Chapter 7.
 - Stillpeak was a city/kingdom.
 - The bridge was sacred/civic.
 - The queen fell because of a tremor.
+- The Chapter 7 bridge memory shows what the witnesses experienced, not the hidden Chapter 8 induced-tremor cause.
 - Dwarves immediately scattered to warn the king, search below, pray, or manage panic.
 - The path ahead leads eventually to the throne room.
 
@@ -383,6 +392,7 @@ Do not place major royal treasure in Chapter 7.
 - Final solution.
 - Full reactivation timeline.
 - Geomancer explanation for the bridge tragedy.
+- Dhurak Stonevein, Veyra Deeproot, Abbathor, or the hidden induced-tremor truth.
 
 ### Monster References
 
