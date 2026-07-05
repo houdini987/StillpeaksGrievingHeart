@@ -50,7 +50,7 @@ Do not save all lore for the final boss battle. The party should understand the 
 
 Do not make the Stone Druids cartoon villains. They were deceived, self-important, and corrupted through greed, then became catastrophic.
 
-Do not make Abbathor the visible final boss. His influence should be present through greed, crystal corruption, and mortal weakness, not through a direct avatar unless later design explicitly changes this.
+Do not make Abbathor the visible final boss. His influence should be present through greed, crystal corruption, and mortal weakness, not through a direct avatar unless later design changes this.
 
 Do not make the mountain itself evil. Stillpeak is the wounded medium, not the villain.
 
@@ -58,7 +58,7 @@ Do not make salvation easy or obvious. Mercy death should feel like the cleanest
 
 Do not fill the throneward route with wandering monsters. Chapter 8 has one mandatory pre-boss threshold encounter, then the final arena.
 
-Do not depict the King's Chamber as a conventional rectangular throne room. It is a spherical ground-zero cavity with the throne-engine at the center.
+Do not depict the King's Chamber as a conventional rectangular throne room or a clean circular arena. It is an organic, geode-like ground-zero cavity with a bowl-shaped floor and the throne-engine at the center.
 
 ---
 
@@ -69,7 +69,7 @@ Do not depict the King's Chamber as a conventional rectangular throne room. It i
 3. **Druid-Centric Reveal** — unavoidable lore reveals their self-deception, Abbathor-touched corruption, hunger for power, and secret role in inducing the bridge tremor.
 4. **Mining Decree / Greed Spiral** — unavoidable royal record reveals the king's culpability: in grief, he trusted them and permitted deeper crystal mining to recover or restore the queen.
 5. **Implosion Threshold** — containment failure evidence shows the critical mass event, transformed Druids, worsening pulses, evacuation chaos, and one mandatory encounter with crystal-tremor creatures produced by the nearby grief-engine.
-6. **King's Chamber / Crystal Boss Arena** — final encounter in a spherical ground-zero cavity, like a crystal supernova scar, against the Mourning King, Dhurak, and Veyra at the center.
+6. **King's Chamber / Crystal Boss Arena** — final encounter inside a warehouse-sized organic geode cavity, like a crystal supernova scar, against the Mourning King, Dhurak, and Veyra at the center.
 
 ---
 
@@ -82,7 +82,7 @@ Crystals become more present with each beat.
 - Beat 3: druidic chambers where crystals overwrite stone, roots, and inscriptions.
 - Beat 4: royal decrees and mining evidence half-consumed by crystal growth.
 - Beat 5: architecture nearly swallowed by crystal mass and old energy scarring; lesser glowing creatures begin to pull themselves from the contaminated threshold.
-- Beat 6: the King's Chamber is a spherical ground-zero cavity where throne, king, beams, floor, curved walls, and radial crystal scars are part of one sustaining engine.
+- Beat 6: the King's Chamber is an organic geode-like ground-zero cavity where throne, king, beams, bowl-shaped floor, jagged crystal shell, and irregular radial scars are part of one sustaining engine.
 
 ---
 
@@ -107,7 +107,7 @@ This encounter should foreshadow tremors, crystal flares, restraint pressure, an
 - **Dhurak Stonevein, the Fault-Tender** — boosted Stone Golem chassis; tremors, fissures, forced movement, arena damage.
 - **Veyra Deeproot, the Root-Seer** — boosted Stone Golem chassis; crystal roots, psychic pressure, beam reinforcement, restraint.
 
-The final boss arena is a round/spherical ground-zero cavity. The party enters through a surviving royal doorway, but the throne-engine sits at the center of the blast-scar rather than at a far wall.
+The final boss arena is a round, organic, geode-like ground-zero cavity. The party enters through a surviving royal doorway, but the throne-engine sits at the center of the blast-scar rather than at a far wall.
 
 Do not add final-arena minions by default. The final fight is already heavy.
 
