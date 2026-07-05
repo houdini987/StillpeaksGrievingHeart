@@ -43,6 +43,7 @@ This file is a navigation and indexing aid only. It helps humans and tools find 
 | Packet 08 Non-Undead King | Mourning King Non-Undead Rule | `canon/scene-packets/packet-08-mourning-king-non-undead-rule.canon.md` | Packet 08 — Throneward Descent / Final Encounter | Defines the Mourning King as non-undead, not a clean evil aura, an inert throne-bound vessel, and protected by Druid sacrifice/interception rather than active lich mechanics. | Draft canon supplement |
 | Packet 08 Treasure | Throneward Discoveries and Relics | `canon/scene-packets/packet-08-treasure-discoveries.canon.md` | Packet 08 — Throneward Descent | Defines lore-bearing discoveries, queen-linked mourning/restraint relics, final-use relic logic, and minimal optional treasure. | Draft canon supplement |
 | Packet 08 Runtime Cues | Runtime Cues | `canon/scene-packets/packet-08-runtime-cues.canon.md` | Packet 08 — Throneward Descent | Provides spoken-word cues, partial-success phrasing, attunement symptom lines, final arena entry cues, Druid-interception narration, mercy/salvation cues, and emergency pacing buttons. | Draft canon supplement |
+| Packet 08 Handoff | Ideation Handoff | `canon/scene-packets/packet-08-ideation-handoff.md` | Packet 08 — Throneward Descent | Captures current working state, recent decisions, active checklist, next actions, resume guidance, and performance guidance for fresh-chat continuation. | Design handoff |
 
 ## Other Key Canon Files
 
