@@ -11,6 +11,8 @@ Use with:
 - `packet-07-bridgeward-way.canon.md`
 - `packet-07-bridgeward-way-overview.canon.md`
 - `packet-07-monsters.canon.md`
+- `packet-07-current-state-patch.canon.md`
+- `packet-07-bridge-truth-refinement.canon.md`
 
 ---
 
@@ -32,11 +34,13 @@ Use with:
 
 ## 2. Narrative Setup
 
-The Queen's Bridge spans a vast hollow inside Stillpeak's heart. It was once a sacred or civic crossing used in formal procession. The queen fell here during a tremor. The fall was witnessed, accidental, and catastrophic.
+The Queen's Bridge spans a vast hollow inside Stillpeak's heart. It was once a sacred or civic crossing used in formal procession. The queen fell here during a tremor. The fall was witnessed, accidental from the witnesses' perspective, and catastrophic.
 
 The bridge is now saturated with memory. Spirits relive different moments along the span: procession, tremor, failed rescue, and immediate aftermath. The party must cross the bridge to continue toward the next stage, but witnessing the tragedy draws the attention of the chamber and awakens a foreign predator beneath the span.
 
 The Hollow Below is not the grief-source. It is an ancient tenant of the wound, an opportunistic darkness that took residence under the bridge and feeds on fear, grief, and repeated witness.
+
+**Ingestion Boundary:** This file presents the Chapter 7 table-facing truth. It should not reveal the hidden Chapter 8 truth that the tremor was secretly induced by Dhurak Stonevein and Veyra Deeproot through Abbathor-touched crystal corruption.
 
 ---
 
@@ -48,7 +52,7 @@ Use as the party steps through the final arch from the Witness Halls.
 >
 > A bridge spans the emptiness ahead: broad enough for a procession, old enough to look carved from the mountain's first memory.
 >
-> Its rails are cracked. Its center is broken in places. Crystal seams run along its sides like veins under skin, pulsing in colors too beautiful to trust.
+> Its rails are cracked. Its center is fractured and scarred, but the span still holds together as one continuous crossing. Crystal seams run along its sides like veins under skin, pulsing in colors too beautiful to trust.
 >
 > Far below, darkness swallows every falling sound before it can return.
 >
@@ -61,7 +65,8 @@ Use as the party steps through the final arch from the Witness Halls.
 ### Bridge Features
 
 - Broad ceremonial bridge spanning a deep inner cavern.
-- Cracked rails and broken stonework.
+- Continuous but damaged crossing; the bridge must not be broken into disconnected spans.
+- Cracked rails, broken parapets, central fall-scar, and unstable stonework.
 - Crystal formations along both sides and far-side anchor points.
 - Dead lamp posts, ceremonial sconces, and processional brackets.
 - Open chasm below.
@@ -70,6 +75,8 @@ Use as the party steps through the final arch from the Witness Halls.
 ### Visual Logic
 
 The bridge should not look like a random crossing. It was important before the tragedy. It should have architectural dignity even in ruin.
+
+For maps and image prompts, depict a damaged but intact ceremonial span. Use cracks, fractured tiles, edge gaps, broken rail sections, and a central fall-scar for danger. Do **not** depict the route as severed, collapsed across, or split into disconnected islands.
 
 ### Spirit Density
 
@@ -315,7 +322,7 @@ Use these revelation beats as the party advances across the bridge or as Tremor 
 
 Allow during or after the encounter:
 
-- **Insight DC 13:** The fall was accident, not betrayal.
+- **Insight DC 13:** The fall appeared to witnesses as accident, not visible betrayal.
 - **History DC 14:** The scattering is immediate crisis response, not battle formation.
 - **Religion DC 14:** The procession was sacred/civic and the aftermath becomes mourning panic.
 - **Perception DC 13:** Several spirits rush toward a throneward/lower royal route.
@@ -395,7 +402,7 @@ Optional discoveries:
 - Royal route marker fragment.
 - Crystal residue from Shardlings.
 
-Use the Packet 7 treasure file once drafted.
+Use `packet-07-treasure-discoveries.canon.md` as the current canon treasure/discovery supplement.
 
 ---
 
@@ -406,14 +413,16 @@ Use the Packet 7 treasure file once drafted.
 - The queen fell because of a tremor.
 - The event occurred during a sacred/civic procession.
 - The fall was witnessed.
+- Chapter 7 shows what the witnesses experienced, not the hidden induced-tremor cause.
 - Dwarves scattered immediately to warn the king and search below.
 - The route ahead points throneward.
 
 ### Must-Avoid
 
-- Do not imply murder or betrayal.
+- Do not imply visible murder or open betrayal.
+- Do not reveal that the tremor was secretly induced.
+- Do not reveal Dhurak Stonevein, Veyra Deeproot, Abbathor, king immortality, or the final solution.
 - Do not make The Hollow Below responsible for the fall.
-- Do not reveal king immortality or final solution.
 - Do not make this a geomancer scene.
 
 ### Monster Use
@@ -431,6 +440,7 @@ Use:
 Queen's Bridge map should include:
 
 - wide ceremonial bridge
+- continuous but damaged crossing; no disconnected bridge spans
 - near-side arch
 - central fracture/fall point
 - cracked rails and edge gaps
