@@ -56,6 +56,8 @@ Do not make the mountain itself evil. Stillpeak is the wounded medium, not the v
 
 Do not make salvation easy or obvious. Mercy death should feel like the cleanest and most supported ending.
 
+Do not fill the throneward route with wandering monsters. Chapter 8 has one mandatory pre-boss threshold encounter, then the final arena.
+
 ---
 
 ## High-Level Chapter Spine
@@ -64,7 +66,7 @@ Do not make salvation easy or obvious. Mercy death should feel like the cleanest
 2. **Advisor Records** — unavoidable lore introduces Dhurak Stonevein and Veyra Deeproot as trusted Stone Druid confidants.
 3. **Druid-Centric Reveal** — unavoidable lore reveals their self-deception, Abbathor-touched corruption, hunger for power, and secret role in inducing the bridge tremor.
 4. **Mining Decree / Greed Spiral** — unavoidable royal record reveals the king's culpability: in grief, he trusted them and permitted deeper crystal mining to recover or restore the queen.
-5. **Implosion Threshold** — containment failure evidence shows the critical mass event, transformed Druids, worsening pulses, and evacuation chaos.
+5. **Implosion Threshold** — containment failure evidence shows the critical mass event, transformed Druids, worsening pulses, evacuation chaos, and one mandatory encounter with crystal-tremor creatures produced by the nearby grief-engine.
 6. **King's Chamber / Crystal Boss Arena** — final encounter against the Mourning King, Dhurak, and Veyra.
 
 ---
@@ -77,20 +79,33 @@ Crystals become more present with each beat.
 - Beat 2: records and reliefs cracked by crystal intrusion.
 - Beat 3: druidic chambers where crystals overwrite stone, roots, and inscriptions.
 - Beat 4: royal decrees and mining evidence half-consumed by crystal growth.
-- Beat 5: architecture nearly swallowed by crystal mass and old energy scarring.
+- Beat 5: architecture nearly swallowed by crystal mass and old energy scarring; lesser glowing creatures begin to pull themselves from the contaminated threshold.
 - Beat 6: the King's Chamber has become a crystal boss arena; throne, king, beams, floor, and walls are part of one sustaining engine.
 
 ---
 
-## Boss Package
+## Monster Package
 
-Final encounter bosses are the only locked Packet 8 monsters at this stage.
+Packet 8 has one mandatory pre-boss encounter and one final boss encounter.
+
+### Mandatory Pre-Boss Encounter
+
+At the Implosion Threshold, the party encounters a short, contained fight against crystal-tremor creatures created by beam runoff and failed containment energy.
+
+Default composition:
+
+- **1 Crystal Tremorborn** — Earth Elemental chassis, reduced to threshold-fight durability.
+- **2 Crystal Shardlings** — Magma Mephit or Ice Mephit chassis, reskinned as glowing crystal-tainted creatures.
+
+This encounter should foreshadow tremors, crystal flares, restraint pressure, and the fact that the epicenter is producing unnatural life. It should not become a second boss fight.
+
+### Final Boss Package
 
 - **Mourning King** — Lich chassis, reskinned and modified as a throne-bound grief-engine.
 - **Dhurak Stonevein, the Fault-Tender** — boosted Stone Golem chassis; tremors, fissures, forced movement, arena damage.
 - **Veyra Deeproot, the Root-Seer** — boosted Stone Golem chassis; crystal roots, psychic pressure, beam reinforcement, restraint.
 
-Non-boss monsters are not yet designed or canonized. Future Packet 8 monster work may add lesser crystal creatures, echo hazards, or environmental threats, but they should not distract from the final boss package.
+Do not add final-arena minions by default. The final fight is already heavy.
 
 ---
 
@@ -125,6 +140,6 @@ Recommended files:
 - `packet-08-king-and-stone-druids-lore.canon.md` — lore supplement.
 - `packet-08-attunement-affliction.canon.md` — Maelreth/Erny affliction mechanics.
 - `packet-08-final-encounter.canon.md` — boss arena and encounter phases.
-- `packet-08-monsters.canon.md` — boss stat block modifications and future monster package.
+- `packet-08-monsters.canon.md` — threshold encounter and boss stat block modifications.
 - `packet-08-treasure-discoveries.canon.md` — queen-linked relics and lore rewards.
 - `packet-08-runtime-cues.canon.md` — spoken-word and pacing cues.
