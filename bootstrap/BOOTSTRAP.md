@@ -18,6 +18,18 @@ When beginning work, read in this order:
 
 ---
 
+## Packet Handoff Rule
+
+If resuming design work for a specific packet, check `canon/CANON_MANIFEST.md` for any packet-specific handoff file after the mandatory read order.
+
+For Packet 8 / Throneward Descent ideation, read:
+
+- `canon/scene-packets/packet-08-ideation-handoff.md`
+
+Packet handoff files do not override canon. They summarize current working state, checklist position, and recommended next actions so a fresh chat can resume without relying on a large prior context window.
+
+---
+
 ## Session Log Access Rule
 
 Do not rely on directory listing or search to find the latest session log.
