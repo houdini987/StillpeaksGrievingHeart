@@ -11,8 +11,8 @@
 | Core Purpose | Reveal the hidden cause of the queen's fall, expose the king's transformation, and resolve the grief-source. |
 | Primary Tone | Royal ruin, corrupted trust, crystal saturation, moral pressure, final-act dread. |
 | Structure | Linear final descent. No broad city crawl. |
+| Pre-Boss Encounter | Implosion Threshold: Crystal Tremorborn plus Crystal Shardlings. |
 | Final Boss Package | Mourning King, Dhurak Stonevein, Veyra Deeproot. |
-| Non-Boss Monsters | TBD; not yet designed or canonized. |
 | Chapter Endpoint | The king's sustaining beams are broken and the Mourning King is resolved. |
 
 ---
@@ -26,6 +26,8 @@ The city does not open into exploration. It narrows into consequence.
 Everything in Chapter 8 should feel like the mountain is becoming less architectural and more anatomical. Formal royal stonework persists, but each beat shows more crystal intrusion. Dead lamps remain visible, but they are less important now; the crystals are no longer just contaminating the old kingdom. They are consuming it.
 
 The chapter must deliver lore before the final boss. The party should understand what Dhurak, Veyra, and the king became before they enter the King's Chamber.
+
+Near the final chamber, the route should no longer feel safely empty. The grief-engine is close enough that the hallway itself has started producing lesser glowing horrors from tremor-energy, crystal runoff, and failed containment residue.
 
 ---
 
@@ -59,7 +61,7 @@ Packet 8 should use a controlled linear footprint:
 2. **Advisor Records** — unavoidable lore: Dhurak and Veyra introduced.
 3. **Druid-Centric Reveal** — hidden tremor truth and Abbathor-touched corruption.
 4. **Mining Decree / Greed Spiral** — king's culpability and deeper mining orders.
-5. **Implosion Threshold** — transformation, containment failure, evacuation crisis.
+5. **Implosion Threshold** — transformation, containment failure, evacuation crisis, and mandatory threshold encounter.
 6. **King's Chamber / Crystal Boss Arena** — final encounter.
 
 Do not build a sprawling royal complex.
@@ -71,6 +73,7 @@ Increase crystal saturation every beat.
 - Early: thin seams through formal royal stone.
 - Middle: crystal growths interrupt records and reliefs.
 - Late: crystal roots overwrite rooms, stairs, and memory surfaces.
+- Threshold: the crystal corruption produces lesser glowing creatures from the ruined hallway itself.
 - Final: the King's Chamber is a crystal engine with throne, beams, bosses, and floor all connected.
 
 ### Lore Delivery
@@ -98,7 +101,7 @@ Chapter 8 should move through escalating culpability:
 3. The party learns those Druids were corrupted through greed.
 4. The party learns the tremor was secretly induced.
 5. The party learns the king's denial enabled deeper mining.
-6. The party sees the implosion's aftermath.
+6. The party sees the implosion's aftermath and fights the lesser horrors produced near the epicenter.
 7. The party fights the grief-engine those choices created.
 
 ### Reveal Boundary
@@ -110,6 +113,12 @@ By the final boss, the party should already understand the beams and the Druids'
 Mercy death remains the primary clean ending. The slim salvation route exists only as a narrow possibility if the party recognizes and uses a valid queen-linked mourning/restraint relic during the clarity window.
 
 Do not over-signal salvation during Chapter 8 exploration. The Torn White Procession Cloth is unavoidable because it belongs to the tragedy's aftermath, not because the module is steering the party toward saving the king.
+
+### Combat Load Boundary
+
+Chapter 8 has one mandatory pre-boss encounter and one final boss encounter.
+
+Do not add wandering monsters or final-arena minions by default. The Implosion Threshold encounter exists to make the epicenter feel contaminated and alive, not to drain the party before the finale.
 
 ---
 
@@ -281,7 +290,7 @@ Do not over-signal salvation during Chapter 8 exploration. The Torn White Proces
 
 ### BEAT 5 — The Implosion Threshold
 
-**Purpose:** Show containment failure, transformed Druids, evacuation chaos, and the beginning of the king's unnatural preservation.
+**Purpose:** Show containment failure, transformed Druids, evacuation chaos, the beginning of the king's unnatural preservation, and the lesser creatures produced near the grief-engine's epicenter.
 
 **Environment:** A cracked threshold, containment chamber, or collapsed antechamber before the King's Chamber. It should be almost swallowed by crystal.
 
@@ -317,11 +326,40 @@ Do not over-signal salvation during Chapter 8 exploration. The Torn White Proces
 
 **Unavoidable Discovery — Torn White Procession Cloth:** The party sees or can easily recover a strip of old pale ceremonial cloth preserved under crystal, similar to cloth seen in the Queen's Bridge memory. Present it as aftermath texture first: a responder's remnant, a mourning object, or cloth caught beneath a cracked prayer mark. Do not announce it as a salvation key.
 
-**Spoken Discovery Cue:**
+**Mandatory Encounter — Crystal Tremorborn:** As the party moves through or past the threshold evidence, the nearby grief-engine stirs lesser corrupted creatures from the ruined hallway.
 
-> The kingdom did not flee because the queen died.
+Default encounter:
+
+- **1 Crystal Tremorborn** — Earth Elemental chassis, reduced to about 85–95 HP.
+- **2 Crystal Shardlings** — Magma Mephit or Ice Mephit chassis, reskinned as glowing crystal-tainted creatures.
+
+Use `packet-08-monsters.canon.md` for details.
+
+If the party is heavily depleted, remove the Shardlings. If the party is fresh and moving quickly, use the default encounter and allow one environmental pulse at initiative count 20.
+
+**Encounter Read-Aloud:**
+
+> The chamber does not wait quietly.
 >
-> It fled because the living would not let death finish its sentence.
+> A tremor passes through the floor, too small to be natural and too rhythmic to be collapse.
+>
+> Crystal veins brighten inside the walls.
+>
+> Something pulls itself out of the broken stone ahead: a hunched body of rock and green-white crystal, glowing from cracks where no living thing should glow.
+>
+> Smaller shapes skitter loose around it, shard-limbed and lantern-bright.
+>
+> The king's chamber is close enough now that even the hallway has begun to grow teeth.
+
+**Spoken Discovery Cue After Victory:**
+
+> The last shard-body breaks apart.
+>
+> For a moment, the crystal pieces lie still.
+>
+> Then their green light drains across the floor in thin lines, all flowing the same direction.
+>
+> Toward the throne.
 
 ---
 
@@ -395,6 +433,7 @@ Recommended discovery categories:
 - The king's grief and denial allowed deeper mining.
 - Critical mass transformed the Druids and sustained the king.
 - The beams visibly sustain the Mourning King.
+- The Implosion Threshold has produced lesser glowing crystal-tremor creatures near the epicenter.
 - Mercy death is the primary clean ending.
 
 ### Must-Avoid
@@ -403,4 +442,4 @@ Recommended discovery categories:
 - Do not make the queen culpable.
 - Do not imply the mountain itself is evil.
 - Do not make salvation easy.
-- Do not add non-boss monsters until they are deliberately designed.
+- Do not add wandering monsters or final-arena minions by default.
