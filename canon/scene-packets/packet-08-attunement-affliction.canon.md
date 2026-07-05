@@ -119,11 +119,13 @@ On failure, the attempt does not worsen the condition unless the DM wants to esc
 
 ## Relic Counterplay
 
-Only the following queen-linked mourning/restraint relics provide relic counterplay in the final arena:
+The following relics provide counterplay against over-attunement in the final arena:
 
 1. **Soot-Black Prayer Bead**
 2. **Torn White Procession Cloth**
 3. **Queen's Lantern Charm**
+
+The Queen's Lantern Charm is valid for attunement/fear counterplay only. It is not a valid slim-salvation relic.
 
 A character using one of these relics may spend an action to reduce pressure on one over-attuned character.
 
