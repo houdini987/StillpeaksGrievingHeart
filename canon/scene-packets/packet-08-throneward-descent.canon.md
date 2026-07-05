@@ -12,7 +12,7 @@
 | Primary Tone | Royal ruin, corrupted trust, crystal saturation, moral pressure, final-act dread. |
 | Structure | Linear final descent. No broad city crawl. |
 | Pre-Boss Encounter | Implosion Threshold: Crystal Tremorborn plus Crystal Shardlings. |
-| Final Boss Arena | Spherical ground-zero crystal cavity; throne-engine at the center. |
+| Final Boss Arena | Warehouse-sized organic geode cavity; bowl-shaped floor sloping toward the central throne-engine. |
 | Final Boss Package | Mourning King, Dhurak Stonevein, Veyra Deeproot. |
 | Chapter Endpoint | The king's sustaining beams are broken and the Mourning King is resolved. |
 
@@ -30,7 +30,7 @@ The chapter must deliver lore before the final boss. The party should understand
 
 Near the final chamber, the route should no longer feel safely empty. The grief-engine is close enough that the hallway itself has started producing lesser glowing horrors from tremor-energy, crystal runoff, and failed containment residue.
 
-At the end, the route still reaches a recognizable royal doorway in a surviving wall, but beyond that doorway is not a normal throne room. It is a spherical ground-zero cavity, as if the crystal energy ignited in a supernova-like burst and left the king, his throne, and the two transformed Druids suspended at the center of the scar.
+At the end, the route still reaches a recognizable royal doorway in a surviving wall, but beyond that doorway is not a normal throne room. It is a warehouse-sized organic geode cavity: a ground-zero scar where crystal energy ignited in a supernova-like burst and left the king, his throne, and the two transformed Druids at the center of the bowl.
 
 ---
 
@@ -65,7 +65,7 @@ Packet 8 should use a controlled linear footprint:
 3. **Druid-Centric Reveal** — hidden tremor truth and Abbathor-touched corruption.
 4. **Mining Decree / Greed Spiral** — king's culpability and deeper mining orders.
 5. **Implosion Threshold** — transformation, containment failure, evacuation crisis, and mandatory threshold encounter.
-6. **King's Chamber / Crystal Boss Arena** — spherical ground-zero cavity and final encounter.
+6. **King's Chamber / Crystal Boss Arena** — organic geode ground-zero cavity and final encounter.
 
 Do not build a sprawling royal complex.
 
@@ -77,7 +77,7 @@ Increase crystal saturation every beat.
 - Middle: crystal growths interrupt records and reliefs.
 - Late: crystal roots overwrite rooms, stairs, and memory surfaces.
 - Threshold: the crystal corruption produces lesser glowing creatures from the ruined hallway itself.
-- Final: the King's Chamber is a spherical crystal-engine cavity with throne, beams, bosses, curved walls, and radial blast scars all centered on one ignition point.
+- Final: the King's Chamber is an organic geode-like crystal-engine cavity with jagged shell, bowl-shaped playable floor, throne, beams, bosses, and irregular radial blast scars all centered on one ignition point.
 
 ### Lore Delivery
 
@@ -105,7 +105,7 @@ Chapter 8 should move through escalating culpability:
 4. The party learns the tremor was secretly induced.
 5. The party learns the king's denial enabled deeper mining.
 6. The party sees the implosion's aftermath and fights the lesser horrors produced near the epicenter.
-7. The party fights the grief-engine at the center of the spherical ground-zero cavity those choices created.
+7. The party fights the grief-engine at the center of the organic geode bowl those choices created.
 
 ### Reveal Boundary
 
@@ -125,9 +125,15 @@ Do not add wandering monsters or final-arena minions by default. The Implosion T
 
 ### Final Arena Geometry Boundary
 
-The final boss chamber is not a rectangular throne room.
+The final boss chamber is not a rectangular throne room and not a clean circular arena.
 
-The party enters through a surviving royal doorway/wall, but the doorway opens into a cavernous round chamber: a spherical ground-zero cavity where the crystal energy ignited. The king, throne, Dhurak, and Veyra are positioned near the center, not at a far wall.
+The party enters through a surviving royal doorway/wall, but the doorway opens into a warehouse-sized organic geode cavity. The playable floor slopes inward like a bowl toward the central throne-engine. The king, throne, Dhurak, and Veyra are positioned near the center, not at a far wall. Do not use clean concentric rings or perfect arena geometry by default.
+
+### Attuned Offense Boundary
+
+During the final arena, Erny and Maelreth's offense against bosses can trigger Attuned Offense Backlash while at least one green beam remains active.
+
+This backlash should echo the earlier shaft resonance behavior but at full final-engine scale: all crystals flash white-green, the ground shakes, and shards fall across the party. Use `packet-08-final-encounter.canon.md` and `packet-08-attunement-affliction.canon.md` for mechanics.
 
 ---
 
@@ -381,16 +387,19 @@ Use detailed file: `packet-08-final-encounter.canon.md`.
 Required elements:
 
 - The royal doorway and surviving wall still exist at the chamber edge.
-- Beyond that doorway is a cavernous spherical ground-zero chamber, not a traditional rectangular throne room.
-- The spherical cavity should feel like the blast scar of a crystal supernova.
-- The Mourning King is locked into his throne's crystal embrace at or near the exact center of the chamber.
+- Beyond that doorway is a warehouse-sized organic geode cavity, not a traditional rectangular throne room.
+- The geode cavity should feel like the blast scar of a crystal supernova, with jagged shell texture rather than clean arena geometry.
+- The playable floor slopes inward like a bowl toward the central throne-engine.
+- The Mourning King is locked into his throne's crystal embrace at or near the center of the chamber.
 - Dhurak Stonevein stands on one side of the central throne-engine.
 - Veyra Deeproot stands on the other side of the central throne-engine.
 - A glowing green beam from each Druid titan burns into the king.
 - All three bosses are active from the start.
 - Maelreth and Erny's over-attunement affliction is at full intensity.
+- Erny or Maelreth's offense against a boss can trigger Attuned Offense Backlash while at least one beam remains active.
+- Dhurak can weaponize the bowl slope with tremor effects.
 - Destroying each Druid weakens the king and reduces affliction pressure.
-- Destroying both beams creates the king's clarity window.
+- Destroying both beams creates the king's clarity window and ends Attuned Offense Backlash.
 - Primary resolution: mercy death.
 - Slim relic-based salvation possibility.
 
@@ -400,11 +409,15 @@ Required elements:
 >
 > The room beyond it does not.
 >
-> The threshold opens into a vast round hollow, as if the heart of the mountain once ignited and blew the stone outward in every direction.
+> The threshold opens into a vast round hollow, like the inside of a geode large enough to hold a warehouse.
 >
-> The walls, floor, and ceiling curve together into one enormous spherical wound. Royal reliefs bend along the inner surface. Dead lamps hang fused in crystal-glass. Radial scars of green-white light stretch away from the center like the frozen remains of a supernova.
+> The walls, floor, and ceiling curve together into one enormous crystal wound. Not smooth. Not built. Jagged growths crowd the inner surface, catching green-white light in a thousand broken points.
 >
-> At that center stands the throne.
+> Royal reliefs bend and vanish beneath the crystal shell. Dead lamps hang fused in glassy mineral. Irregular scars of light stretch away from the center like the frozen remains of a supernova.
+>
+> The entire space slopes inward like a bowl.
+>
+> At the lowest point stands the throne.
 >
 > Crystal ribs curl around it like a cage grown from the mountain's own bones.
 >
@@ -436,7 +449,7 @@ Recommended discovery categories:
 - Stone Druid records
 - royal mining decrees
 - crystal fragments tied to Abbathor corruption
-- final-use ritual or relic clues that support the slim salvation path
+- beam, release, or mourning clues that support final-scene interpretation
 
 ---
 
@@ -452,7 +465,8 @@ Recommended discovery categories:
 - Critical mass transformed the Druids and sustained the king.
 - The beams visibly sustain the Mourning King.
 - The Implosion Threshold has produced lesser glowing crystal-tremor creatures near the epicenter.
-- The King's Chamber is a spherical ground-zero cavity with the final engine at its center.
+- The King's Chamber is an organic geode-like ground-zero cavity with a bowl-shaped floor and final engine at its center.
+- Attuned Offense Backlash makes Erny or Maelreth's boss offense light the crystals, shake the bowl, and drop shards while beams remain active.
 - Mercy death is the primary clean ending.
 
 ### Must-Avoid
@@ -463,3 +477,4 @@ Recommended discovery categories:
 - Do not make salvation easy.
 - Do not add wandering monsters or final-arena minions by default.
 - Do not depict the King's Chamber as a rectangular throne room with the throne at a far wall.
+- Do not depict the King's Chamber as clean concentric rings or a perfect designed arena.
