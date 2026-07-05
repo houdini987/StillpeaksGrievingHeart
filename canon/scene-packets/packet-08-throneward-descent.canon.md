@@ -364,7 +364,7 @@ Required elements:
 
 ## 7. Rewards / Discoveries
 
-Use `packet-08-treasure-discoveries.canon.md` once populated.
+Use `packet-08-treasure-discoveries.canon.md` as the current canon treasure/discovery supplement.
 
 Recommended discovery categories:
 
