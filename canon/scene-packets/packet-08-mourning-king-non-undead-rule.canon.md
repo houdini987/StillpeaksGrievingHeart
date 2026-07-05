@@ -63,3 +63,27 @@ His true defenses are:
 - the action economy created by two Druid titan beam anchors
 
 This choice supports the theme that he is not a stock lich or evil undead boss. Once the beams are broken, the party's choices and control effects should be allowed to matter.
+
+## Legendary Action Rule
+
+The Mourning King keeps **reduced, simple legendary actions** so he remains present as the central grief-engine without reverting into a stock lich.
+
+Use **2 legendary actions per round**, not 3.
+
+Legendary actions should be limited to grief/crystal control and battlefield pressure. They should not be full lich spellcasting, necromancy, or raw damage nova tools.
+
+Recommended menu:
+
+### Crystal Command
+
+One crystal seam, shard cluster, or throne-root within 60 feet flares. One creature the King can perceive must succeed on a **DC 15 Wisdom saving throw** or have its speed reduced by 10 feet until the end of its next turn.
+
+### Grief Pulse
+
+One creature within 60 feet hears the King's refusal to release. The target must succeed on a **DC 15 Wisdom saving throw** or take 7 (2d6) psychic damage and have disadvantage on the next opportunity attack it makes before the end of its next turn.
+
+### Throne Flare
+
+The throne-engine brightens through the green beams. Until the start of the King's next turn, the first time the King takes damage, reduce that damage by 5. Use this only while at least one beam remains active.
+
+These options are intentionally modest. The King's main protection remains the beam system and the Druid titans, not legendary resistance or lich-style dominance.
