@@ -13,6 +13,26 @@ Do not add wandering monsters, side-combat rooms, or extra final-arena minions u
 
 ---
 
+## Difficulty Target
+
+Chapter 8's combat profile should be **hard but fair, with controlled swinginess**.
+
+Expected outcome: the party should win if they read the beam mechanic, prioritize Dhurak/Veyra appropriately, manage Erny and Maelreth's attunement backlash, and use the tactical breath intelligently.
+
+The fight can swing dangerous fast if the party tunnels the king, ignores the beams, clusters badly, allows bowl-slope/tremor effects to cascade, or repeatedly triggers Attuned Offense Backlash without adapting.
+
+Do not chase lethality by simply inflating raw damage. The final fight already has multiple pressure systems:
+
+- three active bosses
+- beam protection
+- bowl-slope terrain
+- Dhurak tremor displacement
+- Veyra restraint
+- Erny/Maelreth Attuned Offense Backlash
+- no short rest after the threshold encounter
+
+---
+
 ## Locked Boss Package
 
 Final encounter bosses:
@@ -31,7 +51,7 @@ Use common 5e Monster Manual-style chassis to save prep time, then apply focused
 
 ### Encounter Purpose
 
-The halls near the King's Chamber should not feel empty.
+The halls near the King's Chamber should not feel empty, but this encounter is primarily a **segue into the larger fight**, not a major resource tax.
 
 As the party approaches the epicenter of the grief-engine, the crystal corruption has produced unnatural glowing creatures: tremor-born crystal bodies, failed containment remnants, and living fragments of beam runoff.
 
@@ -48,8 +68,11 @@ This encounter should:
 - foreshadow Veyra's restraint/root mechanics
 - foreshadow the Mourning King's grief-beam saturation without explaining it
 - show that the green energy is producing lesser horrors before the party sees its source
-- give the party one tactical warm-up before the final arena
-- remain short enough that it does not drain the finale
+- teach the party the crystal-tremor visual language before the final arena
+- transition into the final fight rather than drain the party
+- remain short enough that it does not compete with the finale
+
+This encounter should **not** be tuned to down a PC unless the party makes unusually reckless choices or arrives already depleted.
 
 ### Default Encounter Composition
 
@@ -68,13 +91,13 @@ Do not add more than 3 creatures unless later balance testing proves the party n
 
 **Base Roll20 Chassis:** Earth Elemental.
 
-**Recommended Adjustment:** Reduce HP to about 85–95 so this remains a threshold fight, not a second boss.
+**Recommended Adjustment:** Reduce HP to about 75–85 so this remains a light segue fight, not a second boss or resource-tax encounter.
 
 **Creature Concept:** A hulking, semi-formed creature of cracked stone, green-white crystal, trapped tremor-energy, and grief-beam saturation. It is not a person and not a spirit. It is what happens when the implosion teaches stone to move in pain and the throne refuses to let that pain settle.
 
 **Origin Flavor:** Mostly Dhurak-colored in its tremor behavior, but visibly fed by Veyra-like crystal roots and the Mourning King's green pulse.
 
-**Role:** Bruiser, tremor foreshadowing, hallway breaker.
+**Role:** Bruiser, tremor foreshadowing, hallway breaker, transition alarm.
 
 **Visual Identity:**
 
@@ -92,7 +115,7 @@ Do not add more than 3 creatures unless later balance testing proves the party n
 
 - 20-foot line, 5 feet wide.
 - Creatures in the line make **DC 14 Dexterity saving throw**.
-- Failure: 14 (4d6) bludgeoning/piercing damage and knocked prone.
+- Failure: 10 (3d6) bludgeoning/piercing damage and knocked prone.
 - Success: half damage and not prone.
 - The fissure becomes difficult terrain.
 
@@ -102,7 +125,7 @@ This is a smaller preview of Dhurak's stronger tremor mechanics, wrapped in Veyr
 
 **Base Roll20 Chassis:** Magma Mephit or Ice Mephit.
 
-**Recommended Adjustment:** Remove flight if the map/hallway makes flying awkward. Reskin breath weapon as crystal flare.
+**Recommended Adjustment:** Remove flight if the map/hallway makes flying awkward. Reskin breath weapon as crystal flare. Use them as quick visual harassers, not attrition monsters.
 
 **Creature Concept:** Small, glowing, unnatural creatures formed from broken crystal, dead-lamp residue, failed containment energy, and grief-beam spillover. They skitter, blink, and hiss with stolen light.
 
@@ -128,7 +151,7 @@ The Implosion Threshold should provide a few tactical features without becoming 
 
 - cracked floor lines that become difficult terrain after tremor effects
 - crystal ribs or pillars that provide half-cover
-- one unstable green pulse line that can flare once at initiative count 20
+- one unstable green pulse line that can flare once at initiative count 20 only if the party is fresh
 - dead lamp brackets swallowed by crystal
 - Torn White Procession Cloth present as aftermath texture, not as obvious solution text
 
@@ -156,10 +179,11 @@ The Crystal Tremorborn should:
 - split the party with difficult terrain rather than chase down isolated targets
 - knock someone prone once if possible
 - visibly pulse in the direction of the King's Chamber
+- avoid becoming a long slugfest
 
 The Crystal Shardlings should:
 
-- harass backline or wounded characters
+- harass backline or wounded characters lightly
 - make the green crystal energy feel alive
 - die quickly enough that the encounter does not overstay
 
@@ -404,7 +428,7 @@ For a five-character level 8 party, the full Chapter 8 combat load can become de
 
 Recommended balance levers:
 
-- Keep the Implosion Threshold encounter short.
+- Keep the Implosion Threshold encounter short and light; it is a segue, not a resource-tax fight.
 - Reduce or remove Shardlings if the party is depleted.
 - Lower the Mourning King's offensive spell selection.
 - Make beam protection obvious but not absolute.
