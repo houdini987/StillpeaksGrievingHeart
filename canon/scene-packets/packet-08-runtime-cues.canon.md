@@ -9,6 +9,8 @@ Use with:
 - `packet-08-throneward-descent.canon.md`
 - `packet-08-attunement-affliction.canon.md`
 - `packet-08-final-encounter.canon.md`
+- `packet-08-current-stat-blocks-quick-reference.canon.md`
+- `packet-08-mourning-king-non-undead-rule.canon.md`
 
 ---
 
@@ -22,6 +24,7 @@ Chapter 8 should feel:
 - morally heavy
 - final-act direct
 - not exposition-heavy at the boss fight
+- grief and preservation, not undead evil
 
 ---
 
@@ -195,9 +198,9 @@ Use for Erny and Maelreth.
 
 ## Final Arena Entry Cues
 
-Use if the table needs more than the main read-aloud.
+Use if the table needs more than, or a shorter version of, the main read-aloud in `packet-08-final-encounter.canon.md`.
 
-### Spherical Ground-Zero Reveal
+### Geode Ground-Zero Reveal
 
 > The doorway gives you a wall.
 >
@@ -217,6 +220,30 @@ Use if the table needs more than the main read-aloud.
 >
 > Every crack, every root, every beam, every line of green-white light points inward.
 
+### Obvious Druid Protection Cue
+
+> The beams do not come from the king.
+>
+> They burn into him.
+>
+> Dhurak and Veyra stand angled around the throne, their bodies between you and the cage of crystal.
+>
+> Not servants awaiting command.
+>
+> Wardens protecting a vessel.
+
+### Inert King Cue
+
+> The king does not rise.
+>
+> He cannot.
+>
+> His hands are fused to the throne, his crown webbed into the crystal behind him.
+>
+> For a moment, his eyes find you through the light.
+>
+> Then the beams tighten, and the Druids move.
+
 ---
 
 ## Final Encounter Round Cues
@@ -227,9 +254,11 @@ Use at initiative count 20 or when pacing needs pressure.
 
 > The green beams flare.
 >
-> The radial scars along the spherical wall answer in light.
+> The radial scars along the geode wall answer in light.
 >
-> The king's wounds close in crystal brightness.
+> The king does not command it.
+>
+> He endures it.
 >
 > Dhurak and Veyra do not look at him with loyalty.
 >
@@ -249,13 +278,25 @@ Use at initiative count 20 or when pacing needs pressure.
 >
 > Nothing here wants to release what it holds.
 
-### King Cue
+### King Vessel Cue
 
-> The king raises his head.
+> The king's head lifts against the crystal restraint.
 >
-> For a breath, you see majesty.
+> His mouth opens.
 >
-> Then the crystal light moves behind his eyes, and majesty becomes command.
+> No command comes out.
+>
+> Only a breath shaped like a name you do not know.
+
+### Druid Interception Cue
+
+> The attack never reaches the king.
+>
+> The nearest green beam snaps taut, and the Druid titan tears itself sideways into the blow.
+>
+> Crystal splits. Stone screams.
+>
+> The king remains pinned to the throne, untouched — not because he defended himself, but because they will break themselves before they let the vessel fail.
 
 ### One Beam Broken
 
@@ -263,13 +304,19 @@ Use at initiative count 20 or when pacing needs pressure.
 >
 > The king jerks against the central throne.
 >
-> Somewhere under the monster, something mortal gasps.
+> Somewhere under the engine, something mortal gasps.
+>
+> The surviving Druid turns more fully toward him.
+>
+> Protective.
+>
+> Desperate.
 
 ### Both Beams Broken
 
 > The second beam breaks.
 >
-> The spherical chamber goes quiet enough to hear stone cooling.
+> The geode chamber goes quiet enough to hear stone cooling.
 
 ---
 
@@ -359,34 +406,24 @@ Use sparingly. Do not monologue.
 
 > Side chambers exist, but they are sealed, collapsed, or consumed by crystal.
 >
-> The royal route is the only path still shaped like an answer.
+> The royal road is the only path still willing to be walked.
 
-### If the Final Fight Is Too Hard
+### If the Party Tries to Negotiate with the Bound King Before Breaking Beams
 
-- Reduce beam absorption.
-- Delay or skip one boss recharge power.
-- Let a relic suppress one round of Final Attunement Crisis.
-- Let destroying one beam visibly weaken both the king and the surviving Druid.
-
-### If the Final Fight Is Too Easy
-
-- Trigger a beam flare hazard.
-- Let Dhurak create more difficult terrain.
-- Let Veyra restrain one high-mobility character.
-- Increase the king's control pressure, not raw damage.
-
----
-
-## Final Image
-
-Use after resolution if the party has earned quiet.
-
-> For the first time since you entered Stillpeak, the silence does not feel like something holding its breath.
+> His eyes move.
 >
-> It is only silence.
+> That much of him is still there.
 >
-> Old stone.
-> Dead lamps.
-> Cooling crystal.
+> But when he tries to answer, the beams brighten, and the words collapse into a low sound of grief.
 >
-> A mountain no longer forced to grieve in someone else's voice.
+> Whatever truth remains in him is trapped behind the engine.
+
+### If the Party Is Unsure Whether to Target the Druids
+
+> The answer is visible in the light.
+>
+> The beams do not protect the Druids.
+>
+> The Druids protect the beams.
+>
+> And the beams hold the king.
