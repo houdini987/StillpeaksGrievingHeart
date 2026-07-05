@@ -48,6 +48,18 @@ Prefer:
 - royal authority turned into compulsion
 - living mercy denied
 
-## Legendary Resistance Implication
+## Legendary Resistance Rule
 
-Because the King's true protection is the throne-engine and the green beams, his default lich legendary resistance count should likely be reduced during final tuning. Beam protection should carry more of his defensive identity than generic lich resilience.
+The Mourning King has **0 legendary resistances**.
+
+Do not import the default lich legendary resistance trait.
+
+His true defenses are:
+
+- green beam protection from Dhurak and Veyra
+- the throne-engine
+- the geode arena pressure
+- grief-resonance control
+- the action economy created by two Druid titan beam anchors
+
+This choice supports the theme that he is not a stock lich or evil undead boss. Once the beams are broken, the party's choices and control effects should be allowed to matter.
