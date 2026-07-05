@@ -35,11 +35,18 @@ The halls near the King's Chamber should not feel empty.
 
 As the party approaches the epicenter of the grief-engine, the crystal corruption has produced unnatural glowing creatures: tremor-born crystal bodies, failed containment remnants, and living fragments of beam runoff.
 
+These creatures are **mixed final-engine runoff**, not servants of a single boss. They are produced by the combined pressure of:
+
+- **Dhurak's tremor/fault corruption** — cracked stone, fissures, unstable floor, forced movement.
+- **Veyra's crystal-root containment** — binding growths, preservation pressure, restraint imagery.
+- **The Mourning King's grief-engine** — green beam saturation, refusal of release, psychic mourning pressure.
+
 This encounter should:
 
 - make the throneward approach feel contaminated and alive
 - foreshadow Dhurak's tremor/fissure mechanics
 - foreshadow Veyra's restraint/root mechanics
+- foreshadow the Mourning King's grief-beam saturation without explaining it
 - show that the green energy is producing lesser horrors before the party sees its source
 - give the party one tactical warm-up before the final arena
 - remain short enough that it does not drain the finale
@@ -63,13 +70,16 @@ Do not add more than 3 creatures unless later balance testing proves the party n
 
 **Recommended Adjustment:** Reduce HP to about 85–95 so this remains a threshold fight, not a second boss.
 
-**Creature Concept:** A hulking, semi-formed creature of cracked stone, green-white crystal, and trapped tremor-energy. It is not a person and not a spirit. It is what happens when the implosion teaches stone to move in pain.
+**Creature Concept:** A hulking, semi-formed creature of cracked stone, green-white crystal, trapped tremor-energy, and grief-beam saturation. It is not a person and not a spirit. It is what happens when the implosion teaches stone to move in pain and the throne refuses to let that pain settle.
+
+**Origin Flavor:** Mostly Dhurak-colored in its tremor behavior, but visibly fed by Veyra-like crystal roots and the Mourning King's green pulse.
 
 **Role:** Bruiser, tremor foreshadowing, hallway breaker.
 
 **Visual Identity:**
 
 - hunched stone body threaded with green-white crystal veins
+- rootlike crystal growths bracing its legs and shoulders
 - chest pulsing faintly in rhythm with the distant beams
 - fractured hands dragging sparks from the floor
 - no face, only a glowing crack where a mouth or eye-line should be
@@ -86,7 +96,7 @@ Do not add more than 3 creatures unless later balance testing proves the party n
 - Success: half damage and not prone.
 - The fissure becomes difficult terrain.
 
-This is a smaller preview of Dhurak's stronger tremor mechanics.
+This is a smaller preview of Dhurak's stronger tremor mechanics, wrapped in Veyra-like crystal growth and fed by the king's green engine-light.
 
 ### Crystal Shardlings
 
@@ -94,7 +104,9 @@ This is a smaller preview of Dhurak's stronger tremor mechanics.
 
 **Recommended Adjustment:** Remove flight if the map/hallway makes flying awkward. Reskin breath weapon as crystal flare.
 
-**Creature Concept:** Small, glowing, unnatural creatures formed from broken crystal, dead-lamp residue, and failed containment energy. They skitter, blink, and hiss with stolen light.
+**Creature Concept:** Small, glowing, unnatural creatures formed from broken crystal, dead-lamp residue, failed containment energy, and grief-beam spillover. They skitter, blink, and hiss with stolen light.
+
+**Origin Flavor:** Shardlings are mixed runoff. Their bodies are Veyra-like crystal growth, their movement is Dhurak-like tremor jitter, and their glow comes from the Mourning King's sustaining beam energy.
 
 **Role:** Harassers, restraint/flare foreshadowing, visual proof that the corruption creates lesser life.
 
@@ -103,6 +115,7 @@ This is a smaller preview of Dhurak's stronger tremor mechanics.
 - hunched shard bodies
 - dead-lantern glow trapped under translucent crystal skin
 - jagged limbs scraping stone
+- rootlike filaments trailing behind them
 - eyes like small green pinpricks
 
 **Action Reskin:** Use the chosen mephit claws and breath/flare mechanics, flavored as crystal cuts and green-white pulse.
@@ -127,11 +140,11 @@ Use when the party moves through the Implosion Threshold and approaches the fina
 >
 > A tremor passes through the floor, too small to be natural and too rhythmic to be collapse.
 >
-> Crystal veins brighten inside the walls.
+> Crystal veins brighten inside the walls, and rootlike growths tighten across the broken stone.
 >
-> Something pulls itself out of the broken stone ahead: a hunched body of rock and green-white crystal, glowing from cracks where no living thing should glow.
+> Something pulls itself out of the floor ahead: a hunched body of rock and green-white crystal, glowing from cracks where no living thing should glow.
 >
-> Smaller shapes skitter loose around it, shard-limbed and lantern-bright.
+> Smaller shapes skitter loose around it, shard-limbed and lantern-bright, their bodies twitching in time with a pulse from deeper within the mountain.
 >
 > The king's chamber is close enough now that even the hallway has begun to grow teeth.
 
