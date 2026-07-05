@@ -288,7 +288,7 @@ Suggested shared stat feel, before final numerical tuning:
 
 - **Size:** Large or Huge, depending on map needs.
 - **AC:** about 17.
-- **HP:** high enough to matter as beam anchors, but not so high that the fight becomes a slog.
+- **HP:** asymmetric beam-anchor durability. Dhurak should sit around **180 HP** as the heavier physical fault-anchor; Veyra should sit around **150 HP** as the slightly softer control/preservation anchor.
 - **Speed:** slower than a normal mobile boss; they reshape the arena more than they chase.
 - **Damage style:** stone, crystal, psychic grief-pressure, forced movement, restraint.
 - **Spellcasting:** avoid full druid spell lists. Use only 1–2 baked-in druidic powers for each so Roll20 remains easy.
@@ -299,6 +299,8 @@ Suggested shared stat feel, before final numerical tuning:
 ## Dhurak Stonevein, the Fault-Tender
 
 **Base Roll20 Chassis:** Stone Golem or other durable earth creature for AC/HP/saves only.
+
+**Durability Target:** About **180 HP**. Dhurak is the heavier physical anchor and should take more concentrated punishment before his beam breaks.
 
 **Creature Concept:** Former court Stone Druid transformed into a crystal-earth titan. Dhurak read fault-lines for the king, interpreted tremors, and helped induce the bridge catastrophe. Now he is a living fault-prayer: the earthquake given druidic will.
 
@@ -376,6 +378,8 @@ Dhurak should:
 ## Veyra Deeproot, the Root-Seer
 
 **Base Roll20 Chassis:** Stone Golem or other durable earth creature for AC/HP/saves only.
+
+**Durability Target:** About **150 HP**. Veyra is slightly softer than Dhurak, but her restraint, beam protection, and preservation pressure make her tactically dangerous.
 
 **Creature Concept:** Former court Stone Druid transformed into a crystal-root titan. Veyra read root systems, preservation rites, and deep crystal growth for the king. Now she is corrupt preservation given body: the will that binds what should be released.
 
@@ -473,6 +477,7 @@ Difference:
 - Veyra makes the arena hold.
 - Dhurak's druidism is fault, tremor, and collapse.
 - Veyra's druidism is root, preservation, and restraint.
+- Dhurak is the heavier anchor; Veyra is the softer but more tactically controlling anchor.
 
 ---
 
@@ -498,6 +503,7 @@ Recommended balance levers:
 - Reduce or remove Shardlings if the party is depleted.
 - Use Crystal Tremorborn as a debuff/foreshadowing creature, not an Earth Elemental damage multiattacker.
 - Treat Dhurak and Veyra as ancient court Stone Druids first, durable titan chassis second.
+- Use asymmetric Druid durability: Dhurak around 180 HP, Veyra around 150 HP.
 - Avoid running both Druids as Stone Golem multiattack bruisers by default.
 - Lower the Mourning King's offensive spell selection.
 - Make beam protection obvious but not absolute.
