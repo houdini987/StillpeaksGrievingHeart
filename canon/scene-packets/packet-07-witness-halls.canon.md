@@ -11,6 +11,8 @@ Use with:
 - `packet-07-bridgeward-way.canon.md`
 - `packet-07-bridgeward-way-overview.canon.md`
 - `packet-07-monsters.canon.md`
+- `packet-07-treasure-discoveries.canon.md`
+- `packet-07-current-state-patch.canon.md`
 
 ---
 
@@ -358,7 +360,7 @@ A cleared line of sight reveals the route to the final arch before the bridge.
 
 ## 7. Rewards / Discoveries
 
-Optional Witness Halls discoveries should be modest and symbolic. Use the Packet 7 treasure file once drafted.
+Optional Witness Halls discoveries should be modest and symbolic. Use `packet-07-treasure-discoveries.canon.md` as the current canon treasure/discovery supplement.
 
 Suggested possible finds:
 
@@ -389,6 +391,7 @@ Do not place major royal treasure here.
 - King immortality.
 - Final solution.
 - Geomancer involvement.
+- The hidden Chapter 8 induced-tremor truth.
 
 ---
 
