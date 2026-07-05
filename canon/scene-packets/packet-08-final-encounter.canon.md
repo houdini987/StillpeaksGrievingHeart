@@ -107,6 +107,52 @@ The arena should be visually readable in Roll20: one round/organic boss space, t
 
 ---
 
+## Bowl-Slope Terrain
+
+The playable arena is shaped like a shallow-to-steep bowl inside the geode cavity.
+
+The central throne-engine sits in the deepest/most stable part of the bowl. Moving outward and upward along the curved crystal sides becomes more difficult and less stable. This should create tactical texture without turning every turn into a terrain mini-game.
+
+Default terrain guidance:
+
+- **Central floor / throne-engine zone:** normal movement unless affected by roots, beams, or boss powers.
+- **Lower bowl slopes:** difficult terrain where crystal growths, curved stone, and radial scars break footing.
+- **Upper bowl slopes / side walls:** difficult terrain plus unstable footing at the DM's discretion.
+
+Use checks only when position matters, such as when a creature:
+
+- ends its turn high on the bowl wall
+- dashes, jumps, or climbs across a steep slope
+- is shoved, pulled, knocked prone, or hit by a tremor while on a slope
+- tries to maintain a high-ground position for ranged advantage, cover, or escape
+
+Suggested checks:
+
+- **Athletics DC 13:** brace, climb, or hold position on the sloped crystal.
+- **Acrobatics DC 13:** keep balance while moving across jagged curved terrain.
+- **Dexterity saving throw DC 14:** avoid sliding after a tremor, shove, beam flare, or falling shard impact.
+
+On failure, choose the least fussy consequence that fits:
+
+- slide 10 feet toward the center of the bowl
+- fall prone
+- lose 10 feet of movement
+- drop from an upper slope to a lower slope and take 3 (1d6) bludgeoning/piercing damage only if the fall is visually meaningful
+
+Do not use the bowl slope to repeatedly punish melee characters who must approach the center. The center should be dangerous because of the bosses and beams, not because every step requires a roll.
+
+Suggested cue:
+
+> The chamber is not flat.
+>
+> The crystal floor curves downward toward the throne, like the inside of a bowl blown into the mountain.
+>
+> Near the center, the footing is broken but possible.
+>
+> Higher along the sides, jagged crystal slopes catch the light and threaten to send anything careless sliding back toward the king.
+
+---
+
 ## Entry Read-Aloud
 
 > The royal doorway still exists.
@@ -119,7 +165,9 @@ The arena should be visually readable in Roll20: one round/organic boss space, t
 >
 > Royal reliefs bend and vanish beneath the crystal shell. Dead lamps hang fused in glassy mineral. Irregular scars of light stretch away from the center like the frozen remains of a supernova.
 >
-> At that center stands the throne.
+> The entire space slopes inward like a bowl.
+>
+> At the lowest point stands the throne.
 >
 > Crystal ribs curl around it like a cage grown from the mountain's own bones.
 >
@@ -366,6 +414,7 @@ Use sparingly; the three-boss package is already heavy.
 Optional hazards:
 
 - **Crystal Pulse Line:** irregular 15-foot crystal scar, DC 14 Dexterity save or 2d6 force/psychic damage.
+- **Bowl-Slope Slide:** A creature high on the geode bowl after a tremor, shove, beam flare, or risky movement makes **DC 14 Dexterity saving throw** or slides 10 feet toward the center and/or falls prone.
 - **Green Beam Flare:** A creature crossing a beam makes DC 15 Constitution save or takes 2d8 radiant/necrotic-flavored crystal damage and is pushed 10 feet.
 - **Crystal Root Snare:** Difficult terrain; DC 14 Strength or Acrobatics to escape if restrained.
 - **Falling Shards:** Initiative count 20, one 10-foot area beneath the jagged geode ceiling becomes dangerous terrain.
@@ -399,12 +448,14 @@ King's Chamber map should include:
 
 - surviving royal doorway / entry threshold at the chamber edge
 - round organic geode-like ground-zero arena footprint, not a perfect circle if avoidable
+- bowl-shaped playable floor sloping toward the central throne-engine
 - throne / king anchor at or near the center of the crystal cavity
 - Dhurak and Veyra positioned to either side of the central throne-engine
 - visible beam lines converging on the king
 - jagged crystal shell texture like the inside of a massive geode
 - organic radial scars, growth seams, and pulse fractures from the original ignition point
 - curved wall/floor/ceiling feel, even in top-down Roll20 form
+- lower slopes as difficult terrain and upper slopes as unstable footing at DM discretion
 - crystal roots and difficult terrain growing irregularly from the center
 - cracked royal floor patterns bent, buried, or broken by the geode blast-scar
 - dead lamps swallowed by crystal-glass along the curved perimeter
