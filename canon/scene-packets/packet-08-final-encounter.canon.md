@@ -141,7 +141,25 @@ On failure, choose the least fussy consequence that fits:
 
 Do not use the bowl slope to repeatedly punish melee characters who must approach the center. The center should be dangerous because of the bosses and beams, not because every step requires a roll.
 
+### Dhurak Weaponizes the Bowl
+
+Dhurak should deliberately use the bowl shape.
+
+His tremor powers are not just damage lines; they make the geode remember the original blast and try to pull creatures back toward the center.
+
+When Dhurak uses **Fault-Tender Stomp**, **Bridgefall Pull**, or any major tremor effect, creatures on lower or upper bowl slopes may need the normal bowl-slope check or **DC 14 Dexterity saving throw** to avoid sliding 10 feet toward the center and/or falling prone.
+
+Use this directly but not constantly. Dhurak should make the bowl matter, especially when characters try to hold high ground, scatter around the sides, or use the slopes for ranged safety.
+
 Suggested cue:
+
+> Dhurak strikes the floor, and the bowl answers.
+>
+> The crystal slope flashes beneath your feet.
+>
+> For one sickening breath, the whole chamber wants to pour you back toward the throne.
+
+Suggested terrain cue:
 
 > The chamber is not flat.
 >
@@ -150,6 +168,62 @@ Suggested cue:
 > Near the center, the footing is broken but possible.
 >
 > Higher along the sides, jagged crystal slopes catch the light and threaten to send anything careless sliding back toward the king.
+
+---
+
+## Attuned Offense Backlash
+
+This is the final-arena escalation of the earlier shaft behavior: when Erny or Maelreth exert offense into the mountain's corrupted core, the crystals answer.
+
+### Trigger
+
+While at least one green beam remains active, if **Erny** or **Maelreth** uses an offensive action, attack, damaging spell, smite, or damaging class feature against **any boss** in the final arena, the geode chamber reacts.
+
+Resolve the triggering offense normally first. The backlash happens after the attack/spell/feature resolves.
+
+Default cap: trigger this backlash **once per round**, not once per hit or once per Eldritch Blast beam. This prevents the mechanic from becoming a self-punishing loop while still making Erny and Maelreth's offense feel dangerous.
+
+### Backlash Effect — Full-Geode Flash
+
+All crystals in the spherical geode chamber ignite at once.
+
+For a heartbeat, the room becomes white-green light. The ground shakes. Crystal shards release from the jagged shell overhead and rain down across the battlefield.
+
+Suggested mechanics:
+
+- All party members make a **DC 14 Dexterity saving throw**.
+- Failure: 7 (2d6) piercing/force damage from falling crystal shards and tremor-splinters.
+- Success: half damage.
+- Creatures on bowl slopes also check for **Bowl-Slope Slide** if position matters.
+
+Optional escalation if the party is handling the fight easily:
+
+- Increase damage to 10 (3d6).
+- Add a brief blindness flash: a failed save gives disadvantage on the creature's next attack roll before the end of its next turn.
+
+Do not use the optional escalation if the party is already under heavy pressure or several characters are low on hit points.
+
+### Beam Stage Adjustment
+
+- **Both beams active:** full backlash applies.
+- **One beam active:** backlash still occurs, but the DM may reduce damage to 3 (1d6) or limit it to characters in exposed areas.
+- **Both beams broken:** Attuned Offense Backlash ends. Erny and Maelreth can act without triggering the geode-wide flash.
+
+### Table Purpose
+
+The mechanic should create a meaningful choice, not forbid Erny and Maelreth from participating.
+
+They can still attack. Their offense still matters. But while the beams remain active, the room punishes attuned aggression because their resonance is plugged directly into the same system sustaining the king.
+
+Suggested cue:
+
+> The moment your attack bites into the boss, every crystal in the chamber notices.
+>
+> The geode ignites.
+>
+> For one instant there is no room, no throne, no floor — only white-green light.
+>
+> Then the mountain shakes, and shards begin to fall.
 
 ---
 
@@ -210,6 +284,7 @@ Each Druid titan sustains the Mourning King with one visible green beam.
 - The Mourning King has major protection.
 - The king regains hit points or ignores some damage each round.
 - Erny and Maelreth suffer full Final Attunement Crisis.
+- Erny and Maelreth's offensive actions against bosses can trigger Attuned Offense Backlash.
 - Dhurak and Veyra should feel like priority targets.
 
 Recommended mechanical options:
@@ -229,6 +304,7 @@ When either Dhurak or Veyra is destroyed:
 - That beam breaks.
 - The king's protection weakens.
 - Final Attunement Crisis becomes less severe.
+- Attuned Offense Backlash weakens but may still occur.
 - The surviving Druid becomes more desperate or more violent.
 
 Recommended mechanical change:
@@ -245,6 +321,7 @@ When both Dhurak and Veyra are destroyed:
 - The throne's crystal embrace cracks.
 - The king loses beam protection.
 - Final Attunement Crisis ends.
+- Attuned Offense Backlash ends.
 - The Mourning King enters a clarity window.
 
 ---
@@ -263,6 +340,7 @@ Tone:
 - arena control
 - visible beam protection
 - Maelreth and Erny under maximum strain
+- attuned offense causing full-room crystal flash and tremor backlash
 
 DM goal:
 
@@ -274,6 +352,7 @@ Signals:
 - the beam brightens when he is hurt
 - Dhurak and Veyra pulse in response
 - the king's wounds seal with crystal light
+- Erny or Maelreth's offense makes all crystals flash and shake the bowl
 
 ### Phase 2 — Cracked Engine
 
@@ -287,6 +366,7 @@ Tone:
 - king destabilizing
 - surviving Druid becoming more dangerous
 - attunement pressure slightly easing
+- backlash still possible but weaker
 
 DM goal:
 
@@ -415,6 +495,7 @@ Optional hazards:
 
 - **Crystal Pulse Line:** irregular 15-foot crystal scar, DC 14 Dexterity save or 2d6 force/psychic damage.
 - **Bowl-Slope Slide:** A creature high on the geode bowl after a tremor, shove, beam flare, or risky movement makes **DC 14 Dexterity saving throw** or slides 10 feet toward the center and/or falls prone.
+- **Attuned Offense Backlash:** If Erny or Maelreth attacks/damages a boss while at least one beam remains active, all crystals flash, the ground tremors, and the party makes **DC 14 Dexterity saving throw** against falling shards; default 7 (2d6) piercing/force damage, half on success, once per round.
 - **Green Beam Flare:** A creature crossing a beam makes DC 15 Constitution save or takes 2d8 radiant/necrotic-flavored crystal damage and is pushed 10 feet.
 - **Crystal Root Snare:** Difficult terrain; DC 14 Strength or Acrobatics to escape if restrained.
 - **Falling Shards:** Initiative count 20, one 10-foot area beneath the jagged geode ceiling becomes dangerous terrain.
@@ -435,6 +516,8 @@ Balance levers:
 - keep Dhurak and Veyra dangerous but not one-shot lethal
 - allow beam mechanics to reward focus fire
 - let relics or lore discoveries grant tactical advantages
+- cap Attuned Offense Backlash at once per round unless deliberately escalating
+- reduce or soften Attuned Offense Backlash after one beam is destroyed
 - reduce boss HP if the party reaches the arena heavily depleted
 - remove optional arena hazards if the threshold encounter taxed the party heavily
 
