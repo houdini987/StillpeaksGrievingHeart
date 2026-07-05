@@ -282,7 +282,7 @@ Dhurak and Veyra are not ordinary stone golems and should not feel like brute co
 
 They were once ancient Stone Druids in the king's court: ceremonial advisors, fault-readers, root-seers, royal confidants, and interpreters of the mountain's deep will. Centuries of Abbathor-touched crystal energy have supercharged, enlarged, and deformed them into titan-like bodies, but their combat identity should remain druidic.
 
-Use a simple Roll20 chassis for durability and saves, then replace most ordinary monster behavior with one baseline druidic attack and one signature power each.
+Use a simple Roll20 chassis for durability and saves, then replace most ordinary monster behavior with one baseline druidic attack, one signature terrain/root power, and one simple beam-tied pulse.
 
 Suggested shared stat feel, before final numerical tuning:
 
@@ -291,8 +291,23 @@ Suggested shared stat feel, before final numerical tuning:
 - **HP:** asymmetric beam-anchor durability. Dhurak should sit around **180 HP** as the heavier physical fault-anchor; Veyra should sit around **150 HP** as the slightly softer control/preservation anchor.
 - **Speed:** slower than a normal mobile boss; they reshape the arena more than they chase.
 - **Damage style:** stone, crystal, psychic grief-pressure, forced movement, restraint.
-- **Spellcasting:** avoid full druid spell lists. Use only 1–2 baked-in druidic powers for each so Roll20 remains easy.
+- **Spellcasting:** no normal druid spell list. The green beam effectively consumes their concentration, so they cannot cast ordinary druid spells while sustaining the king.
+- **Beam magic:** their remaining druidic magic expresses itself as signature terrain/root powers and simple beam-concentration pulses.
 - **Multiattack:** avoid default Stone Golem multiattack unless deliberately escalating. Prefer one meaningful action with a rider.
+
+### Beam-Concentration Rule
+
+Dhurak and Veyra are effectively concentrating on the green beams that sustain the Mourning King.
+
+This means:
+
+- They do not use normal druid spellcasting during the final fight.
+- They do not have a spell menu.
+- Their beam cannot be broken by ordinary concentration checks; destroying the Druid titan breaks the beam.
+- Their former druidic magic has collapsed into warped, beam-fed pulses tied to their corrupted domains.
+- Use one simple pulse each, not a suite of spell options.
+
+This keeps the fight fast in Roll20 and makes the beams feel like an active magical commitment rather than just a visual tether.
 
 ---
 
@@ -313,9 +328,10 @@ Use the chosen chassis for durability, then replace normal attacks with:
 - one baseline **Stone Druid Strike**
 - one signature power: **Fault-Tender Stomp**
 - one beam-sustain trait
-- optional Bridgefall Pull if the table needs more movement pressure
+- one simple beam-concentration pulse
+- optional Bridgefall Pull only if the table needs more movement pressure
 
-Do not run Dhurak as a normal Stone Golem multiattacker by default.
+Do not run Dhurak as a normal Stone Golem multiattacker or spellcaster by default.
 
 ### Signature Trait — Faultline Sustainer
 
@@ -324,6 +340,19 @@ Dhurak channels a green beam into the Mourning King.
 While Dhurak lives, one green beam remains active.
 
 When Dhurak is destroyed, his beam breaks and the king weakens.
+
+### Beam-Concentration Pulse — Fault Resonance
+
+Use as a simple pulse tied to Dhurak's beam, not as a spell.
+
+Suggested version:
+
+- At initiative count 20, or as a reaction after Dhurak takes significant damage, one cracked line of floor within 30 feet trembles.
+- One creature on that line makes **DC 14 Dexterity saving throw**.
+- Failure: the creature slides 10 feet toward the bowl center or falls prone, DM choice.
+- Success: no effect.
+
+Use this only while Dhurak's beam remains active. Do not use it if Fault-Tender Stomp already made the round tactically busy.
 
 ### Baseline Action — Stone Druid Strike
 
@@ -370,6 +399,7 @@ Dhurak should:
 - pressure front-line characters by moving the ground under them
 - punish clustering with Fault-Tender Stomp
 - make the bowl slope dangerous when characters try to hold high ground
+- use Fault Resonance as light beam-pressure, not as constant extra damage
 - target Erny or Maelreth when their over-attunement makes them vulnerable
 - physically embody the hidden tremor truth
 
@@ -392,9 +422,10 @@ Use the chosen chassis for durability, then replace normal attacks with:
 - one baseline **Crystal-Root Lash**
 - one signature power: **Crystal Root Snare**
 - one beam-sustain trait
+- one simple beam-concentration pulse
 - optional Green Beam Reinforcement only if the fight needs more king-protection
 
-Do not run Veyra as a normal Stone Golem multiattacker by default.
+Do not run Veyra as a normal Stone Golem multiattacker or spellcaster by default.
 
 ### Signature Trait — Root-Seer Sustainer
 
@@ -403,6 +434,19 @@ Veyra channels a green beam into the Mourning King.
 While Veyra lives, one green beam remains active.
 
 When Veyra is destroyed, her beam breaks and the king weakens.
+
+### Beam-Concentration Pulse — Root Preservation
+
+Use as a simple pulse tied to Veyra's beam, not as a spell.
+
+Suggested version:
+
+- At initiative count 20, or as a reaction after Veyra takes significant damage, crystal roots tighten around one creature within 30 feet standing on stone/crystal.
+- The target makes **DC 14 Strength saving throw**.
+- Failure: speed becomes 0 until the start of that creature's next turn.
+- Success: speed is reduced by 10 feet until the start of that creature's next turn.
+
+Use this only while Veyra's beam remains active. Do not use it in the same round as Crystal Root Snare unless the party is clearly overwhelming the fight.
 
 ### Baseline Action — Crystal-Root Lash
 
@@ -449,6 +493,7 @@ Veyra should:
 
 - restrain mobile or ranged characters
 - protect the king through beam reinforcement only when needed
+- use Root Preservation as light beam-pressure, not as constant lockdown
 - intensify Maelreth and Erny's psychic pressure
 - keep characters from comfortably spreading around the bowl
 - feel like corrupt preservation, not brute strength
@@ -463,6 +508,7 @@ Shared traits:
 
 - Large or Huge crystal-earth bodies depending on Roll20 space.
 - Green beam connected to the king.
+- The beam functions like a supernatural concentration commitment, but does not break from ordinary damage checks.
 - Abbathor-touched crystal growths.
 - Former Stone Druid symbolism warped by greed.
 - Ancient court-advisor identity still visible beneath the transformation.
@@ -505,6 +551,8 @@ Recommended balance levers:
 - Treat Dhurak and Veyra as ancient court Stone Druids first, durable titan chassis second.
 - Use asymmetric Druid durability: Dhurak around 180 HP, Veyra around 150 HP.
 - Avoid running both Druids as Stone Golem multiattack bruisers by default.
+- Do not give Dhurak or Veyra normal druid spell lists; the green beam consumes their concentration.
+- Use beam-concentration pulses sparingly so they add identity without becoming extra turn bloat.
 - Lower the Mourning King's offensive spell selection.
 - Make beam protection obvious but not absolute.
 - Boost Druid HP without overboosting damage.
