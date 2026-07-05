@@ -39,6 +39,7 @@ Avoid:
 - necromantic soul-devouring
 - undead hunger
 - simple evil lich framing
+- mobile lich-duelist behavior
 
 Prefer:
 
@@ -47,6 +48,41 @@ Prefer:
 - grief-resonance command
 - royal authority turned into compulsion
 - living mercy denied
+- prisoner-king bound into his own preservation machine
+
+## Throne Imprisonment Rule
+
+The Mourning King is fastened to the throne and held prisoner by the throne-engine itself.
+
+He is not standing, dueling, pursuing, dodging, or physically defending himself. The throne, crystal growths, and green beams hold him in place. He can speak, plead, command, and radiate grief-resonance, but he is not freely acting like a mobile spellcaster.
+
+While at least one green beam remains active:
+
+- The King is restrained/throne-bound and cannot move.
+- He cannot take physical attacks or repositioning actions.
+- He does not cast normal spells from a spell list.
+- Any magical effect he produces should feel like the throne-engine casting through him, not like a wizard choosing spells.
+- His combat presence should come from modest grief/crystal pulses, beam protection, and the Druid titans sustaining him.
+
+When both beams break:
+
+- The crystals binding him fracture.
+- He reaches a clarity/release window.
+- He is no longer protected by the throne-engine.
+- The encounter should pivot toward resolution, mercy, or the narrow relic-salvation possibility rather than becoming a second full caster phase.
+
+## Speech / Spellcasting Boundary
+
+The King **can speak** throughout the encounter. His speech is important and should carry tragedy, denial, command, flashes of clarity, and imprisonment.
+
+The King should **not** use a normal lich or wizard spell list while bound. If he appears to cast, describe it as involuntary or throne-mediated:
+
+- the throne answers his grief
+- the crystal seams flare when he speaks
+- the beams translate his refusal into pressure
+- the mountain remembers through him
+
+Use simple custom grief/crystal effects instead of copied spell blocks.
 
 ## Legendary Resistance Rule
 
@@ -70,7 +106,7 @@ The Mourning King keeps **reduced, simple legendary actions** so he remains pres
 
 Use **2 legendary actions per round**, not 3.
 
-Legendary actions should be limited to grief/crystal control and battlefield pressure. They should not be full lich spellcasting, necromancy, or raw damage nova tools.
+Legendary actions should be limited to grief/crystal control and battlefield pressure. They should not be full lich spellcasting, necromancy, or raw damage nova tools. While beams remain active, legendary actions are throne-mediated effects, not free personal spellcasting.
 
 Recommended menu:
 
@@ -87,3 +123,15 @@ One creature within 60 feet hears the King's refusal to release. The target must
 The throne-engine brightens through the green beams. Until the start of the King's next turn, the first time the King takes damage, reduce that damage by 5. Use this only while at least one beam remains active.
 
 These options are intentionally modest. The King's main protection remains the beam system and the Druid titans, not legendary resistance or lich-style dominance.
+
+## Normal Turn Guidance
+
+While the beams remain active, the King's own turn should be mostly speech, grief-resonance, and throne-mediated pressure.
+
+Recommended default:
+
+- On his turn, he speaks one short line or memory-fragment.
+- Then he uses one modest grief/crystal effect similar in strength to Crystal Command or Grief Pulse.
+- Do not use high-level lich spells, Power Word effects, Disintegrate-style punishment, or mobile boss tactics.
+
+After both beams break, his normal turn should not become a full offensive phase. The drama should move toward clarity, mercy, and resolution.
