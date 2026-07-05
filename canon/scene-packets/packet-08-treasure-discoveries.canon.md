@@ -33,22 +33,19 @@ Useful discoveries should help the party:
 
 ## Queen-Linked Mourning / Restraint Relics
 
-The slim salvation route should not depend on exactly one mandatory item.
+The slim salvation route is possible but intentionally narrow.
 
-Instead, define a class of acceptable relics:
+Only the following relics count as valid queen-linked mourning/restraint relics for the slim salvation path:
 
-> A valid relic must symbolize mourning without possession — grief that honors the queen instead of dragging her back.
+1. **Soot-Black Prayer Bead**
+2. **Torn White Procession Cloth**
+3. **Queen's Lantern Charm**
 
-Possible valid relics:
+A valid relic symbolizes mourning without possession — grief that honors the queen instead of dragging her back.
 
-- **Soot-Black Prayer Bead**
-- the earlier bead the party found, if later designated queen/mourning-linked
-- torn white procession cloth
-- queen's lantern charm
-- final prayer token
-- a royal mourning restraint seal
+Do not treat unrelated beads, improvised objects, ordinary treasure, or later undefined relics as valid salvation relics unless the user explicitly revises this canon later.
 
-The Soot-Black Prayer Bead is the clearest current candidate.
+The Soot-Black Prayer Bead is the strongest and clearest relic. Torn White Procession Cloth and Queen's Lantern Charm are Chapter 8 backup routes that preserve the narrow salvation possibility without relying on a single missed item.
 
 ---
 
@@ -138,7 +135,7 @@ The Soot-Black Prayer Bead is the clearest current candidate.
 
 ## Relic Use in Final Encounter
 
-During the clarity window, a queen-linked relic may enable the slim salvation route.
+During the clarity window, one of the three valid queen-linked relics may enable the slim salvation route.
 
 Recommended use:
 
