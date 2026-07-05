@@ -13,6 +13,7 @@ Use with:
 - `packet-08-attunement-affliction.canon.md`
 - `packet-08-final-encounter.canon.md`
 - `packet-08-monsters.canon.md`
+- `packet-08-mourning-king-non-undead-rule.canon.md`
 - `packet-08-treasure-discoveries.canon.md`
 - `packet-08-runtime-cues.canon.md`
 
@@ -38,6 +39,7 @@ By the end of Chapter 8, the party should understand:
 - Crystal accumulation reached critical mass and caused an implosion.
 - Dhurak and Veyra became monstrous crystal-earth titans.
 - The Mourning King became an immortal, throne-bound grief-engine sustained by visible green beams from the transformed Druids.
+- The Mourning King is not truly undead; use `packet-08-mourning-king-non-undead-rule.canon.md` for the Divine Sense / detection boundary.
 - Mercy death is the overwhelmingly clean resolution once the beams are broken, though a narrow relic-based salvation possibility may exist.
 
 ---
@@ -53,6 +55,8 @@ Do not make the Stone Druids cartoon villains. They were deceived, self-importan
 Do not make Abbathor the visible final boss. His influence should be present through greed, crystal corruption, and mortal weakness, not through a direct avatar unless later design changes this.
 
 Do not make the mountain itself evil. Stillpeak is the wounded medium, not the villain.
+
+Do not make the Mourning King a straightforward undead/evil lich. His horror is living preservation, grief, denial, and royal will sustained past mercy.
 
 Do not make salvation easy or obvious. Mercy death should feel like the cleanest and most supported ending.
 
@@ -103,9 +107,9 @@ This encounter should foreshadow tremors, crystal flares, restraint pressure, an
 
 ### Final Boss Package
 
-- **Mourning King** — Lich chassis, reskinned and modified as a throne-bound grief-engine.
-- **Dhurak Stonevein, the Fault-Tender** — boosted Stone Golem chassis; tremors, fissures, forced movement, arena damage.
-- **Veyra Deeproot, the Root-Seer** — boosted Stone Golem chassis; crystal roots, psychic pressure, beam reinforcement, restraint.
+- **Mourning King** — Lich chassis for Roll20 convenience only; canonically a non-undead, throne-bound living grief-engine.
+- **Dhurak Stonevein, the Fault-Tender** — ancient court Stone Druid supercharged into a crystal-earth titan; tremors, fissures, forced movement, arena destabilization.
+- **Veyra Deeproot, the Root-Seer** — ancient court Stone Druid supercharged into a crystal-root titan; crystal roots, beam reinforcement, restraint, preservation pressure.
 
 The final boss arena is a round, organic, geode-like ground-zero cavity. The party enters through a surviving royal doorway, but the throne-engine sits at the center of the blast-scar rather than at a far wall.
 
@@ -145,5 +149,6 @@ Recommended files:
 - `packet-08-attunement-affliction.canon.md` — Maelreth/Erny affliction mechanics.
 - `packet-08-final-encounter.canon.md` — boss arena and encounter phases.
 - `packet-08-monsters.canon.md` — threshold encounter and boss stat block modifications.
+- `packet-08-mourning-king-non-undead-rule.canon.md` — Divine Sense / detection boundary and non-undead King rule.
 - `packet-08-treasure-discoveries.canon.md` — queen-linked relics and lore rewards.
 - `packet-08-runtime-cues.canon.md` — spoken-word and pacing cues.
