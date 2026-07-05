@@ -19,6 +19,9 @@ Use with:
 - `packet-08-mourning-king-non-undead-rule.canon.md`
 - `packet-08-treasure-discoveries.canon.md`
 - `packet-08-runtime-cues.canon.md`
+- `packet-08-ending-style-and-relic-patch.canon.md`
+- `packet-08-first-green-heart-artifact.canon.md`
+- `packet-08-playability-patch.canon.md`
 - `packet-08-ideation-handoff.md`
 
 ---
@@ -169,6 +172,9 @@ Recommended files:
 - `packet-08-attunement-affliction.canon.md` — Maelreth/Erny affliction mechanics.
 - `packet-08-final-encounter.canon.md` — boss arena and encounter phases.
 - `packet-08-ending-execution.canon.md` — clarity window, poetic mercy plea, relic salvation handling, refusal/delay pressure, and final release narration.
+- `packet-08-ending-style-and-relic-patch.canon.md` — common-man ending style, final release replacement cues, and King's pendant relic framing.
+- `packet-08-first-green-heart-artifact.canon.md` — First Green Heart artifact stat block and epilogue handling.
+- `packet-08-playability-patch.canon.md` — Beat refinements, crystal mouse interlude, optional night-end point, Grounded Silence, and final boss round script.
 - `packet-08-monsters.canon.md` — threshold encounter and boss stat block modifications.
 - `packet-08-current-stat-blocks-quick-reference.canon.md` — current table-facing monster mechanics and stat block summary.
 - `packet-08-roll20-monster-prep.canon.md` — Roll20 token notes, quick macro text, and setup reminders.
