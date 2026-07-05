@@ -78,7 +78,7 @@ This encounter should **not** be tuned to down a PC unless the party makes unusu
 
 Use this as the default level-8 party version:
 
-- **1 Crystal Tremorborn** — Earth Elemental chassis, reduced/contained.
+- **1 Crystal Tremorborn** — Earth Elemental chassis, reduced/contained, with its normal multiattack replaced by Crystal Slam.
 - **2 Crystal Shardlings** — Magma Mephit chassis, reskinned as glowing crystal-tainted creatures.
 
 If the party is heavily depleted, use only the Crystal Tremorborn.
@@ -91,13 +91,13 @@ Do not add more than 3 creatures unless later balance testing proves the party n
 
 **Base Roll20 Chassis:** Earth Elemental.
 
-**Recommended Adjustment:** Reduce HP to about 75–85 so this remains a light segue fight, not a second boss or resource-tax encounter.
+**Recommended Adjustment:** Reduce HP to about 75–85 so this remains a light segue fight, not a second boss or resource-tax encounter. Replace the Earth Elemental's normal slam multiattack with the single **Crystal Slam** action below.
 
 **Creature Concept:** A hulking, semi-formed creature of cracked stone, green-white crystal, trapped tremor-energy, and grief-beam saturation. It is not a person and not a spirit. It is what happens when the implosion teaches stone to move in pain and the throne refuses to let that pain settle.
 
 **Origin Flavor:** Mostly Dhurak-colored in its tremor behavior, but visibly fed by Veyra-like crystal roots and the Mourning King's green pulse.
 
-**Role:** Bruiser, tremor foreshadowing, hallway breaker, transition alarm.
+**Role:** Tremor foreshadowing, hallway breaker, transition alarm, and debuff bruiser. It should unsettle footing more than it chunks hit points.
 
 **Visual Identity:**
 
@@ -109,7 +109,21 @@ Do not add more than 3 creatures unless later balance testing proves the party n
 
 **Trait — Tremor-Body:** When the Crystal Tremorborn first takes damage each round, nearby loose stone and crystal shake. Creatures within 5 feet must succeed on **DC 13 Dexterity saving throw** or treat the ground within 5 feet of the Tremorborn as difficult terrain until the start of the Tremorborn's next turn.
 
-**Action Reskin:** Use Earth Elemental slam attacks, flavored as crystal-stone impacts.
+**Signature Action — Crystal Slam:** The Tremorborn makes one heavy crystal-stone slam.
+
+Suggested mechanics:
+
+- Melee Weapon Attack using the Earth Elemental's normal attack bonus.
+- Hit: 13 (2d8 + 4) bludgeoning/piercing damage.
+- The target must succeed on a **DC 13 Constitution saving throw** or become **crystal-rattled** until the end of its next turn.
+
+**Crystal-Rattled:** While crystal-rattled, the target cannot take reactions, and the first time it moves before the end of its next turn, it treats the first 10 feet of movement as difficult terrain.
+
+Optional alternate rider if simpler at the table:
+
+- On a failed save, the target is knocked prone instead of crystal-rattled.
+
+Do not use the Earth Elemental's normal two-slam Multiattack for the Crystal Tremorborn unless deliberately escalating because the party is overwhelming the segue encounter.
 
 **Optional Recharge Power — Fault Pulse:** Recharge 5–6. The Tremorborn slams the floor, creating a short fissure.
 
@@ -181,7 +195,8 @@ The Crystal Tremorborn should:
 
 - move toward the densest cluster of characters
 - split the party with difficult terrain rather than chase down isolated targets
-- knock someone prone once if possible
+- use Crystal Slam to unsettle one character's footing or reactions
+- knock someone prone once if using the simpler rider
 - visibly pulse in the direction of the King's Chamber
 - avoid becoming a long slugfest
 
@@ -435,6 +450,7 @@ Recommended balance levers:
 
 - Keep the Implosion Threshold encounter short and light; it is a segue, not a resource-tax fight.
 - Reduce or remove Shardlings if the party is depleted.
+- Use Crystal Tremorborn as a debuff/foreshadowing creature, not an Earth Elemental damage multiattacker.
 - Lower the Mourning King's offensive spell selection.
 - Make beam protection obvious but not absolute.
 - Boost Druid HP without overboosting damage.
