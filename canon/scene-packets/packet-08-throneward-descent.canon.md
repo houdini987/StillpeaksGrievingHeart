@@ -12,6 +12,7 @@
 | Primary Tone | Royal ruin, corrupted trust, crystal saturation, moral pressure, final-act dread. |
 | Structure | Linear final descent. No broad city crawl. |
 | Pre-Boss Encounter | Implosion Threshold: Crystal Tremorborn plus Crystal Shardlings. |
+| Final Boss Arena | Spherical ground-zero crystal cavity; throne-engine at the center. |
 | Final Boss Package | Mourning King, Dhurak Stonevein, Veyra Deeproot. |
 | Chapter Endpoint | The king's sustaining beams are broken and the Mourning King is resolved. |
 
@@ -28,6 +29,8 @@ Everything in Chapter 8 should feel like the mountain is becoming less architect
 The chapter must deliver lore before the final boss. The party should understand what Dhurak, Veyra, and the king became before they enter the King's Chamber.
 
 Near the final chamber, the route should no longer feel safely empty. The grief-engine is close enough that the hallway itself has started producing lesser glowing horrors from tremor-energy, crystal runoff, and failed containment residue.
+
+At the end, the route still reaches a recognizable royal doorway in a surviving wall, but beyond that doorway is not a normal throne room. It is a spherical ground-zero cavity, as if the crystal energy ignited in a supernova-like burst and left the king, his throne, and the two transformed Druids suspended at the center of the scar.
 
 ---
 
@@ -62,7 +65,7 @@ Packet 8 should use a controlled linear footprint:
 3. **Druid-Centric Reveal** — hidden tremor truth and Abbathor-touched corruption.
 4. **Mining Decree / Greed Spiral** — king's culpability and deeper mining orders.
 5. **Implosion Threshold** — transformation, containment failure, evacuation crisis, and mandatory threshold encounter.
-6. **King's Chamber / Crystal Boss Arena** — final encounter.
+6. **King's Chamber / Crystal Boss Arena** — spherical ground-zero cavity and final encounter.
 
 Do not build a sprawling royal complex.
 
@@ -74,7 +77,7 @@ Increase crystal saturation every beat.
 - Middle: crystal growths interrupt records and reliefs.
 - Late: crystal roots overwrite rooms, stairs, and memory surfaces.
 - Threshold: the crystal corruption produces lesser glowing creatures from the ruined hallway itself.
-- Final: the King's Chamber is a crystal engine with throne, beams, bosses, and floor all connected.
+- Final: the King's Chamber is a spherical crystal-engine cavity with throne, beams, bosses, curved walls, and radial blast scars all centered on one ignition point.
 
 ### Lore Delivery
 
@@ -102,7 +105,7 @@ Chapter 8 should move through escalating culpability:
 4. The party learns the tremor was secretly induced.
 5. The party learns the king's denial enabled deeper mining.
 6. The party sees the implosion's aftermath and fights the lesser horrors produced near the epicenter.
-7. The party fights the grief-engine those choices created.
+7. The party fights the grief-engine at the center of the spherical ground-zero cavity those choices created.
 
 ### Reveal Boundary
 
@@ -119,6 +122,12 @@ Do not over-signal salvation during Chapter 8 exploration. The Torn White Proces
 Chapter 8 has one mandatory pre-boss encounter and one final boss encounter.
 
 Do not add wandering monsters or final-arena minions by default. The Implosion Threshold encounter exists to make the epicenter feel contaminated and alive, not to drain the party before the finale.
+
+### Final Arena Geometry Boundary
+
+The final boss chamber is not a rectangular throne room.
+
+The party enters through a surviving royal doorway/wall, but the doorway opens into a cavernous round chamber: a spherical ground-zero cavity where the crystal energy ignited. The king, throne, Dhurak, and Veyra are positioned near the center, not at a far wall.
 
 ---
 
@@ -371,12 +380,15 @@ Use detailed file: `packet-08-final-encounter.canon.md`.
 
 Required elements:
 
-- The Mourning King locked into his throne's crystal embrace.
-- Dhurak Stonevein on one side of the arena.
-- Veyra Deeproot on the other side.
-- A glowing green beam from each Druid titan into the king.
-- All three bosses active from the start.
-- Maelreth and Erny's over-attunement affliction at full intensity.
+- The royal doorway and surviving wall still exist at the chamber edge.
+- Beyond that doorway is a cavernous spherical ground-zero chamber, not a traditional rectangular throne room.
+- The spherical cavity should feel like the blast scar of a crystal supernova.
+- The Mourning King is locked into his throne's crystal embrace at or near the exact center of the chamber.
+- Dhurak Stonevein stands on one side of the central throne-engine.
+- Veyra Deeproot stands on the other side of the central throne-engine.
+- A glowing green beam from each Druid titan burns into the king.
+- All three bosses are active from the start.
+- Maelreth and Erny's over-attunement affliction is at full intensity.
 - Destroying each Druid weakens the king and reduces affliction pressure.
 - Destroying both beams creates the king's clarity window.
 - Primary resolution: mercy death.
@@ -384,11 +396,17 @@ Required elements:
 
 **Entry Read-Aloud:**
 
-> The King's Chamber is no longer a chamber.
+> The royal doorway still exists.
 >
-> It is a crystal wound with walls.
+> The room beyond it does not.
 >
-> The throne stands at the far end, half-buried in green light. Crystal ribs curl around it like a cage grown from the mountain's own bones.
+> The threshold opens into a vast round hollow, as if the heart of the mountain once ignited and blew the stone outward in every direction.
+>
+> The walls, floor, and ceiling curve together into one enormous spherical wound. Royal reliefs bend along the inner surface. Dead lamps hang fused in crystal-glass. Radial scars of green-white light stretch away from the center like the frozen remains of a supernova.
+>
+> At that center stands the throne.
+>
+> Crystal ribs curl around it like a cage grown from the mountain's own bones.
 >
 > Inside that embrace sits the king.
 >
@@ -396,7 +414,7 @@ Required elements:
 >
 > To his left, a towering crystal-stone giant turns, fault-lines glowing through its body.
 >
-> To his right, another rises from rootlike crystal growths, its body threaded into the floor.
+> To his right, another rises from rootlike crystal growths, its body threaded into the central floor.
 >
 > From each monster, a green beam burns into the king.
 >
@@ -434,6 +452,7 @@ Recommended discovery categories:
 - Critical mass transformed the Druids and sustained the king.
 - The beams visibly sustain the Mourning King.
 - The Implosion Threshold has produced lesser glowing crystal-tremor creatures near the epicenter.
+- The King's Chamber is a spherical ground-zero cavity with the final engine at its center.
 - Mercy death is the primary clean ending.
 
 ### Must-Avoid
@@ -443,3 +462,4 @@ Recommended discovery categories:
 - Do not imply the mountain itself is evil.
 - Do not make salvation easy.
 - Do not add wandering monsters or final-arena minions by default.
+- Do not depict the King's Chamber as a rectangular throne room with the throne at a far wall.
