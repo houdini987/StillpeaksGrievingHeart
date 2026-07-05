@@ -4,9 +4,20 @@
 
 This file is the final-draft canon overview for Scene Packet 7 / Chapter 7: **Bridgeward Way**.
 
-It is intentionally segmented from the detailed Witness Halls, Queen's Bridge, monster, and treasure files to avoid the file-size bloat problem encountered with Packet 6.
+It is intentionally segmented from the detailed Witness Halls, Queen's Bridge, monster, treasure, spoken-word, and bridge-truth files to avoid the file-size bloat problem encountered with Packet 6.
 
-This file establishes the chapter arc, reveal boundaries, intended endpoint, and major story beats. Detailed room keys, maps, encounter mechanics, and treasure should live in separate Packet 7 supplement files.
+This file establishes the chapter arc, reveal boundaries, intended endpoint, and major story beats. Detailed room keys, maps, encounter mechanics, and treasure live in separate Packet 7 supplement files.
+
+Use with:
+
+- `packet-07-bridgeward-way.canon.md`
+- `packet-07-witness-halls.canon.md`
+- `packet-07-queens-bridge.canon.md`
+- `packet-07-monsters.canon.md`
+- `packet-07-treasure-discoveries.canon.md`
+- `packet-07-spoken-word-runtime-cues.canon.md`
+- `packet-07-current-state-patch.canon.md`
+- `packet-07-bridge-truth-refinement.canon.md`
 
 ---
 
@@ -18,18 +29,18 @@ The chapter's central promise:
 
 **The party does not merely discover where the queen died. They physically cross the place where the mountain learned to grieve.**
 
-Chapter 7 should reveal the emotional origin wound more clearly than Packet 6, but it should not solve the campaign mystery.
+Chapter 7 should reveal the emotional origin wound more clearly than Packet 6, but it should not solve the campaign mystery and should not function as the grand finale. Chapter 8 is the finale.
 
-By the end of the chapter, the party should understand:
+By the end of Chapter 7, the party should understand:
 
 - The route from Exodus Landing leads through Bridgeward Way toward the heart of the dwarven city.
 - Stillpeak was a functioning dwarven kingdom/city, not a purpose-built dungeon.
-- The city is now empty and lifeless except for the cursed pulsing crystals and memory-bound spirits.
+- The city is now empty and lifeless except for cursed pulsing crystals and memory-bound spirits.
 - The bridge was a sacred/civic crossing tied to a religious or royal procession.
 - The queen fell from the bridge because of a tremor.
 - The fall was witnessed and catastrophic.
 - In the immediate aftermath, dwarves scattered in all directions: some to warn the king, some to reach the cavern bottom, some to preserve order, and some to pray or silence grief.
-- The path beyond the bridge eventually leads down toward the throne room and a future confrontation with the king.
+- The path beyond the bridge eventually leads down toward the throne room and the Chapter 8 confrontation.
 
 ---
 
@@ -45,8 +56,18 @@ Do not yet state plainly:
 - the final solution for breaking the king's attunement
 - the full reactivation timeline
 - whether the king is villain, victim, or both
+- that Dhurak Stonevein and Veyra Deeproot secretly induced the tremor
+- Abbathor's involvement in the hidden cause
 
 The chapter should shift the question from **what happened?** to **what did the king's grief become?**
+
+---
+
+## Chapter 7 / Chapter 8 Truth Boundary
+
+Chapter 7 presents the public and witness-facing truth: the queen fell during a sudden tremor, and no ordinary witness, bridge spirit, city-dweller, or memory-echo saw sabotage, ritual magic, Dhurak, Veyra, Abbathor, or any visible attacker.
+
+`packet-07-bridge-truth-refinement.canon.md` preserves the deeper Chapter 8 truth: the bridge memory was honest but incomplete, and the tremor was secretly induced. This must not be exposed in Chapter 7 runtime unless the user explicitly asks for full-arc design context.
 
 ---
 
@@ -74,19 +95,23 @@ Geomantic concepts may remain part of the broader campaign, but the Chapter 7 br
 
 Keep Chapter 7 segmented.
 
-Recommended files:
+Current Packet 7 files:
 
-- `packet-07-bridgeward-way-overview.canon.md` — this chapter overview and reveal boundary file.
+- `packet-07-bridgeward-way-overview.canon.md` — chapter overview and reveal boundary file.
+- `packet-07-bridgeward-way.canon.md` — main Chapter 7 scene packet.
 - `packet-07-witness-halls.canon.md` — compact dungeon before the bridge.
 - `packet-07-queens-bridge.canon.md` — bridge set piece, crossing structure, spirit scenes, and Hollow Below trigger.
 - `packet-07-monsters.canon.md` — monster stat blocks and encounter packages.
 - `packet-07-treasure-discoveries.canon.md` — rewards, discoveries, and optional item drops.
+- `packet-07-spoken-word-runtime-cues.canon.md` — supplemental live narration and pacing cues.
+- `packet-07-current-state-patch.canon.md` — current-state and Roll20 prep clarifications.
+- `packet-07-bridge-truth-refinement.canon.md` — hidden Chapter 8 truth boundary.
 
 Recommended map footprint:
 
 1. Bridgeward Threshold / Empty City Overlook — scenic, not complex.
 2. Witness Halls — compact playable dungeon, 4–5 keyed areas.
-3. Queen's Bridge — major set-piece map.
+3. Queen's Bridge — major set-piece map, continuous but damaged.
 4. Far-Side Mourning Threshold — small closing scene/map.
 
 Do not build a sprawling city crawl. The empty city should feel vast because it is seen and understood, not because every building is searchable.
@@ -218,9 +243,9 @@ The party witnesses the queen's fall in layered spirit-scenes while crossing the
 
 The queen fell because of a tremor.
 
-This should be unambiguous. The bridge memory must not imply assassination, betrayal, sabotage, or enemy attack.
+This should be unambiguous in Chapter 7. The bridge memory must not imply visible assassination, open betrayal, battlefield attack, or enemy action.
 
-The tragedy was accidental, witnessed, sacredly catastrophic, and immediately connected to the king's grief.
+The tragedy was experienced by witnesses as accidental, sacredly catastrophic, and immediately connected to the king's grief. The deeper cause of the tremor is reserved for Chapter 8.
 
 ### Spirit-Scene Structure
 
@@ -256,7 +281,7 @@ The mood is solemn, formal, and reverent, not fearful.
 
 The mountain shifts suddenly.
 
-The bridge lurches. The queen loses footing or the stone gives way beneath her. The fall must read as geologic accident.
+The bridge lurches. The queen loses footing or the stone gives way beneath her. The fall must read as a geologic disaster to the witnesses.
 
 **Spoken Cue:**
 
@@ -414,7 +439,7 @@ The party should end the chapter knowing:
 - the queen fell from the bridge because of a tremor
 - the event was witnessed during a sacred/civic procession
 - the immediate aftermath scattered dwarves toward the throne, toward the cavern bottom, and into panic/mourning
-- the path ahead eventually leads downward toward the throne room and a confrontation with the king
+- the path ahead eventually leads downward toward the throne room and the Chapter 8 confrontation
 
 The chapter should not continue into the throneward descent or throne room. Save those for Chapter 8.
 
@@ -426,17 +451,6 @@ The chapter should not continue into the throneward descent or throne room. Save
 - Do not introduce geomancer-led explanations in Chapter 7.
 - Do not reveal the final grief-source solution.
 - Do not reveal the king's immortality yet.
+- Do not reveal the hidden induced-tremor cause yet.
 - Do not let the Hollow Below become the meaning of the bridge; it is an opportunistic tenant, not the source wound.
-- Do not make the queen's fall ambiguous. The tremor caused it.
-
----
-
-## Open Build Items
-
-Remaining Packet 7 files to draft:
-
-- `packet-07-witness-halls.canon.md`
-- `packet-07-queens-bridge.canon.md`
-- `packet-07-treasure-discoveries.canon.md`
-
-These files should follow this overview and preserve the reveal boundaries above.
+- Do not make the queen's fall ambiguous. Chapter 7 must show that the witnessed fall happened because of a tremor.
