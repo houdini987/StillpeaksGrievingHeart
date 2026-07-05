@@ -39,6 +39,15 @@ This is not a replacement for the canon files. It is a compact handoff index of 
 - `canon/scene-packets/packet-07-treasure-discoveries.canon.md`
   - Chapter 7 symbolic discoveries and modest rewards.
 
+- `canon/scene-packets/packet-07-spoken-word-runtime-cues.canon.md`
+  - Spoken-word cues for Chapter 7 runtime.
+
+- `canon/scene-packets/packet-07-current-state-patch.canon.md`
+  - Current-state, Roll20 prep, bridge-continuity, and level-8 assumptions.
+
+- `canon/scene-packets/packet-07-bridge-truth-refinement.canon.md`
+  - Preserves Chapter 7's witness-facing tremor truth while setting up the hidden Chapter 8 induced-tremor reveal.
+
 - `canon/CANON_MANIFEST.md`
   - Packet 7 files indexed.
 
@@ -56,6 +65,8 @@ Chapter 7 runs:
 
 The party should end Chapter 7 after crossing the Queen's Bridge and receiving a short far-side scene pointing toward throneward descent / Chapter 8.
 
+Chapter 7 is not the grand finale. It is the penultimate bridge/revelation chapter. Chapter 8 is the grand finale.
+
 ---
 
 ## Key Story Decisions
@@ -70,7 +81,9 @@ The party should end Chapter 7 after crossing the Queen's Bridge and receiving a
   - failed rescue
   - queen falling too deep to recover
   - immediate aftermath scattering
-- The queen's fall was caused by a tremor, not murder, betrayal, enemy attack, or sabotage.
+- In Chapter 7, the queen's fall is revealed as a witnessed tremor event, not visible murder, open betrayal, enemy attack, or visible sabotage.
+- The deeper Chapter 8 truth is that the tremor was secretly induced by Dhurak Stonevein and Veyra Deeproot through Abbathor-touched crystal corruption.
+- No normal bridge witness, spirit, city-dweller, or ordinary memory-echo knows the hidden cause.
 - Dwarves scatter immediately after the fall:
   - some to warn the king
   - some to rush toward the cavern bottom with ropes/lanterns
@@ -98,6 +111,7 @@ Do **not** reveal yet:
 - Full reactivation timeline.
 - Whether the king is villain, victim, or both.
 - Any geomancer-led explanation for the bridge tragedy.
+- Dhurak Stonevein, Veyra Deeproot, Abbathor, or the hidden induced-tremor truth.
 
 ---
 
@@ -161,19 +175,22 @@ Current segmentation is intentional:
 - Queen's Bridge
 - monsters
 - treasure/discoveries
+- spoken-word cues
+- current-state patch
+- bridge-truth refinement
 - this handoff
 
 ---
 
 ## Map / Image Planning Notes
 
-After this ideation pass, likely next step is map/image planning.
+Map/image work may still be needed, but do not assume all assets are missing. Use the user's current Roll20 state as the runtime source of truth.
 
 Expected Chapter 7 map footprint:
 
 1. Bridgeward Threshold / Empty City Verge — scenic, small or handout-like.
 2. Witness Halls — compact 4–5 area dungeon map.
-3. Queen's Bridge — major set-piece tactical map.
+3. Queen's Bridge — major set-piece tactical map; continuous but damaged, not broken into disconnected spans.
 4. Far-Side Mourning Threshold — small closing scene or map inset.
 
 Use prior visual standards:
@@ -198,10 +215,12 @@ Likely remaining Chapter 7 work:
 4. Optional print-friendly DM packet later, once maps and final tweaks are done.
 5. Decide whether Packet 7 should be marked Live canon after review/play readiness.
 
+Chapter 8 remains the grand finale and should receive its own ending/alternate-ending review separately.
+
 ---
 
 ## New Chat Resume Prompt
 
 Suggested starting prompt for the next ideation chat:
 
-> Load bootstrap. We are continuing Chapter 7 / Packet 7 ideation for Stillpeak's Grieving Heart. Read the Packet 7 files from the manifest, especially `packet-07-ideation-handoff.md`, `packet-07-bridgeward-way.canon.md`, `packet-07-witness-halls.canon.md`, `packet-07-queens-bridge.canon.md`, and `packet-07-monsters.canon.md`. We are likely moving into map/image planning and Roll20 prep, while preserving the segmented file strategy.
+> Load bootstrap. We are continuing Chapter 7 / Packet 7 ideation for Stillpeak's Grieving Heart. Read the Packet 7 files from the manifest, especially `packet-07-ideation-handoff.md`, `packet-07-bridgeward-way.canon.md`, `packet-07-witness-halls.canon.md`, `packet-07-queens-bridge.canon.md`, `packet-07-monsters.canon.md`, `packet-07-current-state-patch.canon.md`, and `packet-07-bridge-truth-refinement.canon.md`. We are likely moving into map/image planning and Roll20 prep, while preserving the segmented file strategy and remembering that Chapter 8 is the grand finale.
