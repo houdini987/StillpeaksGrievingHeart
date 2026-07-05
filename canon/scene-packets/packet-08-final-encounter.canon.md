@@ -78,29 +78,32 @@ Suggested cue:
 
 The King's Chamber is no longer a normal royal chamber.
 
-The party still enters through a recognizable royal doorway set into a wall, but that doorway does not lead into a conventional rectangular room. It opens into a vast spherical cavern: the ground-zero cavity where the crystal energy ignited generations ago.
+The party still enters through a recognizable royal doorway set into a surviving wall, but that doorway does not lead into a conventional rectangular room. It opens into a warehouse-sized spherical cavern: the ground-zero cavity where the crystal energy ignited generations ago.
 
-The chamber should feel like the interior scar of a magical supernova. The original royal architecture was blown outward, swallowed, and vitrified into a near-round hollow. Broken wall segments, royal relief fragments, dead lamp housings, and floor patterns remain only as curved remnants fused into the sphere's inner surface.
+Think of the space as the inside of a vast geode rock rather than a perfect architectural sphere. The cavity is round in the way a natural crystal pocket is round: organic, jagged, uneven, and enclosing. The original royal architecture was blasted outward, swallowed, and vitrified into the crystal shell. Broken wall segments, royal relief fragments, dead lamp housings, and floor patterns remain only as warped remnants fused into the inner geode surface.
 
-At the center of the sphere, the throne, the Mourning King, Dhurak, and Veyra form the final engine.
+The chamber should still feel like the interior scar of a magical supernova, but not like a designed circular arena. The radial lines are natural crystal scars, blast fractures, and growth seams, not clean tactical lanes or concentric rings.
+
+At the center of the geode-like cavity, the throne, the Mourning King, Dhurak, and Veyra form the final engine.
 
 Features:
 
 - a royal doorway / threshold set into surviving wall stone
-- beyond it, a cavernous spherical chamber rather than a traditional room
-- throne and Mourning King at or near the exact center of the sphere
+- beyond it, a cavernous round geode-like chamber rather than a traditional room
+- throne and Mourning King at or near the center of the crystal cavity
 - Dhurak Stonevein and Veyra Deeproot positioned to either side of the central throne-engine
 - one glowing green beam from Dhurak to the king
 - one glowing green beam from Veyra to the king
-- radial crystal scars like a frozen supernova blast pattern
-- curved walls, ceiling, and floor fused into one round cavity
-- broken royal reliefs bent along the sphere's inner surface
+- jagged crystal growths covering the curved inner shell like the inside of a massive geode
+- organic radial crystal scars and blast fractures from the original ignition point
+- uneven curved walls, ceiling, and floor fused into one enclosing cavity
+- broken royal reliefs bent, buried, or half-visible along the geode surface
 - dead lamps and old royal architecture vitrified into crystal-glass
-- thick crystal roots, ribs, and veins radiating from the central throne
+- thick crystal roots, ribs, and veins growing irregularly from the central throne
 - unstable cracks and pulse lines aimed inward and outward from the center
 - queen-linked remnants near the central throne-engine or trapped in curved crystal walls
 
-The arena should be visually readable in Roll20: one round/spherical boss space, three central boss anchors, and obvious beam lines. Do not place the throne at the far end or back wall; the central engine is the point of the room.
+The arena should be visually readable in Roll20: one round/organic boss space, three central boss anchors, and obvious beam lines. Do not place the throne at the far end or back wall; the central engine is the point of the room. Do not draw perfect concentric rings unless later map work deliberately chooses that abstraction.
 
 ---
 
@@ -110,9 +113,11 @@ The arena should be visually readable in Roll20: one round/spherical boss space,
 >
 > The room beyond it does not.
 >
-> The threshold opens into a vast round hollow, as if the heart of the mountain once ignited and blew the stone outward in every direction.
+> The threshold opens into a vast round hollow, like the inside of a geode large enough to hold a warehouse.
 >
-> The walls, floor, and ceiling curve together into one enormous spherical wound. Royal reliefs bend along the inner surface. Dead lamps hang fused in crystal-glass. Radial scars of green-white light stretch away from the center like the frozen remains of a supernova.
+> The walls, floor, and ceiling curve together into one enormous crystal wound. Not smooth. Not built. Jagged growths crowd the inner surface, catching green-white light in a thousand broken points.
+>
+> Royal reliefs bend and vanish beneath the crystal shell. Dead lamps hang fused in glassy mineral. Irregular scars of light stretch away from the center like the frozen remains of a supernova.
 >
 > At that center stands the throne.
 >
@@ -255,7 +260,7 @@ Read-Aloud:
 
 > The second beam snaps.
 >
-> For the first time since you entered, the spherical chamber is not humming.
+> For the first time since you entered, the geode chamber is not humming.
 >
 > The king gasps.
 >
@@ -360,10 +365,10 @@ Use sparingly; the three-boss package is already heavy.
 
 Optional hazards:
 
-- **Crystal Pulse Line:** 15-foot line, DC 14 Dexterity save or 2d6 force/psychic damage.
+- **Crystal Pulse Line:** irregular 15-foot crystal scar, DC 14 Dexterity save or 2d6 force/psychic damage.
 - **Green Beam Flare:** A creature crossing a beam makes DC 15 Constitution save or takes 2d8 radiant/necrotic-flavored crystal damage and is pushed 10 feet.
 - **Crystal Root Snare:** Difficult terrain; DC 14 Strength or Acrobatics to escape if restrained.
-- **Falling Shards:** Initiative count 20, one 10-foot area becomes dangerous terrain.
+- **Falling Shards:** Initiative count 20, one 10-foot area beneath the jagged geode ceiling becomes dangerous terrain.
 
 Avoid overloading the fight with too many hazards unless the party is overwhelming the bosses.
 
@@ -393,16 +398,18 @@ Dhurak and Veyra use Stone Golem chassis for Roll20 convenience, but should be b
 King's Chamber map should include:
 
 - surviving royal doorway / entry threshold at the chamber edge
-- round/spherical ground-zero arena footprint
-- throne / king anchor at or near the exact center
+- round organic geode-like ground-zero arena footprint, not a perfect circle if avoidable
+- throne / king anchor at or near the center of the crystal cavity
 - Dhurak and Veyra positioned to either side of the central throne-engine
-- visible beam lanes converging on the king
-- radial crystal scars and pulse lines like a frozen supernova
+- visible beam lines converging on the king
+- jagged crystal shell texture like the inside of a massive geode
+- organic radial scars, growth seams, and pulse fractures from the original ignition point
 - curved wall/floor/ceiling feel, even in top-down Roll20 form
-- crystal roots and difficult terrain radiating from the center
-- cracked royal floor patterns bent or broken by the spherical blast-scar
+- crystal roots and difficult terrain growing irregularly from the center
+- cracked royal floor patterns bent, buried, or broken by the geode blast-scar
 - dead lamps swallowed by crystal-glass along the curved perimeter
-- possible queen relic point near the central throne-engine or side of the spherical wall
+- possible queen relic point near the central throne-engine or side of the geode wall
+- no clean concentric rings by default
 - no far-end/back-wall throne placement
 - no baked labels
 - no baked grid
