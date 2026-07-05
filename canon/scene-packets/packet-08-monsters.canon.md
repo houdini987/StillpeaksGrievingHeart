@@ -11,6 +11,8 @@ Packet 8 now contains two monster layers:
 
 Do not add wandering monsters, side-combat rooms, or extra final-arena minions unless later design explicitly changes this canon.
 
+For the current table-facing stat-block summary, also use `packet-08-current-stat-blocks-quick-reference.canon.md`.
+
 ---
 
 ## Difficulty Target
@@ -23,7 +25,8 @@ The fight can swing dangerous fast if the party tunnels the king, ignores the be
 
 Do not chase lethality by simply inflating raw damage. The final fight already has multiple pressure systems:
 
-- three active bosses
+- two active Druid titan bosses
+- a throne-bound King vessel protected by beams and Druid interception
 - beam protection
 - bowl-slope terrain
 - Dhurak tremor displacement
@@ -35,15 +38,15 @@ Do not chase lethality by simply inflating raw damage. The final fight already h
 
 ## Locked Boss Package
 
-Final encounter bosses:
+Final encounter creatures / objectives:
 
-1. **The Mourning King** — Lich chassis, modified as a throne-bound grief-engine.
+1. **The Mourning King** — non-undead, throne-bound living vessel/battery. He is inert during combat while beams remain active and is protected by the Druid titans.
 2. **Dhurak Stonevein, the Fault-Tender** — ancient court Stone Druid supercharged into a crystal-earth titan; tremor/fault specialist.
 3. **Veyra Deeproot, the Root-Seer** — ancient court Stone Druid supercharged into a crystal-root titan; restraint/preservation specialist.
 
 Roll20 setup principle:
 
-Use common 5e Monster Manual-style chassis to save prep time, but do **not** let the chassis define the fiction. Dhurak and Veyra are primarily corrupted elder Stone Druids from the king's court, empowered by centuries of crystal energy. Stone Golem or similar stat blocks are only scaffolding for durability, AC, saves, and Roll20 convenience.
+Use common 5e Monster Manual-style chassis to save prep time, but do **not** let the chassis define the fiction. Dhurak and Veyra are primarily corrupted elder Stone Druids from the king's court, empowered by centuries of crystal energy. Stone Golem or similar stat blocks are only scaffolding for durability, AC, saves, and Roll20 convenience. The Mourning King may use lich chassis numbers only if needed for convenience, but do not import lich identity, undead type, spellcasting, legendary actions, or legendary resistance.
 
 ---
 
@@ -59,14 +62,14 @@ These creatures are **mixed final-engine runoff**, not servants of a single boss
 
 - **Dhurak's tremor/fault corruption** — cracked stone, fissures, unstable floor, forced movement.
 - **Veyra's crystal-root containment** — binding growths, preservation pressure, restraint imagery.
-- **The Mourning King's grief-engine** — green beam saturation, refusal of release, psychic mourning pressure.
+- **The Mourning King's vessel-engine** — green beam saturation, refusal of release, psychic mourning pressure.
 
 This encounter should:
 
 - make the throneward approach feel contaminated and alive
 - foreshadow Dhurak's tremor/fissure mechanics
 - foreshadow Veyra's restraint/root mechanics
-- foreshadow the Mourning King's grief-beam saturation without explaining it
+- foreshadow the Mourning King's beam saturation without implying he is freely commanding it
 - show that the green energy is producing lesser horrors before the party sees its source
 - teach the party the crystal-tremor visual language before the final arena
 - transition into the final fight rather than drain the party
@@ -225,54 +228,26 @@ Suggested cue:
 
 ## The Mourning King
 
-**Base Roll20 Chassis:** Lich
+The Mourning King is **not** an active monster stat block during the beam phase.
 
-**Creature Concept:** Immortal dwarven king sustained by Abbathor-touched crystal resonance and green beams from Dhurak and Veyra.
+Use `packet-08-mourning-king-non-undead-rule.canon.md` and `packet-08-current-stat-blocks-quick-reference.canon.md` as the controlling canon for him.
 
-**Type Adjustment:** Undead or unique undead/construct-adjacent monarch. Exact type may be chosen for Roll20 convenience.
+Current monster-facing summary:
 
-**Role:** Central boss, grief-engine, legendary controller, tragic clarity figure.
+- He is not truly undead.
+- He is not a straightforward evil aura.
+- He is fastened to the throne and held prisoner by the throne-engine.
+- He is the living vessel/battery/grief-focus that Dhurak and Veyra are using and protecting.
+- He is not commanding the Druids.
+- He takes no normal combat turns while beams remain active.
+- He has **0 legendary actions**.
+- He has **0 legendary resistances**.
+- He does not cast normal lich, wizard, or monarch spells while bound.
+- If a party member attacks him while one or more Druid beams remain active, a living Druid titan intercepts or sacrifices itself by default.
 
-### Reskinning Notes
+While beams remain active, the King's table function is objective, vessel, and tragedy — not active caster boss.
 
-The Mourning King is not a normal lich.
-
-Replace standard lich flavor with:
-
-- grief-resonance command
-- crystal throne bindings
-- royal authority turned into compulsion
-- mountain pressure
-- psychic mourning pulses
-- preservation without release
-
-Do not overuse wizardly spell flavor unless it is reskinned through grief, crystal, royal command, or mountain resonance.
-
-### Suggested Spell / Ability Flavor
-
-- **Paralyzing Touch:** crystal grief-lock; the target feels death refused.
-- **Frightening Gaze:** royal mourning command; the target sees the kingdom's collapse.
-- **Disrupt Life:** grief pulse through the chamber.
-- **Legendary Resistance:** green beam reinforcement or throne-crystal refusal.
-- **Legendary Actions:** crystal command, grief pulse, throne flare, memory crush.
-
-### Beam Protection
-
-While green beams remain active, the Mourning King should be heavily protected.
-
-Preferred mechanic:
-
-- While both beams are active, the first 30 damage the king takes each round is absorbed by the beams.
-- While one beam is active, the first 15 damage the king takes each round is absorbed.
-- When both beams break, this protection ends.
-
-Alternative mechanic:
-
-- Resistance to all damage while both beams are active; resistance to nonmagical or selected damage while one beam is active.
-
-### Early Fight Damage Note
-
-Because all three bosses are active from the start, the Mourning King's early turns should lean toward control, fear, psychic pressure, and arena influence rather than maximum lich damage output.
+When both beams break, the encounter should pivot toward clarity, mercy, or the narrow relic-salvation route rather than becoming a second full caster phase.
 
 ---
 
@@ -557,13 +532,13 @@ The only canonized non-boss Packet 8 creatures are the Implosion Threshold creat
 
 Do not add other non-boss monsters to Chapter 8 unless later design explicitly expands the chapter.
 
-The final King's Chamber encounter should not include extra minions by default. It is already heavy with three active bosses.
+The final King's Chamber encounter should not include extra minions by default. It is already heavy with two active Druid titan bosses, an inert vessel objective, beam interception, arena pressure, and attunement backlash.
 
 ---
 
 ## Balance Warning
 
-This final encounter uses three active bosses from the start and follows a mandatory threshold encounter.
+This final encounter uses two active Druid titan bosses, an inert protected King vessel, and follows a mandatory threshold encounter.
 
 For a five-character level 8 party, the full Chapter 8 combat load can become deadly quickly.
 
@@ -578,8 +553,8 @@ Recommended balance levers:
 - Do not give Dhurak or Veyra normal druid spell lists; the green beam consumes their concentration.
 - Give each Druid exactly 1 legendary resistance; do not use it to erase every clever player play.
 - Use beam-concentration reactions sparingly so they add identity without becoming extra turn bloat.
-- Lower the Mourning King's offensive spell selection.
-- Make beam protection obvious but not absolute.
+- Do not give the Mourning King normal turns, spellcasting, legendary actions, or legendary resistance while bound.
+- Make beam protection and Druid interception obvious but not absolute.
 - Boost Druid HP without overboosting damage.
 - Give the party lore/relic advantages before the fight.
 - Let destroying one Druid materially change the fight.
