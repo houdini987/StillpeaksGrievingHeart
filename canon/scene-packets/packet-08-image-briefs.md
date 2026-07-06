@@ -15,7 +15,9 @@ All five images should match the established Stillpeak visual language:
 - dark fantasy Dungeons & Dragons scene art
 - ancient underground dwarven city / royal interior
 - monumental stonework, but damaged and abandoned
-- restrained green-white crystal glow in Chapter 8, with occasional pale blue, rose, or muted yellow echoes only if needed
+- crystal overgrowth that is mineral, organic, and intrusive rather than decorative
+- Chapter 8 active resonance should read as sickly green-white light, especially beams, pulses, draining fragments, and the King's engine
+- the physical crystal masses do not need to be purely green; use the restrained Stillpeak palette of pale rose, cold blue, muted yellow, green-white, and occasional violet/teal mineral tones where appropriate
 - dead lamp infrastructure
 - royal dwarven geometry broken by organic crystal intrusion
 - no bright heroic high-fantasy palette
@@ -55,7 +57,7 @@ The stairs should be wide, formal, and built to make visitors feel small before 
 
 But the order is broken.
 
-Green-white crystal seams split the royal markings, push through corners, crack stair edges, and glow from places that were never meant to hold light. The crystals should look intrusive and wrong rather than decorative.
+Crystal seams split the royal markings, push through corners, crack stair edges, and glow from places that were never meant to hold light. Use the restrained Stillpeak palette, with active resonance leaning green-white but some cold blue, pale rose, muted yellow, or violet mineral glints allowed. The crystals should look intrusive and wrong rather than decorative.
 
 The Queen's Bridge should not be visible in detail, but the image may suggest a darker opening or distant arch behind the party to imply they have just left it.
 
@@ -145,7 +147,7 @@ This image breaks up the lore-heavy middle of the chapter while reinforcing that
 
 ## Core Composition
 
-A royal decree chamber with rows of stone command tablets. The tablets bear royal seals and short carved order fragments, half-buried under green-white crystal growth.
+A royal decree chamber with rows of stone command tablets. The tablets bear royal seals and short carved order fragments, half-buried under intrusive crystal growth. The crystals may carry multiple restrained mineral colors, but the mouse and active resonance should have a green-white inner glow.
 
 Foreground focus: a tiny translucent crystal mouse standing on or beside a cracked decree tablet.
 
@@ -205,12 +207,12 @@ A massive sealed royal doorway stands at the far end of a ruined implosion thres
 
 The doorway should still be recognizably dwarven and royal: heavy stone, formal geometry, royal markings, dead lantern posts, old ceremonial framing.
 
-But the edges are swallowed by green crystal. Thin green light leaks from beneath the door and through cracks around it. The light should feel like a slow heartbeat.
+The edges are swallowed by intrusive crystal overgrowth. The crystal mass itself should not be purely green. Use a restrained Stillpeak mineral palette: pale rose, cold blue, muted yellow, smoky violet, dull teal, and sickly green-white highlights. The **active light** is green-white: thin green-white light leaks from beneath the door and through cracks around it. The light should feel like a slow heartbeat.
 
 The foreground and midground should show the aftermath of the Crystal Tremorborn / Shardling fight:
 
 - broken shard bodies on the floor
-- small green light draining from fragments toward the door
+- small green-white light draining from fragments toward the door
 - cracked containment lines
 - twisted metal braces
 - prayer marks and engineering symbols partly buried in crystal
@@ -223,7 +225,7 @@ The party stands before the sealed doorway, small against it.
 
 - Erny should look ready but burdened.
 - Maelreth should be visibly affected by the pulsing light.
-- Bilbo may be closer to the floor, noticing the draining green lines.
+- Bilbo may be closer to the floor, noticing the draining green-white lines.
 - Alina should be weapon-ready, keeping formation.
 - Sorin should be studying the doorway or listening, with Frost tense if included.
 
@@ -233,6 +235,7 @@ End-of-session cliffhanger. The image should say: stop here if needed, because t
 
 ## Avoid
 
+- Do not make all crystal material monochrome green.
 - Do not reveal the final arena.
 - Do not show silhouettes of the boss monsters through the door.
 - Do not make the doorway clean or intact.
