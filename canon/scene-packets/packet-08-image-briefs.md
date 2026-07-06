@@ -193,52 +193,60 @@ Tiny jump-scare, table laugh, then horror implication.
 
 ---
 
-# 4. Final Royal Doorway / King's Chamber Threshold
+# 4. Ruined Throne Room / Passage Behind the Throne
 
 ## Scene Role
 
 Cliffhanger image for ending the night after Beat 5, or restart image before the final boss session.
 
-This image should preserve the boss reveal while making the party feel that the source is immediately beyond the door.
+This image should preserve the boss reveal while showing that the party has reached the public royal throne room. The actual final arena is deeper in, beyond the old throne, through a private royal passage leading toward the King's chambers / mountain-heart spaces.
 
 ## Core Composition
 
-A massive sealed royal doorway stands at the far end of a ruined implosion threshold chamber.
+A ruined dwarven public throne room fills the image. It should be large, formal, and royal, but broken by the old implosion and long abandonment.
 
-The doorway should still be recognizably dwarven and royal: heavy stone, formal geometry, royal markings, dead lantern posts, old ceremonial framing.
+The old King's throne stands at the far end as the main visual anchor. It is empty. It is cracked, half-swallowed by crystal, and no longer fit for judgment or ceremony.
 
-The edges are swallowed by intrusive crystal overgrowth. The crystal mass itself should not be purely green. Use a restrained Stillpeak mineral palette: pale rose, cold blue, muted yellow, smoky violet, dull teal, and sickly green-white highlights. The **active light** is green-white: thin green-white light leaks from beneath the door and through cracks around it. The light should feel like a slow heartbeat.
+Behind the throne is the important feature: a rear royal doorway, narrow private passage, or dark hall leading deeper into the King's chambers. This passage should feel like it was never meant for crowds.
 
-The foreground and midground should show the aftermath of the Crystal Tremorborn / Shardling fight:
+Green-white active light leaks from the passage behind the throne, not from a generic sealed front door. The light should pulse slowly, like a heartbeat from somewhere deeper.
 
-- broken shard bodies on the floor
-- small green-white light draining from fragments toward the door
-- cracked containment lines
-- twisted metal braces
-- prayer marks and engineering symbols partly buried in crystal
+The throne room itself should show the aftermath of the Crystal Tremorborn / Shardling fight and the old containment disaster:
 
-Do not show the King, Dhurak, Veyra, or the inside of the chamber.
+- broken shard bodies scattered across the throne room floor
+- small green-white light draining from fragments toward the passage behind the throne
+- cracked containment lines crossing the throne room floor
+- twisted metal braces and failed engineering supports
+- prayer marks and royal seals partly buried beneath crystal
+- dead lamp posts and ceremonial throne-room architecture broken by intrusive crystal masses
+
+The physical crystal overgrowth should not be monochrome green. Use a restrained Stillpeak mineral palette: pale rose, cold blue, muted yellow, smoky violet, dull teal, and sickly green-white highlights. The **active light** is green-white.
 
 ## Party Placement
 
-The party stands before the sealed doorway, small against it.
+The party stands in the ruined throne room, facing the empty throne and the passage beyond it.
 
-- Erny should look ready but burdened.
-- Maelreth should be visibly affected by the pulsing light.
-- Bilbo may be closer to the floor, noticing the draining green-white lines.
-- Alina should be weapon-ready, keeping formation.
-- Sorin should be studying the doorway or listening, with Frost tense if included.
+- Erny should look ready but burdened, as if reaching the throne room has moral weight.
+- Maelreth should be visibly affected by the pulsing light from behind the throne.
+- Bilbo may be closer to the floor, noticing the draining green-white lines moving past the throne.
+- Alina should be weapon-ready, keeping formation and watching the private passage.
+- Sorin should be studying or listening toward the passage, with Frost tense if included.
+
+The party should look small inside the throne room, but the empty throne and hidden passage should dominate the scene.
 
 ## Mood
 
-End-of-session cliffhanger. The image should say: stop here if needed, because the final boss deserves a fresh start.
+End-of-session cliffhanger. The image should say: the expected throne room is empty, and the real horror is deeper behind it.
 
 ## Avoid
 
+- Do not show the Mourning King.
+- Do not show Dhurak or Veyra.
+- Do not show boss silhouettes.
+- Do not reveal the geode arena interior.
+- Do not put the final throne-engine in this room.
+- Do not make the old throne occupied.
 - Do not make all crystal material monochrome green.
-- Do not reveal the final arena.
-- Do not show silhouettes of the boss monsters through the door.
-- Do not make the doorway clean or intact.
 - Do not make this an action scene; the fight is over, and the next horror is waiting.
 
 ---
