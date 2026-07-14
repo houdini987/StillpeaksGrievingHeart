@@ -8,44 +8,31 @@ It should always reflect the most recent agreed-upon table state.
 
 ## Location
 
-- Packet: **06 — The Exodus Stair**
-- Segment: **Chain-Lift Void**
-- Position: **After the Chain-Lift Crawler fight; party is in/around the Chain-Lift Void and must stabilize/regroup before continuing toward Exodus Landing / Bridgeward Way**
+- Packet: **07 — Bridgeward Way**
+- Segment: **Queen's Bridge — Near-Side Threshold**
+- Position: **At the final arch / near-side approach overlooking Queen's Bridge, before beginning the bridge crossing set piece**
 
 ---
 
 ## Party Status
 
 - Level: **8 (all members)**
-- Condition: **Recovered from exterior summit hypoxia, cold pressure, and active Mountain Toll burden after short rest in the Last Breath Refuge**
-- Positioning: Party entered Stillpeak, rested, investigated the Last Breath Refuge and Broken Muster Niches, fought ice mephits, then engaged the Chain-Lift Crawler and Shaft Scuttlers in the Chain-Lift Void. Erny fell to the bottom of the shaft during the encounter; confirm next session whether the party has fully regrouped or remains vertically split.
+- Condition: **Regrouped and inside Stillpeak; recovered from exterior summit pressure; no active Mountain Toll burden, summit hypoxia, cold-pressure timer, or Chain-Lift separation**
+- Positioning: The party completed the Chain-Lift Void descent, passed through Exodus Landing, followed Bridgeward Way through the deeper civic interior and Witness Halls, and now stands together at the near-side threshold of Queen's Bridge.
 
 ---
 
 ## Recent Events
 
-- Party opened the concealed dwarven summit door through resonance, with Erny and Maelreth using mountain attunement.
-- Party entered the Last Breath Refuge and learned the summit door was an exit-side egress, not a welcoming entrance.
-- Party completed a short rest in the Last Breath Refuge.
-  - Summit Hypoxia cleared.
-  - Exterior cold pressure cleared.
-  - Current Mountain Toll burden effects cleared for the interior.
-- Party received memory-whispers from the ancient exodus during the rest.
-- Erny studied the survivor slate and recognized it as a family-based survivor accounting.
-- Maelreth studied the colored seam-glow and recognized it as a later resonance symptom, not original dwarven lighting or a clean magical color-code.
-- Party moved into the Broken Muster Niches.
-- Party investigated or discussed the record, wounded, tool, and prayer niches.
-- Erny rolled double natural 20s on a Religion check at the prayer niche and understood that the soot on the queenly relief was protective mourning, not desecration.
-- Party received the warning: **"Do not say her name in the stair. He hears grief before he hears words."**
-- Four ice mephits emerged from cistern/drainage infrastructure and were defeated or resolved.
-- Party reached the Chain-Lift Void.
-- Erny threw a torch down the shaft, revealing movement and the jammed lift platform.
-- Maelreth hit the Chain-Lift Crawler with Eldritch Blasts, revealing it and escalating the shaft resonance.
-- Chain-Lift Crawler and three Shaft Scuttlers were placed on the map.
-- Erny fell to the bottom of the shaft and became separated from the rest of the party at the top.
-- Chain-Lift Crawler was defeated.
-- Crawler salvage was discovered near its nest / the jammed lift platform.
-- Party advances to level 8.
+- Party regrouped after the Chain-Lift Crawler encounter.
+- Erny is no longer vertically separated from the party.
+- Party completed the Chain-Lift Void descent.
+- Party reached and moved through Exodus Landing.
+- Party identified and followed Bridgeward Way.
+- Party passed the Empty City Verge / overlook.
+- Party progressed through the Witness Halls sufficiently to reach the final arch before Queen's Bridge.
+- Exact checks, spirit interactions, encounter details, treasure, and resource changes from this unlogged portion of play were not captured and should not be inferred without DM confirmation.
+- Party reached Queen's Bridge but has not yet begun or completed the crossing set piece.
 
 ---
 
@@ -58,33 +45,34 @@ It should always reflect the most recent agreed-upon table state.
 - Party briefly considered / used rope tethering logic during Shattered Moraine planning, but they were **not tethered** during later timer consequences in the Shifting Lanes.
 - Ice Mephit Squatters were used as an active Packet 6 encounter.
 - Chain-Lift Crawler was used as the main Packet 6 combat set piece.
-- Final disposition of all three Shaft Scuttlers was not fully captured in chat; if tactical precision matters, confirm at next open whether any fled, died, or remain active.
+- Final disposition of the Shaft Scuttlers was not fully captured.
+- Session 07 progression was reconstructed after the fact because the runtime project was not updated at session end.
 
 ---
 
 ## Active Systems
 
-- **Tremorscope:** active and more legible inside Stillpeak; may point toward lower routes, sealed doors, structural resonance, or Bridgeward direction.
-- **Mountain Toll System:** exterior burden pressure is not currently active inside the upper Exodus Stair after the Last Breath Refuge rest.
+- **Tremorscope:** active and increasingly responsive inside Stillpeak.
+- **Mountain Toll System:** inactive inside the mountain unless a later packet explicitly reintroduces it.
 - **Physical Timer:** off.
-- **Summit Hypoxia:** cleared after short rest.
-- **Interior Pressure:** use **Resonance Pulse Track** in unstable interior areas such as the Chain-Lift Void.
-- **Mountain Attunement:** **Erny** and **Maelreth** are attuned to the mountain. Their connection has started to produce headaches / strain during interior resonance events.
+- **Summit Hypoxia:** cleared.
+- **Mountain Attunement:** **Erny** and **Maelreth** remain attuned; their connection is increasingly intrusive near Queen's Bridge.
+- **Queen's Bridge Tremor Memory Track:** not yet active. Start at 0 when the bridge set piece begins.
 
 ---
 
 ## Mountain Attunement Runtime Handling
 
 - Attuned characters: **Erny** and **Maelreth**.
-- In major Packet 6 scenes, each attuned character may gain advantage on one check to interpret or anticipate resonance, including Tremorscope interpretation, Arcana, Religion, Insight, Investigation, Survival, or Perception checks tied to vibration, memory-echoes, unstable stone, directional pulses, the Chain-Lift Void, or the Last Breath Refuge.
-- Present the advantage as clearer reception: sensing pulses before the Tremorscope visibly moves, knowing which seam is about to brighten, feeling a chain shift a heartbeat early, distinguishing memory-echo residue from hostile presence, or reading the mountain's answer through body sensation.
-- Active downside has begun: pressure behind the eyes, hum in the teeth, second heartbeat under the skull, words vibrating through the jaw, and/or the sense that the mountain noticed them noticing it.
-- Do **not** impose standing penalties merely for being attuned unless the party acts recklessly, the attuned character over-opens themselves to the pulse, or the Resonance Pulse Track triggers a major consequence.
-- If disadvantage/cost becomes appropriate, use intrusive effects rather than hard shutdowns: unwanted memory fragments, concentration pressure, false certainty, psychic static, or delayed perception after a major pulse.
+- Their connection now carries more intrusive pressure: headaches, hum in the teeth, a second heartbeat under the skull, unwanted memory fragments, and false certainty.
+- They may still receive clearer resonance information where canon allows, but the approach to Queen's Bridge should feel more dangerous than the upper Exodus Stair.
+- Do not impose standing penalties merely for attunement unless a scene mechanic, reckless action, failed save, or explicit resonance event calls for it.
 
 ---
 
 ## Items / Treasure Gained
+
+Confirmed from Packet 6:
 
 From Ice Mephit nest:
 - 18 gp, 34 sp, 61 cp
@@ -104,47 +92,50 @@ Other Packet 6 discoveries:
 - Resonance Chalk in the Last Breath Refuge, if collected
 - Prayer niche insight: the queenly figure was loved/protected, and her memory/name is dangerous in the stair
 
+Unconfirmed from reconstructed Session 07:
+- Do not assume any optional Witness Halls treasure, relics, consumable use, or encounter drops without DM confirmation.
+
 ---
 
 ## Immediate Next Beat
 
-- **Stabilize and regroup after the Chain-Lift Void fight.**
-- Confirm whether Erny and the rest of the party are still vertically split or have regrouped.
-- Finish the descent through the Chain-Lift Void.
-- Continue toward **Exodus Landing / Bridgeward Way**.
+- Reveal the full Queen's Bridge vista from the final arch.
+- Allow initial observation and investigation.
+- Begin the procession memory.
+- Trigger recognition, crystal flare, and The Hollow Below encounter when the party commits to the span.
+- Run the bridge crossing, Tremor Memory Track, queen-fall revelation, and far-side aftermath.
 
 ---
 
 ## Open Threads
 
-- Complete/regroup from Chain-Lift Void descent.
-- Continue to Exodus Landing / Bridgeward Way.
-- Erny and Maelreth's mountain attunement is useful but increasingly intrusive.
-- The queenly figure is loved/protected and dangerous to name, but the reason remains unrevealed.
-- The lower kingdom, Mourning Seal, immortal king truth, queen death, and final grief-source solution remain unrevealed.
-- Tremorscope remains active and more legible inside the mountain.
-- Final scuttler disposition may need confirmation if tactically relevant.
+- Complete Queen's Bridge.
+- Reveal the queen's fall as the witnesses experienced it: a sudden tremor during a sacred/civic procession.
+- Preserve the hidden truth that Dhurak Stonevein and Veyra Deeproot secretly induced the tremor for Chapter 8.
+- Reach the Far-Side Mourning Threshold.
+- Continue into Packet 8 — Throneward Descent.
+- Erny and Maelreth's mountain attunement remains useful but increasingly dangerous.
+- Tremorscope remains active.
+- Exact Session 07 resource use, optional discoveries, and Witness Halls encounter details remain unconfirmed.
 
 ---
 
 ## DM Notes (Operational)
 
-- Do **not** rewind to the summit door; it is open and the party is inside Stillpeak.
-- Do **not** reapply exterior Mountain Toll, cold pressure, physical timer, or Summit Hypoxia while the party remains in this upper interior refuge/stair context unless a later packet explicitly reintroduces them.
-- Do **not** reveal queen death, immortal king truth, or final grief-source solution yet.
-- Keep the next interaction focused on regrouping from the Chain-Lift Void and transitioning to Exodus Landing / Bridgeward Way.
-- Augment interactions for Erny and Maelreth as mountain-attuned receivers, but remember strain has begun.
+- Do **not** rewind to the Chain-Lift Void, Exodus Landing, Empty City Verge, or Witness Halls unless the user explicitly requests a flashback or retcon.
+- Start the next runtime scene at the near-side Queen's Bridge threshold.
+- The bridge is continuous but damaged, not broken into disconnected spans.
+- Do not reveal the hidden sabotage, Abbathor involvement, immortal king truth, or final grief-source solution during the Chapter 7 bridge memory.
+- The Queen's Bridge crossing, Hollow Below combat, and far-side threshold remain unresolved.
 
 ---
 
 ## Roll20 Prep / Runtime Notes
 
-- Roll20 prepared hostiles for Session 06 included **3 Shaft Scuttlers**, **4 Ice Mephits**, and **1 Chain-Lift Crawler**.
-- Chain-Lift Crawler is defeated.
-- Ice Mephits were used and defeated/resolved.
-- Final Shaft Scuttler status should be confirmed if needed.
-- Prepared ghost NPCs/tokens: **Door-Bracer Spirit** and **Ledger Keeper**.
-- Other Packet 6 ghost options were not prebuilt and should remain narration/social-memory encounters unless combat is forced.
+- Required next map: **Queen's Bridge**, including near-side final arch, continuous damaged span, central fall-scar, open chasm, far-side crystal formations, and far-side mourning threshold.
+- Expected encounter package: **The Hollow Below** and **2 Crystal Shardlings**.
+- Tremor Memory Track begins at 0 when initiative starts.
+- The next maps after Queen's Bridge should cover the route from the far-side threshold through Throneward Descent to the final arena.
 
 ---
 
