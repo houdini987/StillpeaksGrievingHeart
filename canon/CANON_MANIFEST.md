@@ -56,3 +56,10 @@ This file is a navigation and indexing aid only. It helps humans and tools find 
 - `canon/appendices/overall-story-arc.md` — Supporting canon appendix for the locked campaign-level grief-source, dwarven king, queen's death, reactivation timeline, and interior design direction.
 - `canon/appendices/monsters-of-stillpeak.md` — Supporting canon appendix for Stillpeak monster references.
 - `canon/appendices/visual-escalation-model.md` — Supporting canon appendix for visual progression and degradation beyond the Karagvorn Line.
+- `canon/START_HERE.md` — Startup orientation and story spine through Packet 8.
+
+## Operational Files (Not Canon)
+
+- `bootstrap/PARTY_ROSTER.md` — Player characters, players, classes, and attunement pair (reference snapshot; Roll20 is authoritative for live numbers).
+- `assets/ASSET_INDEX.md` — Maps each external map, scene image, portrait, and character sheet (kept in the DM's OneDrive folder, not in git) to its packet and beat.
+- `CLAUDE.md`, `.claude/skills/dm/SKILL.md`, `.claude/skills/ideate/SKILL.md` — Claude Code project instructions and the two mode skills.

@@ -14,3 +14,4 @@ Use this file as the single compact index of durable project lessons. Keep each 
 - LL-010 [Session Access] Do not scan or search for session logs; always use `session-logs/LATEST_SESSION_LOG.md` as the pointer.
 - LL-011 [Table Truth] Do not propose cutting, replaying, or relocating completed table beats; treat completed session-state events as history unless the user explicitly asks to retcon.
 - LL-012 [Handoff] When creating a handoff `.md` file, always index it in `canon/CANON_MANIFEST.md` so bootstrap/canon navigation can surface it.
+- LL-013 [Integrity] Never write placeholder text such as "(remaining content unchanged for brevity)" into a file; every write must contain the complete intended content. (BOOTSTRAP.md lost its Conflict Rules and BEAT contract this way in April 2026.)

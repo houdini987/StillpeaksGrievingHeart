@@ -54,13 +54,10 @@ belongs to Roll20 / live session state unless intentionally promoted back into t
 - `canon/README.md`
 
 ### Live scene packets
-- `canon/scene-packets/packet-01-southwatch-geomantic-observatory.canon.md`
-- `canon/scene-packets/packet-02-cold-pass-to-cinderwatch.canon.md`
-- `canon/scene-packets/packet-03-cinderwatch-frozen-village.canon.md`
-- `canon/scene-packets/packet-04-karagvorn-line-lower-slopes.canon.md`
-- `canon/scene-packets/packet-05-mid-slopes-of-stillpeak.canon.md`
+Packets 01–08 and all packet supplements, patches, and handoffs are listed with exact paths in `canon/CANON_MANIFEST.md`. Use the manifest rather than a hard-coded list here.
 
 ### Supporting canon
+- `canon/appendices/overall-story-arc.md`
 - `canon/appendices/monsters-of-stillpeak.md`
 - `canon/appendices/visual-escalation-model.md`
 
@@ -125,7 +122,7 @@ Stillpeak’s heart pulses with sorrow, and the land responds:
 
 ---
 
-## 5. Story Spine — Current Canon Through Packet 5
+## 5. Story Spine — Current Canon Through Packet 8
 
 This section is the campaign spine for orientation and future packet building.
 
@@ -149,11 +146,20 @@ The ascent becomes an attrition threshold. The mountain now feels actively hosti
 
 By the end of Packet 5, the party has reached and opened the concealed ancient dwarven summit door. The summit is no longer the final destination. It is the threshold into the real mystery.
 
+### Packet 6 — The Exodus Stair
+The summit door was an exit, not an entrance: narrow evacuation infrastructure the dwarves used to flee upward. The party descends from the smallest point of the interior through the Last Breath Refuge, the Broken Muster Niches, and the Chain-Lift Void to Exodus Landing. Exterior pressure (Mountain Toll, cold, hypoxia) releases; the glowing seams are revealed as post-tragedy grief contamination, not dwarven lighting.
+
+### Packet 7 — Bridgeward Way
+From Exodus Landing through the empty dwarven city and the Witness Halls to the Queen's Bridge. The party physically crosses the place where the queen fell during a sacred procession. Chapter 7 shows the witness-facing truth only: a sudden tremor, no visible attacker. The hidden cause is reserved for Chapter 8 (`packet-07-bridge-truth-refinement.canon.md`).
+
+### Packet 8 — Throneward Descent (finale)
+From tragedy into culpability. Records reveal that the king's trusted Stone Druid advisors, Dhurak Stonevein and Veyra Deeproot, corrupted by Abbathor-touched crystal greed, secretly induced the tremor that killed the queen, then exploited the king's grief to push deeper crystal mining until an implosion transformed them into crystal-earth titans. The Mourning King is a living, throne-bound grief-engine sustained by their green beams — **not undead**. The final fight is against the two Druids; breaking both beams opens a clarity window that leads to mercy death or a narrow relic-based salvation.
+
 ---
 
-## 6. Story Spine — Remaining Arc Direction (Binding Guidance for Future Packets)
+## 6. Story Spine — Arc Direction (Original Binding Guidance)
 
-The following direction is the current narrative spine for building the remaining packets.
+The following direction was the narrative spine used to build Packets 6–8. Where it conflicts with Packet 7–8 canon (notably the king's nature and the cause of the queen's fall), the packet canon wins.
 
 ### True campaign objective
 The ultimate goal is for the party to investigate and ultimately put an end to the worsening tremors originating under Stillpeak Mountain.
@@ -172,7 +178,7 @@ The interior environment should feel unstable and warped:
 Visual and spatial effects should shift the party’s sense of scale, direction, and place.
 
 ### True source of the problem
-The party ultimately discovers that the source of the tremors is a bereaved, enraged dwarven undead king.
+The party ultimately discovers that the source of the tremors is a bereaved dwarven king, kept alive past mercy as a throne-bound grief-engine. (Original guidance said "undead"; superseded by `packet-08-mourning-king-non-undead-rule.canon.md`.)
 
 Backstory spine:
 - millennia ago, he lost his queen in a tragic accident
@@ -182,6 +188,8 @@ Backstory spine:
 - his grief and corruption became bound into the mountain’s deep structure
 
 ### Endgame threat
+> **Dropped in Packets 7–8:** the forge/weapon/emergence threat below does not appear in later canon. The final-act threat is the Druid-sustained throne-engine instead. Kept here only as design history.
+
 For centuries he has been preparing an unholy forge.
 
 The forge is constructing a weapon that will allow him to escape his lair and walk among the living outside the mountain.
@@ -208,7 +216,7 @@ Packet 6 onward = interior descent, warped dwarven ruin / mining colony, grief i
 - avoid full exposition too early
 
 ### Reveal pacing guidance
-Do not reveal the undead dwarven king too early through a clean lore dump.
+Do not reveal the Mourning King too early through a clean lore dump.
 
 Prefer this reveal ladder:
 1. environmental evidence
@@ -308,11 +316,9 @@ Preserve:
 
 Current story spine:
 - Packets 1–5 cover the exterior ascent to the concealed ancient dwarven summit door.
-- The summit reveals a hidden opening into a spiral descent chamber.
-- The real mission becomes stopping the worsening tremors from inside Stillpeak.
-- The deeper source is a bereaved dwarven undead king whose grief, rage, and stone-drawing power destroyed an ancient mining establishment.
-- He has spent centuries preparing an unholy forge to create a weapon that will let him emerge into the outer world.
-- The forge construction is the source of the tremors.
+- Packet 6 descends the Exodus Stair; Packet 7 crosses the dead city to the Queen's Bridge, where the queen fell.
+- Packet 8 is the finale: the Stone Druids Dhurak and Veyra secretly caused the queen's fall and now sustain the non-undead Mourning King through green beams; breaking the beams leads to mercy death or narrow relic salvation.
+- The live party position is in `bootstrap/SESSION_STATE.md`, not here.
 
 When building future packets, do not reveal everything at once. Prefer environmental and historical discovery before full exposition.
 

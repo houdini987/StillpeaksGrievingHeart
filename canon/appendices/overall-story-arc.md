@@ -6,6 +6,8 @@ This appendix defines the locked campaign-level story arc for Stillpeak's Grievi
 
 It should be treated as supporting canon for the module's deep-lore spine, especially when designing clues, interior locations, memory fragments, final-act encounters, and resolution logic.
 
+> **Superseded points (Packets 7–8):** This appendix predates the Chapter 8 design. Where it says the queen's fall was a natural tremor with no malice, the hidden truth is now that Stone Druids Dhurak Stonevein and Veyra Deeproot secretly induced it (`canon/scene-packets/packet-07-bridge-truth-refinement.canon.md`, `packet-08-king-and-stone-druids-lore.canon.md`). The king's immortality is sustained by the Druids' green beams, and he is not undead (`packet-08-mourning-king-non-undead-rule.canon.md`). The witness-facing "natural tremor" framing below remains correct for Chapter 7 table presentation. Packet canon wins on any conflict.
+
 ---
 
 ## Core Truth
