@@ -362,7 +362,7 @@ If the party stalls too long, use the refusal/delay pressure cue from `packet-08
 
 After mercy death or successful relic release:
 
-1. Use the plainspoken release cue from `packet-08-ending-style-and-relic-patch.canon.md`.
+1. Use the release read-aloud from `packet-08-ending-execution.canon.md`.
 2. Allow inspection of the King's body and throne.
 3. Reveal the First Green Heart pendant.
 4. If the party identifies it, use `packet-08-first-green-heart-artifact.canon.md`.

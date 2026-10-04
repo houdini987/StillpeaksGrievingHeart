@@ -16,6 +16,7 @@ Use with:
 - `packet-08-attunement-affliction.canon.md`
 - `packet-08-treasure-discoveries.canon.md`
 - `packet-08-runtime-cues.canon.md`
+- `packet-08-ending-execution.canon.md`
 
 ---
 
@@ -441,7 +442,7 @@ Let the party feel progress without making the fight trivial.
 
 Starts when both Druid titans are destroyed.
 
-Both beams broken.
+Both beams broken. Combat ends.
 
 Tone:
 
@@ -449,106 +450,17 @@ Tone:
 - king becomes briefly himself
 - moral resolution window opens
 
-Read-Aloud:
-
-> The second beam snaps.
->
-> For the first time since you entered, the geode chamber is not humming.
->
-> The king gasps.
->
-> Not like a monster.
->
-> Like an old man waking in a room he does not recognize.
->
-> His eyes move across the broken crystal, the shattered giants, the throne that has held him, and the round blast-scar of the chamber around him.
->
-> When he speaks, the mountain is no longer speaking for him.
->
-> "What did I do?"
+Run the clarity window, mercy plea, refusal/delay pressure, mercy death, slim relic salvation, and the release from `packet-08-ending-execution.canon.md`. That file is the single source for ending read-aloud; do not improvise a second version here.
 
 ---
 
-## The King's Plea
+## Resolution Summary
 
-During the clarity window, the king should beg for a quick demise.
+- **Primary resolution — mercy death:** the cleanest and most supported ending.
+- **Slim resolution — relic release:** only the Soot-Black Prayer Bead or Torn White Procession Cloth, used during the clarity window, **Religion, Persuasion, or Arcana DC 18**. Failure collapses back toward mercy death.
+- **Refusal / delay:** the throne begins to pulse again; force a decision rather than allowing indefinite negotiation.
 
-Suggested plea:
-
-> "Do not let me become the mountain again."
->
-> "If there is mercy left in this place, make it swift."
->
-> "I would have kept her from death. Instead I kept death from finishing me."
->
-> "End it. Before the grief remembers how to wear my voice."
-
-Do not over-explain the lore here. The party should already know enough.
-
----
-
-## Resolution Branches
-
-### Primary Resolution — Mercy Death
-
-Mercy death is the cleanest and most supported ending.
-
-If the party kills the king during the clarity window:
-
-- the central throne cracks
-- green light drains out of the radial crystal veins
-- the mountain's grief-pressure begins to release
-- trapped spirits may exhale, bow, or fade
-- the queen's memory may appear briefly as release, not reunion
-
-Suggested cue:
-
-> The king dies like a mortal.
->
-> Not as stone.
-> Not as thunder.
-> Not as a law the mountain must obey.
->
-> Just a grieving man, finally allowed to end.
-
-### Slim Resolution — Relic-Based Salvation
-
-Salvation is possible but narrow.
-
-Only these queen-linked mourning/restraint relics count:
-
-1. **Soot-Black Prayer Bead**
-2. **Torn White Procession Cloth**
-
-The Queen's Lantern Charm does not count for slim salvation, though it may help with attunement/fear pressure.
-
-The relic must be used during the clarity window.
-
-Suggested check structure:
-
-- One character presents or invokes the relic with **Religion, Persuasion, or Arcana DC 18**.
-- Advantage if the party clearly frames the act as release, not restoration.
-- Advantage if Erny or Maelreth helps despite over-attunement echoes.
-- Failure collapses back toward mercy death; it should not create a total campaign dead end.
-
-Possible success result:
-
-- the king is separated from the mountain without immediate killing
-- he becomes mortal, dying naturally shortly afterward or surviving only long enough to bless release
-- Stillpeak begins to return to neutrality
-- the queen is not resurrected
-- the king does not get a happy ending; he gets release from being a catastrophe
-
-### Refusal / Delay
-
-If the party refuses to act during the clarity window or tries to preserve the king indefinitely:
-
-- the crystal remnants begin to pulse again
-- the king panics
-- the grief-engine may attempt to reassert itself
-- the DM may restart a reduced final pressure scene or force a final decision
-
-Do not allow indefinite negotiation to drain the scene.
+Full execution, check modifiers, and read-aloud live in `packet-08-ending-execution.canon.md`.
 
 ---
 

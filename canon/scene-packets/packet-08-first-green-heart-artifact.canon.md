@@ -4,14 +4,27 @@
 
 This supplement is canon for Scene Packet 8 / Chapter 8: Throneward Descent.
 
-It defines the artifact-style statistics, table handling, risks, and epilogue uses for **The First Green Heart**, the green crystal pendant recovered from the Mourning King after his death or full release.
+It is the single authoritative file for **The First Green Heart**, the green crystal pendant recovered from the Mourning King after his death or full release: its name, description, artifact statistics, table handling, risks, and epilogue uses.
 
 Use with:
 
-- `packet-08-ending-style-and-relic-patch.canon.md`
+- `packet-08-ending-execution.canon.md`
 - `packet-08-treasure-discoveries.canon.md`
 - `packet-08-final-encounter.canon.md`
-- `packet-08-ending-execution.canon.md`
+
+---
+
+## Canon Role
+
+The First Green Heart is a mythic-level, campaign-ending artifact. It should feel beyond normal 5e treasure. Because the campaign ends with this party, the item may be wondrous, dangerous, and oversized in implication without needing long-term balance.
+
+It is not ordinary loot, and it is not a repeatable player power source.
+
+Alternate names the DM may use at the table:
+
+- **The King's Green Heart**
+- **The Heart-Seed of Stillpeak**
+- **The First Crystal**
 
 ---
 
@@ -231,3 +244,5 @@ If the players want to keep it, let them. Make the choice feel heavy.
 If they want to destroy, bury, surrender, or seal it, treat that as a meaningful final epilogue decision.
 
 If they want to use it as proof, trophy, bargaining chip, or power source, make clear that the story has already shown where that path leads.
+
+If this party's story ever continues, the First Green Heart should become an epilogue burden, divine charge, sealed artifact, or future campaign problem — not a repeatable player power source.

@@ -320,75 +320,9 @@ Use at initiative count 20 or when pacing needs pressure.
 
 ---
 
-## King's Clarity Window Lines
+## Clarity Window, Mercy, and Release
 
-Use sparingly. Do not monologue.
-
-> "What did I do?"
-
-> "Where is she? No. No, I know. I knew. I would not know."
-
-> "Do not let me become the mountain again."
-
-> "If there is mercy left in this place, make it swift."
-
-> "I would have kept her from death. Instead I kept death from finishing me."
-
-> "End it. Before the grief remembers how to wear my voice."
-
----
-
-## Mercy Death Cues
-
-### If the Party Grants Mercy
-
-> The king dies like a mortal.
->
-> Not as stone.
-> Not as thunder.
-> Not as a law the mountain must obey.
->
-> Just a grieving man, finally allowed to end.
-
-### Mountain Release
-
-> The crystals do not shatter all at once.
->
-> They dim like embers denied air.
->
-> Far away, somewhere above and below you at the same time, the mountain exhales.
-
-### Spirits Release
-
-> The spirits do not cheer.
->
-> They lower their heads.
->
-> Then, one by one, they stop repeating.
-
----
-
-## Slim Salvation Cues
-
-### Relic Presented
-
-> The relic does not blaze.
->
-> It steadies.
->
-> In this room of hunger, that is almost impossible.
-
-### Salvation Success
-
-> The crystal releases him not because it is defeated, but because for one breath he stops asking it to hold him.
-
-### Salvation Failure, Mercy Still Open
-
-> The relic trembles in your hand.
->
-> It is not enough to save him.
->
-> But it is enough for him to understand why he must end.
+The King's clarity-window lines, mercy plea, mercy death, slim salvation cues, and the final release read-aloud live only in `packet-08-ending-execution.canon.md`. Use that file from the moment the second beam breaks.
 
 ---
 

@@ -10,7 +10,7 @@ This is a working handoff, not a replacement for canon. Canon authority remains 
 
 ## Current Design State
 
-Packet 8 is the final interior chapter after Queen's Bridge.
+Packet 8 is the final interior chapter after Queen's Bridge. The party has not reached it yet; they are at the near side of Queen's Bridge in Packet 7 (see `bootstrap/SESSION_STATE.md`).
 
 The chapter path is:
 
@@ -18,8 +18,8 @@ The chapter path is:
 2. Advisor Records
 3. Druid-Centric Reveal
 4. Mining Decree / Greed Spiral
-5. Implosion Threshold
-6. King's Chamber / Crystal Boss Arena
+5. Implosion Threshold (the ruined public throne room)
+6. King's Chamber / Crystal Boss Arena (the geode beyond the passage behind the throne)
 
 The chapter should not become a sprawling city crawl. It is a direct final-act descent from tragedy into culpability.
 
@@ -46,108 +46,62 @@ The mountain itself is wounded, not evil. The final horror is grief, greed, deni
 
 ## Current Final Encounter Model
 
-The final fight is **not** three active bosses anymore.
+- **Dhurak Stonevein** and **Veyra Deeproot** are the two active Druid titan bosses, each with 1 legendary resistance.
+- **The Mourning King** is an inert, throne-bound living vessel protected by the Druids: not undead, not a commander, no turns, no spells, 0 legendary actions, 0 legendary resistances.
+- Attacks on the King while a beam is active are intercepted by a living Druid by default.
+- Erny and Maelreth are over-attuned in the arena (Final Attunement Crisis, Attuned Offense Backlash, Grounded Silence).
 
-Current model:
-
-- **Dhurak Stonevein** and **Veyra Deeproot** are the two active Druid titan bosses.
-- **The Mourning King** is an inert, throne-bound living vessel/battery protected by the Druids.
-- The King is not truly undead, not a clean evil aura, not a commander, not a normal spellcaster, and not a lich boss during combat.
-- He has 0 legendary actions and 0 legendary resistances.
-- Dhurak and Veyra each have 1 legendary resistance.
-- If a party member attacks the King while a Druid beam remains active, a living Druid intercepts/sacrifices itself by default.
-- The beams and Druid posture should make the protection obvious on entry.
-
-Use `packet-08-current-stat-blocks-quick-reference.canon.md`, `packet-08-roll20-monster-prep.canon.md`, and `packet-08-mourning-king-non-undead-rule.canon.md` for current monster handling.
+Use `packet-08-current-stat-blocks-quick-reference.canon.md`, `packet-08-roll20-monster-prep.canon.md`, and `packet-08-mourning-king-non-undead-rule.canon.md` for monster handling.
 
 ---
 
 ## Current Ending Model
 
-When both Druid beams break:
+`packet-08-ending-execution.canon.md` is the single source for the ending. `packet-08-first-green-heart-artifact.canon.md` is the single source for the pendant.
 
-- the throne-engine loses its hold
-- Druid interception ends
-- attunement backlash ends
-- the King reaches a clarity window
-- the ending pivots toward mercy death or narrow relic salvation
-
-Ending Q1 is locked: the King's mercy plea should be **poetic but clear**.
-
-He should not bluntly say "kill me," but the meaning should be unmistakable: he is asking for release.
-
-Use `packet-08-ending-execution.canon.md` for clarity-window execution, poetic mercy plea, slim relic salvation, refusal/delay pressure, and final release narration.
-
----
-
-## Current Canon Files to Read First for Packet 8
-
-Read in this order after the universal bootstrap files:
-
-1. `canon/scene-packets/packet-08-throneward-descent-overview.canon.md`
-2. `canon/scene-packets/packet-08-throneward-descent.canon.md`
-3. `canon/scene-packets/packet-08-king-and-stone-druids-lore.canon.md`
-4. `canon/scene-packets/packet-08-final-encounter.canon.md`
-5. `canon/scene-packets/packet-08-ending-execution.canon.md`
-6. `canon/scene-packets/packet-08-current-stat-blocks-quick-reference.canon.md`
-7. `canon/scene-packets/packet-08-roll20-monster-prep.canon.md`
-8. `canon/scene-packets/packet-08-mourning-king-non-undead-rule.canon.md`
-9. `canon/scene-packets/packet-08-runtime-cues.canon.md`
-10. `canon/scene-packets/packet-08-treasure-discoveries.canon.md`
-11. `canon/scene-packets/packet-08-attunement-affliction.canon.md`
+- **Ending Q1 (locked):** the King's mercy plea is poetic but clear; he never bluntly says "kill me" or "end it."
+- **Ending Q2 (locked, option D):** a layered, restrained release split between the characters. Erny and Maelreth feel the mountain let go; Alina, Sorin, and Bilbo see the queen's bridge procession finish its crossing. It is a completed rite, not a reunion. This also settles the former "queen memory appearance" item.
+- Ending read-aloud is plainspoken; no stacked "not as / not as" fragments.
+- After the release, the party can recover the First Green Heart from the King's body.
 
 ---
 
 ## Recently Completed Work
 
-- Cleaned stale monster language so the King is no longer framed as an active lich-style boss.
-- Added current stat block quick reference.
-- Added Roll20 monster prep with token notes and macro text.
-- Added non-undead King rule.
-- Updated final encounter flow for obvious Druid protection on entry.
-- Updated runtime cues with Druid interception and inert King spoken-word support.
-- Added ending execution supplement.
-- Indexed new Packet 8 files in `packet-08-throneward-descent-overview.canon.md` and `canon/CANON_MANIFEST.md`.
+- **2026-10-03 — Ending Q2 locked as D** (split-witness release, procession completes its crossing, no reunion).
+- Consolidated `packet-08-ending-style-and-relic-patch.canon.md` into `packet-08-ending-execution.canon.md` (style rules, release read-alouds, salvation cues, pendant hand-off) and `packet-08-first-green-heart-artifact.canon.md` (names, canon role), then deleted the patch.
+- Removed duplicate and superseded ending text ("Not as stone. Not as thunder." cue, the "End it." plea line, second plea list) from `packet-08-final-encounter.canon.md` and `packet-08-runtime-cues.canon.md`; both now point to ending-execution.
+- The First Green Heart mythic act now has one count: 6 successes before 3 failures, DC 18 (the patch's 5-success version was removed).
+- Indexed `packet-08-image-briefs.md` in the manifest; added it and the throne-room patch to the overview's "Use with" list.
+- Earlier (ChatGPT era): non-undead King rule, stat block quick reference, Roll20 prep, obvious Druid protection on entry, playability patch, throne-room threshold patch, First Green Heart artifact.
 
 ---
 
 ## Active Checklist / Next Actions
 
-Continue with final ending polish.
+1. **Non-attuned spotlight pass (next).** Give Alina (Champion fighter, Protection style, longbow), Sorin (Hunter ranger, climbing kit), and lightly Bilbo (Four Elements monk, 45 ft speed; DM's own PC) distinct mechanical roles in the King's Chamber, beyond the generic ally-counterplay checks in `packet-08-attunement-affliction.canon.md`. Fold the result into the affliction and final-encounter files.
+2. **Contradiction cleanup** (no new design, just alignment):
+   - Main packet Beat 6, At-a-Glance, and overview spine item 6 still call the King an active boss ("All three bosses are active from the start"); the lore file calls him "still dangerous" with "grief-engine command." Align to the inert-vessel model.
+   - Beat 5 location: the main packet, monsters file, and playability patch still use a generic threshold / sealed doorway with light draining "toward the throne." Fold `packet-08-throne-room-threshold-patch.canon.md` and the playability patch's Beat 5 section into the main packet and retire both patch sections.
+   - Crystal Tremorborn HP: 85–95 in the main packet vs 75–85 elsewhere (Roll20 uses 80).
+   - Attunement affliction references "the Mourning King's grief-resonance effects," which no longer exist.
+   - First Green Heart origin: the artifact file puts the King near the source crystal before the queen's fall; the lore file says his failure began after it. Decide which is true.
+   - `canon/appendices/overall-story-arc.md` still says "a natural tremor."
+   - `packet-08-treasure-discoveries.canon.md` "Relic Use in Final Encounter" duplicates the salvation rules now in ending-execution; reduce to a pointer.
+3. **Ending Q3 — Player-facing aftermath choices:** what the party can inspect, recover, or say before leaving the King's Chamber.
+4. **Mechanical wrap-up:** remaining hazards after the release, whether Erny and Maelreth's mountain attunement ends permanently or leaves a trace, and leaving Stillpeak.
+5. **Rewards / epilogue hooks:** final discoveries, First Green Heart disposition, Cinderwatch and Stillpeak consequences.
+6. **Roll20 final setup check:** maps, tokens, beam tracker, handouts, macros.
 
-Recommended next checklist items:
+### Continuity confirmation needed from Brian
 
-1. **Mountain/spirit release after ending** — define exactly what the party sees and hears after mercy death or relic release.
-2. **Queen memory appearance** — decide whether the queen appears as memory, spirit, silhouette, or not at all. Must not become reunion/resurrection.
-3. **Player-facing aftermath choices** — what can the party inspect, recover, or say before leaving.
-4. **Mechanical wrap-up** — end attunement affliction, deactivate backlash, resolve remaining hazards.
-5. **Rewards / epilogue hooks** — final discoveries, relic aftermath, possible Cinderwatch/Stillpeak consequence notes.
-6. **Roll20 final setup check** — confirm maps, tokens, beam tracker, handouts, and macros.
-
-Start with:
-
-## Ending Q2 — What should the mountain/spirit release look like after mercy death or relic release?
-
-Suggested options:
-
-A. Quiet exhale: crystals dim, spirits bow/fade, no apparition.
-B. Queen memory: brief non-speaking image of the queen as release, not reunion.
-C. Civilizational release: many dwarven echoes stop repeating across the city.
-D. Layered: mountain exhale + spirits fade + brief queen memory, restrained and non-reunion.
-
-Recommended vote: **D**, but keep it brief and not sentimental.
+- **Soot-Black Prayer Bead:** a guaranteed Exodus Landing discovery and the strongest salvation relic, but neither `SESSION_STATE.md` nor Session 07 confirms the party has it (LL-004). Confirm before working on salvation or rewards.
 
 ---
 
-## Performance Guidance for Future Chats
+## Working Guidance for Future Sessions
 
-This handoff was created because the prior chat context became heavy and caused browser/session instability.
-
-In a fresh chat:
-
-- Load bootstrap normally.
-- Read this handoff after `canon/CANON_MANIFEST.md` if resuming Packet 8 design.
-- Prefer small targeted patches or new focused supplements.
-- Avoid large full-file rewrites unless necessary.
-- Ask one checklist question at a time.
-- Keep final responses concise.
+- Load bootstrap normally, then read this handoff after `canon/CANON_MANIFEST.md`.
+- Edit authoritative files in place. Do not add new `*-patch.canon.md` files; when a decision touches an existing patch, fold it into its authoritative file and delete it.
+- Ask one checklist question at a time, with lettered options and a recommendation.
+- After each accepted decision, update Recently Completed and the Active Checklist here.
