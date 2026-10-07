@@ -26,6 +26,7 @@ Rulings decided in prep (log as deviations; pack section A0):
 - No Stone Golem / Earth Elemental chassis traits (Magic Resistance, Slow, nonmagical-weapon immunity/resistance).
 - Either torn cloth (bridge or Beat 5) counts as a salvation relic.
 - The King is an inert boss: damageable, visibly inactive, shielded by Druid sacrifice.
+- Party leveled 7 → 8 at the table; Beat 5 and King's Chamber encounters scaled up one tier (A0.7). Softening levers used, if any:
 
 Other rulings made at the table:
 

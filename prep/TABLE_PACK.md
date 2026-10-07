@@ -6,6 +6,7 @@ Prepared 2026-10-06 for the in-person session that may close the campaign. This 
 
 - **[CANON]** text is quoted or condensed from the repo's canon files. Read-aloud in blockquotes under a [CANON] heading is verbatim. Rules text with DCs is verbatim or condensed without changing numbers.
 - **[REC]** is a recommendation from the prep session, used where canon is silent or contradictory. Brian decides.
+- **[SCALED]** is Brian's 2026-10-07 difficulty ruling (A0.7). Use these numbers over the canon baseline printed beside them.
 - **[NEW]** is net-new prose written for this session (Section F only). It is not canon and must never be cited as canon.
 - **Roll20 is authoritative** for live HP, AC, spell slots, conditions, and inventory. Nothing here overrides the sheets.
 - Brian is the human DM. Bilbo is Brian's own PC.
@@ -36,6 +37,7 @@ These are table rulings for tonight, not canon edits. Log them as deviations in 
 4. **Chassis traits removed.** Dhurak and Veyra (Stone Golem sheets) get no Magic Resistance, Slow, or immunity to nonmagical weapons. The Tremorborn (Earth Elemental sheet) gets no resistance to nonmagical weapons. These sheets supply AC, HP, and saves only.
 5. **Either cloth counts.** The bridge's Torn Procession Cloth and Beat 5's Torn White Procession Cloth are both valid salvation relics, relic-counterplay relics, and Grounded Silence factors.
 6. **The King is an inert boss.** He has a token and can take damage, looks visibly inactive, and the Druid titans sacrifice themselves so he isn't injured (C9.9).
+7. **Final encounters scaled up (2026-10-07).** The party arrives on level 7 sheets and levels to 8 at the table. Canon was balanced as "hard but fair" for level 8; tonight's Beat 5 fight and King's Chamber run one tier harder. Blocks marked **[SCALED]** replace the canon numbers; the canon baseline is kept underneath for reference. The Queen's Bridge stays canon. Softening levers are in C9.12.
 
 ## A1. Where the party actually is (table truth)
 
@@ -89,7 +91,7 @@ Canon reveals the truth in a fixed order across Chapter 8, and each item is deli
 |---|---|---|
 | C1 | Main Packet 8 Beat 6 says "All three bosses are active from the start"; the lore file calls the king "still dangerous" with "grief-engine command." The non-undead rule, quick reference, and final-encounter file make him an inert vessel. | **Decided: inert boss** (A0.6). Visibly inactive, damageable, shielded by Druid self-sacrifice. No turns, spells, legendary actions, or legendary resistance (C9.9). |
 | C2 | Beat 5 is a "generic threshold / sealed doorway" in the main packet; the throne-room patch makes it the ruined public throne room with a passage behind the throne. | **Ruined throne room.** The patch states it supersedes. |
-| C3 | Crystal Tremorborn HP: 85–95 (main) vs 75–85 (monsters, quick ref); Roll20 prep says 80. | **80 HP.** |
+| C3 | Crystal Tremorborn HP: 85–95 (main) vs 75–85 (monsters, quick ref); Roll20 prep says 80. | Canon resolution 80 HP; **tonight 110 HP [SCALED]** (A0.7). |
 | C4 | The affliction file gives Erny and Maelreth "disadvantage on saving throws against the Mourning King's grief-resonance effects," which no longer exist; one relic option grants advantage "against the king's grief-resonance." | **[REC]** The King has no effects, so that disadvantage clause never triggers. Read the relic option as "advantage on saves against beam/crystal effects until end of next round." |
 | C5 | First Green Heart origin: the artifact text says it "predates the Queen's death"; the lore says the king's failure began after the fall. | **[REC]** Both hold: the Druids found and courted the crystal before the fall; the king took it up only after. The attunement vision already shows "the King touching the pendant after the Queen's fall." |
 | C6 | Two cloths. Packet 7 "Torn Procession Cloth" (bridge, advantage once on Insight/Religion) and Packet 8 "Torn White Procession Cloth" (Beat 5, valid salvation relic). | **Decided: either cloth counts** (A0.5) for salvation, relic counterplay, and Grounded Silence. |
@@ -116,7 +118,12 @@ No timing rules (A0.2). Play at the table's pace. If the night ever has to stop 
 
 # B. Party State Snapshot
 
-Roll20 is authoritative. Sheet numbers in the repo are **level 6 snapshots** and stale.
+Roll20 is authoritative. The party arrives on **level 7 sheets** (exported 2026-10-07) and **levels to 8 at the table** before play. Sheets on file: `Erny_100726.pdf`, `Alina_100726.pdf`; others pending. Level 7 numbers below; add the level-8 changes at the table.
+
+| Character | L7 sheet | Notes |
+|---|---|---|
+| Erny | AC 18 · HP 82 · Cha +4 · spell DC 15 / +7 · slots 4×1st, 3×2nd | **Aura of Protection +4** to saves for allies within 10 ft (big against every Dex/Wis/Str save in the finale). Divine Smite (radiant), Branding/Thunderous Smite, Guiding Bolt, Bless, Shield of Faith, Aid, Warding Bond, Compelled Duel, Command. Stone's Endurance (reaction, d12 + 3). Inspiring Smite / Peerless Athlete. Carries the Tremorscope, 8 pitons, 2 rope. |
+| Alina | AC 18 · HP 63 · Str +3 | Longsword + shield (+6, 1d8+3), light crossbow (+4), longbow and 20 arrows in pack. Protection style (reaction), Second Wind, Action Surge, Improved Critical (19–20), **Remarkable Athlete** (+2 to Str/Dex/Con checks without proficiency: Athletics steadies, bowl checks). |
 
 | Character | Player | Build | Notes for tomorrow |
 |---|---|---|---|
@@ -666,9 +673,16 @@ Partial/failure phrasing [CANON]: success *"The sequence is clear: crystal, faul
 >
 > The king's chamber is close enough now that even the hallway has begun to grow teeth.
 
-**Composition:** 1 Crystal Tremorborn + 2 Crystal Shardlings. Heavily depleted party → Tremorborn only. Fresh and fast → default plus one environmental pulse at initiative 20. Never more than 3 creatures. A light segue: "should not be tuned to down a PC."
+**[SCALED] Tonight's threshold fight (A0.7) — run these numbers:**
+- **Composition:** 1 Crystal Tremorborn + 2 Crystal Shardlings (canon's 3-creature cap holds).
+- **Crystal Tremorborn:** **HP 110**, AC 17 (Earth Elemental sheet, no chassis traits). **Multiattack: two Crystal Slams** (canon's "deliberately escalating" option), +8 to hit, 13 (2d8 + 4) each. Only the first hit each turn forces the save, now **DC 14 Constitution** (crystal-rattled, or prone). **Fault Pulse** active: Recharge 5–6, 20-foot line, **DC 15 Dexterity**, 14 (4d6) and prone; half, not prone, on a success.
+- **Crystal Shardlings:** Magma Mephit sheets; **use the Magma Mephit death burst** (canon's "party is fresh" option, since they had a short rest).
+- **Environmental pulse at initiative 20 each round** (canon's fresh-party option, using the canon Crystal Pulse Line numbers): one irregular 15-foot crystal scar flares; creatures on it make **DC 14 Dexterity** or take 7 (2d6) force/psychic.
+- Still a segue. If a PC drops, skip the next pulse.
 
-**Crystal Tremorborn** — Earth Elemental chassis for AC/saves only. **HP 80.** No Earth Elemental multiattack.
+**Canon baseline (reference only):** 1 Crystal Tremorborn + 2 Crystal Shardlings. Heavily depleted party → Tremorborn only. Fresh and fast → default plus one environmental pulse at initiative 20. Never more than 3 creatures. A light segue: "should not be tuned to down a PC."
+
+**Crystal Tremorborn (canon baseline; see [SCALED] above)** — Earth Elemental chassis for AC/saves only. **HP 80.** No Earth Elemental multiattack.
 - **Tremor-Body.** The first time it takes damage each round, creatures within 5 feet make a **DC 13 Dexterity saving throw** or the ground within 5 feet of it is difficult terrain until the start of its next turn.
 - **Crystal Slam.** Earth Elemental attack bonus. *Hit:* 13 (2d8 + 4) bludgeoning/piercing; **DC 13 Constitution saving throw** or **crystal-rattled** until end of its next turn (no reactions; first 10 feet of movement counts as difficult terrain). Simpler: failed save = prone.
 - **Fault Pulse (Recharge 5–6, optional).** 20-foot line, 5 feet wide, **DC 14 Dexterity**. Fail: 10 (3d6) bludgeoning/piercing and prone. Success: half, not prone. Line becomes difficult terrain.
@@ -730,7 +744,7 @@ Partial/failure phrasing [CANON]: success *"The sequence is clear: crystal, faul
 
 ## C9. Beat 6 — The King's Chamber (final encounter)
 
-**Roll20:** `FinalArena.png` for the reveal, then map **`arena.png`**. Tokens: Dhurak (Stone Golem sheet, **180 HP**, AC ~17), Veyra (Stone Golem sheet, **150 HP**, AC ~17), the Mourning King (boss token on a Lich sheet for AC, HP, and saves only; [REC] 135 HP; never run as a lich). Visible tracker: *Dhurak beam ACTIVE/BROKEN · Veyra beam ACTIVE/BROKEN*. Macros: Attuned Offense Backlash, Bowl Slope (G3).
+**Roll20:** `FinalArena.png` for the reveal, then map **`arena.png`**. Tokens: Dhurak (Stone Golem sheet, **240 HP, AC 18 [SCALED]**), Veyra (Stone Golem sheet, **200 HP, AC 17 [SCALED]**), the Mourning King (boss token on a Lich sheet for AC, HP, and saves only; [REC] 135 HP; never run as a lich). Visible tracker: *Dhurak beam ACTIVE/BROKEN · Veyra beam ACTIVE/BROKEN*. Macros: Attuned Offense Backlash, Bowl Slope (G3).
 
 ### C9.1 What the room is [CANON]
 
@@ -830,6 +844,7 @@ On a success: they resist and may sense one useful tactical truth about the aren
 - Creatures on slopes may also check for Bowl-Slope Slide.
 - **One beam active:** may reduce to 3 (1d6) or limit to exposed areas. **Both broken:** ends.
 - Optional escalation only if the party is cruising: 10 (3d6) and a blinding flash (failed save → disadvantage on the next attack roll). Never when several PCs are low.
+- **[SCALED] Tonight:** with **both beams active**, backlash is **10 (3d6)** and the blinding flash applies on a failed save. With **one beam active**, it's the canon full version: **7 (2d6)**, no flash. Both broken: ends. Still once per round.
 
 Cue [CANON]: *"The moment your attack bites into the engine, every crystal in the chamber notices. The geode ignites. For one instant there is no room, no throne, no floor — only white-green light. Then the mountain shakes, and shards begin to fall."*
 
@@ -853,7 +868,16 @@ These use only existing canon checks and features. Offer them; don't script them
 - **Bilbo — the runner (DM PC, light touch).** 45 ft speed: carries the cloth or lantern charm to whichever attuned PC is failing, then hands the spotlight back. Stunning Strike exists; each Druid has 1 legendary resistance for exactly this; don't let Bilbo solve the fight.
 - **Erny and Maelreth's best play** is a real choice: hit a Druid and pay the backlash, or hold offense for Grounded Silence and let the others break the first beam. Once one beam breaks, the cost drops and they should go loud.
 
-### C9.7 Dhurak Stonevein, the Fault-Tender [CANON]
+### C9.7 Dhurak Stonevein, the Fault-Tender
+
+**[SCALED] Tonight's numbers (A0.7):**
+- **HP 240 · AC 18 · Legendary Resistance 2/day.** Stone Golem sheet for saves only; no chassis traits.
+- **Multiattack:** two **Stone Druid Strikes**, **+10** to hit, **19 (2d8 + 6) bludgeoning/piercing plus 3 (1d6) force** each. The first hit each turn forces a **DC 16 Strength** save or the target is pushed 10 feet downhill, into a crack, or into a beam lane.
+- **Fault-Tender Stomp (Recharge 5–6):** 30-foot line or 15-foot cone, **DC 17 Dexterity**, **28 (8d6)** bludgeoning/piercing and prone; half, not prone, on a success. Area becomes difficult terrain; slope checks may follow.
+- **Fault Resonance (reaction, 1/round, while his beam is active):** **DC 15 Dexterity**; otherwise as canon.
+- **Bridgefall Pull is active:** bonus action, Recharge 5–6, one creature within 60 feet, **DC 16 Strength or Wisdom**; on a failure, pulled 10 feet toward a crack, beam lane, slope, or hazard and loses reactions until the start of its next turn.
+
+**Canon baseline (reference only):**
 
 Stone Golem chassis for AC/HP/saves only; no Magic Resistance, Slow, or weapon immunity (A0.4). **HP ~180, AC ~17. Legendary Resistance 1/day** (fault-lines brace him; the beam locks him back into place). **No multiattack, no druid spell list** (the beam consumes his concentration; destroying him is the only way to break it). Beam: while Dhurak lives, one beam stays active.
 
@@ -863,7 +887,16 @@ Stone Golem chassis for AC/HP/saves only; no Magic Resistance, Slow, or weapon i
 - **Bridgefall Pull (optional).** One creature within 60 feet makes **DC 15 Strength or Wisdom**. Fail: pulled 10 feet toward a crack, beam lane, slope, or hazardous crystal line and loses reactions until the start of its next turn.
 - **Tactics:** move the ground under front-liners; punish clusters with Stomp; make the high ground dangerous; target Erny or Maelreth when over-attunement leaves them open. He embodies the tremor truth.
 
-### C9.8 Veyra Deeproot, the Root-Seer [CANON]
+### C9.8 Veyra Deeproot, the Root-Seer
+
+**[SCALED] Tonight's numbers (A0.7):**
+- **HP 200 · AC 17 · Legendary Resistance 2/day.** Stone Golem sheet for saves only; no chassis traits.
+- **Multiattack:** two **Crystal-Root Lashes** (ranged or melee spell attack within 60 feet), **+8** to hit, **15 (2d10 + 4) piercing/psychic** each. Each hit reduces the target's speed by 10 feet until the end of its next turn.
+- **Crystal Root Snare (Recharge 5–6):** up to three creatures within 60 feet, **DC 16 Strength**; on a failure, restrained and **14 (4d6)** piercing/psychic; on a success, speed −10. Escape: action, **DC 16 Athletics or Acrobatics**.
+- **Root Preservation (reaction, 1/round, while her beam is active):** **DC 15 Strength**; otherwise as canon.
+- **Green Beam Reinforcement:** as canon (reduce damage reaching the King by 15, or **DC 16 Wisdom** or 7 (2d6) psychic). Rarely matters, since interception catches nearly everything.
+
+**Canon baseline (reference only):**
 
 Stone Golem chassis for AC/HP/saves only; no Magic Resistance, Slow, or weapon immunity (A0.4). **HP ~150, AC ~17. Legendary Resistance 1/day** (roots tighten; the beam preserves her shape). No multiattack, no spell list. Beam: while Veyra lives, one beam stays active.
 
@@ -919,6 +952,8 @@ While any beam is active he cannot move, takes **no turns**, has **0 legendary a
 
 Mechanics: Crisis DC 15 → 13; psychic 2d6 → 1d6; backlash weakens/discretionary; only the survivor intercepts; absorption drops to 15. The survivor becomes more desperate and single-minded.
 
+**[SCALED] Desperation:** when the first beam breaks, the surviving Druid **immediately recharges its signature power** (Stomp or Root Snare). For the rest of the fight it can use its reaction pulse every round, even in a round when it used its signature power.
+
 - **Middle rounds — keep it moving.** Make Druid damage matter; use Grounded Silence when earned; remind them the beams are the logic; soften optional hazards if they're struggling. **Don't** add minions, overuse slide checks, trigger backlash per Eldritch Blast beam, run the Druids as golem multiattack bags, or give the King a boss phase.
 - **Second beam breaks — stop the combat engine immediately.**
 
@@ -939,8 +974,20 @@ Interception, backlash, and the Crisis all end; absorption ends; go to **D1, the
 - **Crystal Root Snare (terrain):** difficult terrain; **DC 14 Strength or Acrobatics** to escape if restrained.
 - **Falling Shards:** initiative 20, one 10-foot area under the jagged ceiling becomes dangerous terrain.
 - Use only if the party is overwhelming the bosses.
+- **[SCALED] Tonight, Falling Shards is on from round 1.** At initiative 20, pick one 10-foot area under the jagged ceiling, preferably where the party is clustered or holding high ground. Until the next initiative 20, a creature that starts its turn there or enters it makes a **DC 14 Dexterity** save, taking 7 (2d6) piercing on a failure or half on a success. The other hazards stay optional.
 
-### C9.12 Final-arena voice and motive cards
+### C9.12 [SCALED] Softening levers (use in this order)
+
+If the finale tips from "hard" toward a wipe:
+1. Turn off Falling Shards.
+2. Drop backlash back to canon (7 (2d6) with both beams, no flash).
+3. Turn off Desperation.
+4. Return one Druid's Multiattack to a single attack.
+5. Last resort: a Druid spends a turn shielding the King instead of attacking. It's in character; it was always protecting him first.
+
+Never reduce the beam logic or interception; that's the fight's meaning.
+
+### C9.13 Final-arena voice and motive cards
 
 | Who | Voice | Wants | Never |
 |---|---|---|---|
@@ -1539,6 +1586,8 @@ Read in order. Skip any piece the table didn't earn. Each character's part is a 
 | 16 | Fault-Tender Stomp Dex · First Green Heart Arcana/Religion/Nature |
 | 18 | **Relic salvation (Religion/Persuasion/Arcana)** · Green Heart attunement Wis · Temptation Wis · Insight on the Green Heart · Mythic skill challenge · Green Heart Pulse Con |
 
+**[SCALED] DCs tonight:** Tremorborn Slam save Con 14 · Fault Pulse Dex 15 · Dhurak Strike push Str 16 · Fault-Tender Stomp Dex 17 · Fault Resonance Dex 15 · Bridgefall Pull Str/Wis 16 · Root Snare Str 16 / escape 16 · Root Preservation Str 15 · Beam Reinforcement Wis 16 · Falling Shards Dex 14.
+
 ## G2. Roll20 asset order
 
 All files live in `C:\Users\Houdi\OneDrive\Documents\Stillpeaks Grieving Heart\`.
@@ -1564,8 +1613,8 @@ TREMOR MEMORY (bridge): 0 / 1 / 2 / [3 = event, reset]
 
 ```text
 BEAMS: Dhurak ACTIVE/BROKEN · Veyra ACTIVE/BROKEN
-Both active: King absorbs first 30 dmg/round; Crisis DC15 (2d6); full backlash.
-One active: absorbs 15; only survivor intercepts; Crisis DC13 (1d6); backlash weak/discretionary.
+Both active: King absorbs first 30 dmg/round; Crisis DC15 (2d6); backlash 3d6 + flash [SCALED].
+One active: absorbs 15; only survivor intercepts; Crisis DC13 (1d6); backlash 2d6 [SCALED]; survivor Desperation [SCALED].
 Both broken: combat ends → clarity window.
 ```
 
@@ -1580,7 +1629,7 @@ Bowl Slope — Lower slopes difficult terrain. Upper slopes difficult + unstable
 ## G4. Before the first roll (checklist)
 
 - [ ] Ask the table what they carry: Resonance Chalk? Anchor Ring? Anything from the Witness Halls? An old prayer bead from the Landing? (The bead is placed at C2a either way.)
-- [ ] Confirm HP and resources in Roll20 (the sheets in the repo are level 6).
+- [ ] Level everyone to 8 in Roll20 before the first roll; confirm HP and resources there.
 - [ ] Load the bridge map; place The Hollow Below under the span, Shardlings hidden on the far side.
-- [ ] Create the beam tracker and macros; set Tremorborn HP to 80, Dhurak 180, Veyra 150, King token 135 ([REC]). Strip Stone Golem and Earth Elemental traits from the sheets (A0.4).
+- [ ] Create the beam tracker and macros; set **[SCALED]** Tremorborn 110 HP, Dhurak 240 HP / AC 18, Veyra 200 HP / AC 17, King token 135 ([REC]); add the Multiattack macros. Strip Stone Golem and Earth Elemental traits from the sheets (A0.4).
 - [ ] Preview `EndingWithQueenSpirit.png` and `lastchamberswithkey.png`.
